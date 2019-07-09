@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <bthDate>
+    19690918
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이후삼
+   </empNm>
+   <engNm>
+    LEE HU SAM
+   </engNm>
+   <hjNm>
+    李厚三
+   </hjNm>
+   <origNm>
+    충북 제천시단양군
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    남기환, 박현주
+   </secretary>
+   <secretary2>
+    정희정, 어청식, 김용태, 전승관
+   </secretary2>
+   <shrtNm>
+    국토교통위원회
+   </shrtNm>
+   <staff>
+    이보환, 조성호
+   </staff>
+  </item>
+ </body>
+</response>

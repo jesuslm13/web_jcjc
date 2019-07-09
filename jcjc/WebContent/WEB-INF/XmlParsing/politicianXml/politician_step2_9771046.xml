@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    smart_kimst@naver.com
+   </assemEmail>
+   <assemTel>
+    02-784-6651
+   </assemTel>
+   <bthDate>
+    19540724
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김성태
+   </empNm>
+   <engNm>
+    KIM SEANGTAE
+   </engNm>
+   <hbbyCd>
+    검도
+   </hbbyCd>
+   <hjNm>
+    金成泰
+   </hjNm>
+   <memTitle>
+    학력 1974년 경남고등학교 졸업 1982년 서울대학교 사범대 영어전공(문학사) 1985년 美 위스콘신 메디슨 대학교 정치학 석사 1989년 美 조지아대학교 행정학 박사 주요경력 제20대 자유한국당 비례대표 국회의원 국회 과학기술정보방송통신위원회 간사 국회 융합혁신경제포럼 대표의원 자유한국당 중앙위원회 정보분과위원장 자유한국당 정책위 부의장(前) 자유한국당 강남을 당협위원장(前) 자유한국당 당대표 지역특별보좌역(서울)(前) 2017 ITU 텔레콤월드 자문위원장(前) 자유한국당 송파을 당협위원장(前) 자유한국당 국민공감전략위원장(前) 한국정보화진흥원(NIA) 원장(前) 충남대학교·성균관대학교 교수(前) 성균관대학교 행정대학원· 국정전문대학원 원장(前) 국가미래정책포럼 이사장(前) 국가미래준비포럼 의장(前) UN ITU-UNESCO 고위급 브로드밴드 위원회 상임위원(前)
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    안준모, 최광림
+   </secretary>
+   <secretary2>
+    고영은, 권동현, 김윤미, 신지홍
+   </secretary2>
+   <shrtNm>
+    4차 산업혁명 특별위원회,과학기술정보방송통신위원회
+   </shrtNm>
+   <staff>
+    박형진, 양용석
+   </staff>
+  </item>
+ </body>
+</response>

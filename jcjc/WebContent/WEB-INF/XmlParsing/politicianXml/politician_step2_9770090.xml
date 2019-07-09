@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    pbs2100@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://www.pbs21.or.kr
+   </assemHomep>
+   <assemTel>
+    02-788-2306
+   </assemTel>
+   <bthDate>
+    19520125
+   </bthDate>
+   <electionNum>
+    16,17,18,19,20대
+   </electionNum>
+   <empNm>
+    박병석
+   </empNm>
+   <engNm>
+    PARK BYEONGSEUG
+   </engNm>
+   <examCd>
+    중국어
+   </examCd>
+   <hbbyCd>
+    영화관람
+   </hbbyCd>
+   <hjNm>
+    朴炳錫
+   </hjNm>
+   <memTitle>
+    대전고, 성균관대법대졸, 한양대신방과박사과정, 워싱턴대초빙연구원, 중앙일보홍콩특파원부국장겸경제부장, 서울시정무부시장, 민주당원내부총무·총재특보, 민주당 대변인, 예산결산특별위원회 간사 열린우리당 행복중심복합도시 건설특별위원장 정무위원회 위원장 국회부의장(19대 전반기)
+   </memTitle>
+   <origNm>
+    대전 서구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    5선제20대
+   </reeleGbnNm>
+   <secretary>
+    강창희, 오인숙
+   </secretary>
+   <secretary2>
+    최명식, 오낙연, 김혜리, 유민선
+   </secretary2>
+   <shrtNm>
+    외교통일위원회,정치개혁 특별위원회
+   </shrtNm>
+   <staff>
+    송석근, 이용수
+   </staff>
+  </item>
+ </body>
+</response>

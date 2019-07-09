@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kim.se.yeon@na.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://www.ksy.or.kr
+   </assemHomep>
+   <assemTel>
+    02-788-2839
+   </assemTel>
+   <bthDate>
+    19720715
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    김세연
+   </empNm>
+   <engNm>
+    KIM SEYEON
+   </engNm>
+   <hbbyCd>
+    영화감상
+   </hbbyCd>
+   <hjNm>
+    金世淵
+   </hjNm>
+   <memTitle>
+    서울대학교 사회과학대학 국제경제학과 졸업 새누리당 제1사무부총장 새누리당 (前)비상대책위원 경제민주화실천모임 간사 (前)국회교육문화체육관광위원회 간사 국회동북아역사왜곡대책특별위원회 간사 (前)새누리당 원내부대표
+   </memTitle>
+   <origNm>
+    부산 금정구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    신종일, 조진욱
+   </secretary>
+   <secretary2>
+    김명기, 서광수, 윤영종, 박성분
+   </secretary2>
+   <shrtNm>
+    4차 산업혁명 특별위원회,보건복지위원회
+   </shrtNm>
+   <staff>
+    백한웅, 심중선
+   </staff>
+  </item>
+ </body>
+</response>

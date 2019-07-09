@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-3011
+   </assemTel>
+   <bthDate>
+    19630516
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    송언석
+   </empNm>
+   <engNm>
+    SONG EON SEOG
+   </engNm>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    宋彦錫
+   </hjNm>
+   <memTitle>
+    1963년 5월 16일생 경상북도 김천시 구성면 미평리 [학력] ㆍ뉴욕주립대학교 대학원 경제학 박사 ㆍ뉴욕주립대학교 대학원 경제학 석사 ㆍ서울대학교 법학과 학사 ㆍ경북고등학교 ㆍ김천 석천중학교 ㆍ김천 중앙초등학교 [경력] ㆍ제20대 국회의원(경북 김천시) ㆍ자유한국당 경북도당 김천시 당협위원장 ㆍ(전) 국민대학교 특임교수 ㆍ(전) 기획재정부 제2차관 ㆍ(전) 기획재정부 예산실장 ㆍ(전) 기획재정부 예산실 예산총괄심의관 ㆍ(전) 기획재정부 예산실 행정예산심의관 ㆍ(전) 기획재정부 예산실 경제예산심의관 ㆍ(전) 기획재정부 예산실 행정예산심의관 ㆍ행정고시 제29회
+   </memTitle>
+   <origNm>
+    경북 김천시
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    양창열, 이창훈
+   </secretary>
+   <secretary2>
+    황현성, 김창배, 김윤희, 박태현
+   </secretary2>
+   <shrtNm>
+    국토교통위원회,국회운영위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    강동준, 박찬윤
+   </staff>
+  </item>
+ </body>
+</response>

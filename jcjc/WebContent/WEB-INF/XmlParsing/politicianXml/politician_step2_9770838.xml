@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    hanam432@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.lhj21.com
+   </assemHomep>
+   <assemTel>
+    02-784-8071
+   </assemTel>
+   <bthDate>
+    19490425
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    이현재
+   </empNm>
+   <engNm>
+    LEE HYUNJAE
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    李賢在
+   </hjNm>
+   <memTitle>
+    청주고, 연세대 전자공학, 서울대 행정대학원, USC 행정학 석사, 건국대 경영학 박사 前 청와대 산업정책비서관 前 한나라당 제2사무부총장 前 제19대 국회의원 (경기 하남시 / 새누리당) 前 새누리당 원내부대표 前 국회 산업통상자원회 위원, 국회 운영위원회 위원, 국회 예산결산특별위원회 위원 前 제18대 대통령직 인수위원회 경제2분과 간사 前 새누리당 손톱 밑 가시뽑기 특별위원회 부위원장 前 새누리당 경제혁신특별위원회 공기업개혁분과 위원장 前 새누리당 정책위원회 부의장 前 새누리당 중소기업소상공인특별위원회 부위원장 前 새누리당 정책위원회 민생119본부 부본부장 現 제20대 국회의원 (경기 하남시 / 자유한국당) 前 20대 국회 기획재정위원회 간사 (새누리당) 現 20대 국회 기획재정위원 前 새누리당 기획재정 정책조정위원장 前 국회 기획재정위원회 조세소위원회 소위원장 前 국회 기획재정위원회 경제재정소위원회 위원 現 국회 민생경제특별위원회 위원 前 전기요금 개편을 위한 당정 태스크포스 TF 위원 前 새누리당 중소, 중견기업 특위 위원장 前 새누리당 정책위의장 前 새누리당 비상대책위원 前 자유한국당 정책위의장 前 자유한국당 비상대책위원 前 자유한국당 최고위원 
+   </memTitle>
+   <origNm>
+    경기 하남시
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    배효정, 김성대
+   </secretary>
+   <secretary2>
+    고영환, 최정석, 조재원
+   </secretary2>
+   <shrtNm>
+    4차 산업혁명 특별위원회,공공부문 채용비리 의혹과 관련된 국정조사특별위원회,국토교통위원회
+   </shrtNm>
+   <staff>
+    김영재, 이동규
+   </staff>
+  </item>
+ </body>
+</response>

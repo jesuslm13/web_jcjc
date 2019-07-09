@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kook4616@naver.com
+   </assemEmail>
+   <assemTel>
+    02-784-9340
+   </assemTel>
+   <bthDate>
+    19490201
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    문진국
+   </empNm>
+   <engNm>
+    MOON JINKOOK
+   </engNm>
+   <hjNm>
+    文鎭國
+   </hjNm>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김성은, 조기봉
+   </secretary>
+   <secretary2>
+    최희연, 김보혜, 남수용
+   </secretary2>
+   <shrtNm>
+    환경노동위원회
+   </shrtNm>
+   <staff>
+    한길완, 박균
+   </staff>
+  </item>
+ </body>
+</response>

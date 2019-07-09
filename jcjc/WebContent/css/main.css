@@ -1,0 +1,190 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: NanumSquareR;
+    src: url(../font/NanumSquareR.woff) format('woff');
+}
+
+@font-face {
+    font-family: NanumSquareL;
+    src: url(../font/NanumSquareL.woff) format('woff');
+}
+
+@font-face {
+    font-family: NanumSquareB;
+    src: url(../font/NanumSquareB.woff) format('woff');
+}
+
+
+.fluid {
+	height:100%;
+	overflow: hidden;
+}
+
+body {
+	padding-top: 7em;
+}
+
+h1, h2, h3, h4, h5, p {
+    font-family: NanumSquareR, sans-serif;
+    font-weight: 300;
+}
+
+.wrapper {
+    display: table;
+}
+
+.content {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+.red {
+    background: #fcc;
+    border: #eaa solid 4px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.title_row {
+    margin-bottom: 40px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    /* max-width: 500px; */
+}
+
+#intro_section {
+    padding: 80px 0;
+    border-top: 1px solid #eee;
+}
+
+#intro_section .title {
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+
+#intro_section .desc {
+    margin-top: 30px;
+}
+
+#desc_section .left_section{
+    background: url('../img/giraffe.jpg');
+    background-size: cover;
+}
+
+#desc_section .describe {
+    padding: 0 30px;
+}
+
+#desc_section .right_section {
+    padding: 150px 0;
+}
+
+#card_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-top: 1px solid #ddd;
+}
+
+#card_section {
+    background: #eee;
+}
+
+#top_navbar {
+    background: rgba(20,20,20,0.9);
+}
+
+#top_navbar-nav > li > a {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#logo {
+    text-align: center;
+    display: inline;
+}
+
+#section1 {
+    padding-top: 100px;
+}
+
+.pet_image {
+    width: 100%;
+}
+
+
+.fa-file {
+    font-size: 10px;
+}
+
+#contact {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background: url("../img/dog_cat_dark.jpg");
+    background-size: cover;
+    color: #fff;
+}
+
+#contact .title_row{
+    margin-bottom: 30px;
+}
+
+#contact  .form-control {
+    margin-bottom: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
+}
+
+#contact input::placeholder, #contact textarea::placeholder { 
+/* Chrome, Firefox, Opera, Safari 10.1+ */ 
+        color: #bbb;
+}
+
+
+
+/****** modal ******/
+
+.modal-body {
+    padding-top: 40px;
+}
+
+.modal-body img {
+    width: 100%;
+}
+
+.modal-body .input-group {
+    margin-bottom: 30px;
+}
+
+.modal-footer {
+    padding-bottom: 20px;
+}
+
+.modal-body, .modal-footer {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+footer {
+    padding: 100px;
+    background: #333;
+    color: #777;
+}
+
+.text-small {
+	font-size: 12px;
+}
+
+.text-gray {
+	color: #9CA1A6;
+}

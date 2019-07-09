@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    nisoon@na.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://www.nisoon.co.kr 
+   </assemHomep>
+   <assemTel>
+    02-784-5980
+   </assemTel>
+   <bthDate>
+    19581105
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    남인순
+   </empNm>
+   <engNm>
+    NAM INSOON
+   </engNm>
+   <hbbyCd>
+    명상
+   </hbbyCd>
+   <hjNm>
+    南仁順
+   </hjNm>
+   <memTitle>
+    (현) 20대 국회의원(국회 여성가족위원장ㆍ보건복지위원) (현) 국회 저출산ㆍ고령화대책 특별위원회 위원 19대 국회의원(비례대표) 민주통합당 최고위원 새정치민주연합 전국여성위원장 새정치민주연합 대외협력위원장 더불어민주당 보육특별위원장 19대 국회 아동ㆍ여성대상 성폭력 대책 특별위원회 간사 한국여성단체연합 상임대표 시민사회단체연대회의 공동대표 대통령 직속 저출산ㆍ고령사회위원회 위원 국민고충처리위원회 비상임위원 
+   </memTitle>
+   <origNm>
+    서울 송파구병
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    김영지, 김평수
+   </secretary>
+   <secretary2>
+    강성현, 김잔디, 이미소, 이하나, 서지현
+   </secretary2>
+   <shrtNm>
+    보건복지위원회
+   </shrtNm>
+   <staff>
+    김봉겸, 김은경
+   </staff>
+  </item>
+ </body>
+</response>

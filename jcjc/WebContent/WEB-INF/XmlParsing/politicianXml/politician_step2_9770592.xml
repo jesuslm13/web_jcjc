@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    wonyoochul@daum.net
+   </assemEmail>
+   <assemHomep>
+    http://www.won21.or.kr
+   </assemHomep>
+   <assemTel>
+    02-784-4441
+   </assemTel>
+   <bthDate>
+    19620926
+   </bthDate>
+   <electionNum>
+    15,16,18,19,20대
+   </electionNum>
+   <empNm>
+    원유철
+   </empNm>
+   <engNm>
+    WON YOOCHUL
+   </engNm>
+   <examCd>
+    바둑
+   </examCd>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    元裕哲
+   </hjNm>
+   <memTitle>
+    - 제15,16,18,19, 20대 국회의원 (5선) - 제3대 경기도의회 의원(최연소, 만28세) - 신한국당 부대변인 - 국회 행정자치위원회 간사, 정치개혁특별위원회 간사 - 국회 지방자치포럼21 회장 - 아시아, 태평양의회포럼(APPF)이사, 반부패국회의원포럼 감사 - 한나라당 제1정책조정위원장 - 스탠포드대 후버연구소 객원연구원 - 경기도 정무부지사 - 푸른경기21 공동대표 - 한나라당 경기도당 위원장 - 국회 독도영토수호대책특별위원회 위원장 - 한-불가리아 의원친선협회 회장 - 국회 국방위원장 - 새누리당 재외국민위원장 - 새누리당 북핵안보전략특별위원장 - 새누리당 정책위의장 - 국회 지방자치발전특별위원장 - 통일을 여는 국회의원 모임 대표 - 한-호주 의원친선협회 회장 - 새누리당 원내대표 - 새누리당 대표최고위원 권한대행 - 국회 기우회 회장 - 한국아동인구환경의원연맹(CPE) 회장
+   </memTitle>
+   <origNm>
+    경기 평택시갑
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    5선제20대
+   </reeleGbnNm>
+   <secretary>
+    강민구, 유기성
+   </secretary>
+   <secretary2>
+    조병수, 박기태, 원성실, 이형규
+   </secretary2>
+   <shrtNm>
+    외교통일위원회
+   </shrtNm>
+   <staff>
+    황규태, 이철호
+   </staff>
+  </item>
+ </body>
+</response>

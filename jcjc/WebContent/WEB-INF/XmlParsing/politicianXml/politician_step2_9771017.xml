@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemHomep>
+    http://blog.naver.com/lawanhoyoung
+   </assemHomep>
+   <assemTel>
+    02-784-9751
+   </assemTel>
+   <bthDate>
+    19651011
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    안호영
+   </empNm>
+   <engNm>
+    AN HOYOUNG
+   </engNm>
+   <hjNm>
+    安浩永
+   </hjNm>
+   <memTitle>
+    [학력] 동향 중학교 전라 고등학교 연세 대학교 법학과 전북 대학교 대학원 법학과 박사수료 [약력] 20대 국회 국토교통위원회 위원 20대 국회 예산결산특별위원회 위원 예산안등 조정 소위원회 위원 20대 국회 의원(완주군,진안군,무주군,장수군) 더불어민주당 정책위원회 부의장 더불어민주당 적폐청산위원회 위원(국토위) 더불어민주당 10대 국정과제 부동산안정 및서민주거복지 TF 간사 더불어민주당 호남특별위원회 위원 더불어민주당 법률위원장(전) 더불어민주당 원내부대표(전) 법무법인 백제 대표변호사(전) 국민농업전북포럼 공동대표(전) 민주사회를위한 변호사모임 전주전북지부장(전) 진안군, 무주군, 전주시 고문변호사(전) 전북겨레하나 공동대표 및 후원이사회장(전) 진안YMCA 주민권익센터 단장(전) 참여자치 전북시민연대 공동대표(전) 전주여성의전화 후원이사회 이사장(전)
+   </memTitle>
+   <origNm>
+    전북 완주군진안군무주군장수군
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김한호, 오상윤
+   </secretary>
+   <secretary2>
+    심부건, 강태우, 백두산
+   </secretary2>
+   <shrtNm>
+    국토교통위원회,사법개혁 특별위원회
+   </shrtNm>
+   <staff>
+    김장권, 송봉빈
+   </staff>
+  </item>
+ </body>
+</response>

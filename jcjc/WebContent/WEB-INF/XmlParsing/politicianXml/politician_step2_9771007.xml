@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    gohoonsik@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/kanghunsik
+   </assemHomep>
+   <assemTel>
+    02-784-1045~1047
+   </assemTel>
+   <bthDate>
+    19731024
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    강훈식
+   </empNm>
+   <engNm>
+    KANG HOONSIK
+   </engNm>
+   <hjNm>
+    姜勳植
+   </hjNm>
+   <memTitle>
+    - 국회 국토교통위원회 위원 (현) - 더불어민주당 전략기획위원장 (현) - 국회 아동·여성·인권정책포럼 연구책임위원(현) - 국회 한반도경제전략연구회 위원 (현) - 국회 미세먼지대책특별위원회 위원(전) - 국회 운영위원회 위원 (전) - 더불어민주당 원내대변인 (전) - 동국대언론정보대학원 신문방송학 겸임교수(전) - 뉴욕주립대학교 한국학연구소 객원연구원 (전) - 건국대학교 총학생회장 (전) - 건국대 경영학 학사 (전) [충남 아산 지역사무실] 충남 아산시 배방읍 배방로 22 삼영프라자 601호 041-548-5245 
+   </memTitle>
+   <origNm>
+    충남 아산시을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    신재동,정기조
+   </secretary>
+   <secretary2>
+    김예리,정언주,김민준,한민금,김미성
+   </secretary2>
+   <shrtNm>
+    4차 산업혁명 특별위원회,국토교통위원회
+   </shrtNm>
+   <staff>
+    김영근,김동환
+   </staff>
+  </item>
+ </body>
+</response>

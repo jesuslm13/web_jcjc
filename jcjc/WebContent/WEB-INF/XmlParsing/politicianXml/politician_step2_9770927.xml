@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemHomep>
+    http://blog.naver.com/gidongmin
+   </assemHomep>
+   <assemTel>
+    02-784-3181
+   </assemTel>
+   <bthDate>
+    19660223
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    기동민
+   </empNm>
+   <engNm>
+    KI DONGMIN
+   </engNm>
+   <hjNm>
+    奇東旻
+   </hjNm>
+   <memTitle>
+    -국회 보건복지위원회 위원(현) -국회 남북관계개선특별위원회 위원(현) -더불어민주당 정책위원회 부의장(현) -더불어민주당 의원 정치행동그룹 더좋은미래 운영간사(현) -김대중 대통령 비서실 정무수석비서관실 보좌관 -김근태 보건복지부장관 정책보좌관 -국회 정책연구위원(2급) -박원순 서울시장후보 비서실장 -서울특별시 정무수석비서관 -서울특별시 정무부시장 -성균관대학교 초빙교수 -더불어민주당 원내대변인 -국회 운영위원회 위원 -문재인 후보 수행실장 -광주 인성고 졸업 -성균관대학교 신문방송학과 졸업 -성균관대학교 언론정보대학원 졸업(언론학 석사) -육군병장 만기제대 -성균관대학교 총학생회장 
+   </memTitle>
+   <origNm>
+    서울 성북구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    문옥주, 이지백
+   </secretary>
+   <secretary2>
+    이유정, 이승철, 윤하은, 박찬호
+   </secretary2>
+   <shrtNm>
+    보건복지위원회,정치개혁 특별위원회
+   </shrtNm>
+   <staff>
+    김동현, 김형식
+   </staff>
+  </item>
+ </body>
+</response>

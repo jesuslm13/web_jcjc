@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kssong800518@daum.net
+   </assemEmail>
+   <assemHomep>
+    https://blog.naver.com/kssong3928
+   </assemHomep>
+   <assemTel>
+    02-784-5750
+   </assemTel>
+   <bthDate>
+    19661010
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    송갑석
+   </empNm>
+   <engNm>
+    SONG GAB SEOK
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    宋甲錫
+   </hjNm>
+   <memTitle>
+    [ 출생 ] - 전남 고흥 출생(1966) [ 학력 ] - 광주 광덕고등학교 졸업 - 전남대학교 경영대학 졸업 [ 경력 ] 전) 전남대학교 총학생회 회장 전) 전대협 4기 의장 민주화 운동으로 5년 2개월 옥고 (만기출소) 전) 열린우리당 중앙위원 전) 미국 남가주대학교(USC) 객원연구원 전) 대통령선거 대통합민주신당 청년위원장 전) 민화협 청년위원장 전) 한국 공공데이터센터 소장 전) 전남과학대학 객원교수 전) 더불어민주당 정책위원회 부의장 전) 문재인 대통령 후보 비서실 부실장 현) 노무현 재단 광주 운영위원 현) (사) 광주학교 교장 현) 더불어민주당 을지로위원회 상임운영위원 현) 더불어민주당 광주광역시당위원장
+   </memTitle>
+   <origNm>
+    광주 서구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    신윤수, 박현숙
+   </secretary>
+   <secretary2>
+    최유리, 박광근, 임수민, 김은민, 이명원
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회,예산결산특별위원회,윤리특별위원회
+   </shrtNm>
+   <staff>
+    서민호, 유영용
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    jpyoon605@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/jpyoon605
+   </assemHomep>
+   <assemTel>
+    02-784-7141
+   </assemTel>
+   <bthDate>
+    19531020
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    윤종필
+   </empNm>
+   <engNm>
+    YOON JONGPIL
+   </engNm>
+   <hjNm>
+    尹鍾畢
+   </hjNm>
+   <memTitle>
+    (현) 국회의원 (새누리당, 비례대표) (현) 자유한국당 경기도성남시 분당구갑 당협위원장 (현) 국회 공직자윤리위원회 부위원장 (현) 자유한국당 북핵폐기추진특별위원회 위원 (현) 자유한국당 아이잘키우기특별위원회 위원장 (현) 자유한국당 중앙위 사회복지분과 위원장 (현) 자유한국당 국가안보특별위원회 부위원장 (현) 국회 보건복지위원회 위원 (현) 국회 여성가족위원회 위원 (현) 나라사랑운동본부 이사 (현) 한국군사문제연구원 군사연구위원 자유한국당 여성가족정책조정위원장 국회 저출산 고령화 대책특별위원회 위원 자유한국당 청년소통특별위원회 위원 자유한국당 중앙여성위원장 청소년흡연음주예방협회 회장 국군간호사관학교 총동문회 회장 한국장학재단 코멘토 민주평화통일자문회의 자문위원 대한민국재향군인회 이사 한남대학교 국방전략대학원 예우교수 대한간호협회 이사/감사 국군간호사관학교 학교장 (준장 06.1.1) 국군의무사령부 의료관리실장 국방부 보건과 건강증진담당 국군간호사관학교 교수부장 
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    류현태, 이상호
+   </secretary>
+   <secretary2>
+    심정윤, 임계영, 조휘상, 백종호
+   </secretary2>
+   <shrtNm>
+    보건복지위원회,여성가족위원회
+   </shrtNm>
+   <staff>
+    이문영, 배남영
+   </staff>
+  </item>
+ </body>
+</response>

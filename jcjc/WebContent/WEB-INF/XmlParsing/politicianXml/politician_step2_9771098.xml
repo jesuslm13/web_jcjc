@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    leesh_2018@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/lsh6981
+   </assemHomep>
+   <assemTel>
+    02-784-8630~2
+   </assemTel>
+   <bthDate>
+    19540710
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이상헌
+   </empNm>
+   <engNm>
+    LEE SANG HEON
+   </engNm>
+   <hbbyCd>
+    등산.여행
+   </hbbyCd>
+   <hjNm>
+    李相憲
+   </hjNm>
+   <memTitle>
+     ▶ 학력 - 울산고등학교 졸업 - 한국방송통신대학교 졸업 - 동국대학교 대학원 호텔관광경영학 박사 ▶ 경력 (前) - 울산 흥사단 대표 - 울산시민단체협의회 공동대표 - 명성재건학교 교사 - 노무현 대통령 후보 울산선거대책본부장 - 문재인 대통령 후보 울산선거대책본부장 - 민주평화통일자문회의 울산북구협의회장 - 야학전국연합회 상임고문 - 울산누리학교장 - 울산노인대학장 - 농소중학교 총동문회장 - 동북아관광개발 연구원장 (現) - 더불어민주당 울산 북구 지역위원장 - 더불어민주당 울산광역시당 위원장 - 더불어민주당 중앙당 정책위원회 상임부의장 - 더불어민주당 지방혁신균형발전 추진단 위원 - 국가유공자 - 청소년지도사 - 사회복지사 - 국민훈장 석류장 수상
+   </memTitle>
+   <origNm>
+    울산 북구
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    이재관, 차진영
+   </secretary>
+   <secretary2>
+    정재령 , 정아름 , 김인화 , 이선경 , 박한울
+   </secretary2>
+   <shrtNm>
+    문화체육관광위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    김동원, 조영수
+   </staff>
+  </item>
+ </body>
+</response>

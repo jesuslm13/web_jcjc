@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    3s0011@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://3s0011.com
+   </assemHomep>
+   <assemTel>
+    02-784-9501
+   </assemTel>
+   <bthDate>
+    19590803
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    서삼석
+   </empNm>
+   <engNm>
+    SEO SAM SEOK
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    徐參錫
+   </hjNm>
+   <origNm>
+    전남 영암군무안군신안군
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    조경숙, 최원석
+   </secretary>
+   <secretary2>
+    최은석, 정홍복, 고성석, 장찬옥
+   </secretary2>
+   <shrtNm>
+    농림축산식품해양수산위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    전안수, 황준하
+   </staff>
+  </item>
+ </body>
+</response>

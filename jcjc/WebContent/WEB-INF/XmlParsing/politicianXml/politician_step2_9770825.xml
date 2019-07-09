@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    lwh99@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/bravolwh
+   </assemHomep>
+   <assemTel>
+    02-784-6441
+   </assemTel>
+   <bthDate>
+    19570103
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    이우현
+   </empNm>
+   <engNm>
+    LEE WOOHYUN
+   </engNm>
+   <examCd>
+    독서
+   </examCd>
+   <hbbyCd>
+    축구
+   </hbbyCd>
+   <hjNm>
+    李愚鉉
+   </hjNm>
+   <memTitle>
+    ▶국토교통위원회 위원(전) ▶자유한국당 국토교통 정책조정위원장(전) ▶자유한국당 경기도당위원장(전) ▶새누리당 대외협력위원장(전) ▶국회 운영위원회 위원(전) ▶새누리당 원내부대표(전) ▶창조경제활성화 특별위원회 위원(전) ▶새누리당 창조경제 일자리창출 특별위원회 위원(전) ▶미래창조과학방송통신위원회 위원(전) ▶문화체육관광방송통신위원회 위원(전) ▶평창동계올림픽 및 국제경기대회지원 특별위원회 위원(전) ▶용인대학교 경영대학원 졸업 ▶해병대 만기 제대 ▶국회 해병전우회 회장(전) ▶제4대 용인시의회 전ㆍ후반기 의장(전) ▶국민생활체육회 부회장(전) ▶한국스포츠문화재단 이사장(전) ▶한나라당 중앙 재정위원(전)
+   </memTitle>
+   <origNm>
+    경기 용인시갑
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    이학주, 김도훈
+   </secretary>
+   <secretary2>
+    유현정, 이지나, 강민정, 강군식
+   </secretary2>
+   <shrtNm>
+    과학기술정보방송통신위원회
+   </shrtNm>
+   <staff>
+    조동호, 이경로
+   </staff>
+  </item>
+ </body>
+</response>

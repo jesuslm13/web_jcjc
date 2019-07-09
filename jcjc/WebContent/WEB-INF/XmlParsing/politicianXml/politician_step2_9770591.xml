@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    yeosk@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/bluesky435
+   </assemHomep>
+   <assemTel>
+    02-784-1845
+   </assemTel>
+   <bthDate>
+    19480915
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    여상규
+   </empNm>
+   <engNm>
+    YEO SANGKYOO
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    余尙奎
+   </hjNm>
+   <memTitle>
+    서울대 법대 수석졸업 서울지법·서울고법 판사 사법연수원 외래교수 사법시험 출제위원 한나라당 법률지원단장 새누리당 정책위부의장 새누리당 대표비서실장 새누리당 중앙윤리위원장 국회 사개특위·정개특위 위원
+   </memTitle>
+   <origNm>
+    경남 사천시남해군하동군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    강현미, 김금란
+   </secretary>
+   <secretary2>
+    박오경, 배만호, 박상우, 이정아
+   </secretary2>
+   <shrtNm>
+    법제사법위원회
+   </shrtNm>
+   <staff>
+    고명진, 박현숙
+   </staff>
+  </item>
+ </body>
+</response>

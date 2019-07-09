@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    jsemail@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/chungjinsuk
+   </assemHomep>
+   <assemTel>
+    02-784-5070
+   </assemTel>
+   <bthDate>
+    19600904
+   </bthDate>
+   <electionNum>
+    16,17,18,20대
+   </electionNum>
+   <empNm>
+    정진석
+   </empNm>
+   <engNm>
+    CHUNG JINSUK
+   </engNm>
+   <hbbyCd>
+    골프,사색
+   </hbbyCd>
+   <hjNm>
+    鄭鎭碩
+   </hjNm>
+   <memTitle>
+    [주요경력] · 국회 외교통일위원회 위원(현) · 자유한국당 경제파탄대책특별위원회 위원장 · 새누리당 원내대표·대표 권한대행(전) · 국회 운영위원장(전) · 국회 국방위원회, 정보위원회 위원(전) · 제20대 국회의원(4선, 현) · 자유한국당 공주·부여·청양 당원협의회 위원장(현) · 고려대학교 미래성장연구소 초빙교수 · 새누리당 충청남도지사후보 · 국회사무총장(장관급) · 국회의장 비서실장 · 청와대 대통령실 정무수석비서관 · 제18대 국회의원(삼선) · 제17대 국회의원(재선) · 제16대 국회의원(초선) · 국회 정보위원회 위원장 · 국회 규제개혁특별위원회 위원장 · 국회 한-일 의원연맹 21세기위원회 위원장 · 국회 한-페루 의원친선협회 회장 · 국민중심당 원내대표？최고위원 · 자민련 대변인 · 재단법인 계룡장학회 이사장 · 관훈클럽 회원 · 세계태권도연맹 고문 · 한국일보 논설위원 · 한국일보 워싱턴 특파원 · 美 아메리칸大 국제관계대학 객원교수 [수상 및 저서] · 황조근정훈장 · 백상기자대상 4회 · 한국기자협회 기자상 2회 · 일요신문 21c 한국인상 · 국회 입법·정책 최우수 국회의원 · 국정감사 NGO모니터단 우수위원상 · 전국지역신문협회 의정활동부문 국회의원 대상 · 저서: 사다리정치, 총성없는 전선「격동의 한·미·일 현대 외교 비사」 [지역 사무실] · 공주시 신관로 51로 2층, (T)041-855-4131, (F)041-857-4130 · 부여군 부여읍 사비로 109 3층, (T)041-837-4131, (F)041-837-4132 · 청양군 청양읍 중앙로 147 2층, (T)041-944-0971, (F)041-944-0792
+   </memTitle>
+   <origNm>
+    충남 공주시부여군청양군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    김혁종, 편희석
+   </secretary>
+   <secretary2>
+    김강진, 김단비
+   </secretary2>
+   <shrtNm>
+    외교통일위원회
+   </shrtNm>
+   <staff>
+    추대동, 최원철, 이민규
+   </staff>
+  </item>
+ </body>
+</response>

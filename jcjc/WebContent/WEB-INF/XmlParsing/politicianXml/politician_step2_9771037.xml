@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-5621
+   </assemTel>
+   <bthDate>
+    19681214
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    오영훈
+   </empNm>
+   <engNm>
+    OH YOUNGHUN
+   </engNm>
+   <hjNm>
+    吳怜勳
+   </hjNm>
+   <origNm>
+    제주 제주시을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김현철, 이민언
+   </secretary>
+   <secretary2>
+    박병준, 오승훈, 김성빈, 김유라, 김창용
+   </secretary2>
+   <shrtNm>
+    농림축산식품해양수산위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    정원태, 이영민
+   </staff>
+  </item>
+ </body>
+</response>

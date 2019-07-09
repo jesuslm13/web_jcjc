@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    wraenoh1@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://www.gowithwr.com
+   </assemHomep>
+   <assemTel>
+    02-788-2203
+   </assemTel>
+   <bthDate>
+    19570803
+   </bthDate>
+   <electionNum>
+    17,19,20대
+   </electionNum>
+   <empNm>
+    노웅래
+   </empNm>
+   <engNm>
+    NOH WOONGRAE
+   </engNm>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    盧雄來
+   </hjNm>
+   <memTitle>
+    더불어민주당 국회의원(마포갑/17대,19대,20대) 민주화추진협의회 자문위원 민족화해협력범국민협의회 공동의장 공덕초, 중앙대, 방통대, 동국대 대학원 졸업 20대 국회 교육문화체육관광위원회 위원 더불어민주당 사교육대책특별위원장 (전) 민주당 사무총장 (전) 민주당 서울시당위원장 (전) 국회 예산결산특별위원회 위원 (전) MBC 전국노조위원장 (전) 매일경제신문, MBC 기자 (21년)
+   </memTitle>
+   <origNm>
+    서울 마포구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    남경수, 허준영
+   </secretary>
+   <secretary2>
+    김연주, 박수철, 안영진, 이진원
+   </secretary2>
+   <shrtNm>
+    과학기술정보방송통신위원회
+   </shrtNm>
+   <staff>
+    권태돈, 김현목
+   </staff>
+  </item>
+ </body>
+</response>

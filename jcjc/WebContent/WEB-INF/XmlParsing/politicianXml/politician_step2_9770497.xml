@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    ysm21com@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.ysm21.com
+   </assemHomep>
+   <assemTel>
+    02-784-1840
+   </assemTel>
+   <bthDate>
+    19580107
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    유승민
+   </empNm>
+   <engNm>
+    YOO SEONGMIN
+   </engNm>
+   <hbbyCd>
+    여행
+   </hbbyCd>
+   <hjNm>
+    劉承旼
+   </hjNm>
+   <memTitle>
+    1982. 서울대학교 경제학과 졸업 1987. 미 위스콘신대(매디슨) 경제학 박사 17대, 18대, 19대, 20대 국회의원 (현) 국회기재위 위원 전 바른정당 당대표 전 새누리당 원내대표 전 국회 국방위원장 전 한나라당(현 새누리당) 최고위원 전 한나라당(현 새누리당) 대구시당위원장 현 군용비행장 문제해결을 위한 국회의원모임 대표 현 국회 혁신도시 의원모임 대표 전 한나라당(현 새누리당) 여의도연구소장 전 한국개발연구원(KDI) 선임연구위원
+   </memTitle>
+   <origNm>
+    대구 동구을
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    박영미
+   </secretary>
+   <secretary2>
+    정헌표, 이지연, 이영미, 김범준
+   </secretary2>
+   <shrtNm>
+    기획재정위원회
+   </shrtNm>
+   <staff>
+    남태진, 최원기
+   </staff>
+  </item>
+ </body>
+</response>

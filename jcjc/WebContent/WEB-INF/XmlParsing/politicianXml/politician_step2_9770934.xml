@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kim-youngho@naver.com
+   </assemEmail>
+   <assemTel>
+    02-784-4020~2
+   </assemTel>
+   <bthDate>
+    19670913
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김영호
+   </empNm>
+   <engNm>
+    KIM YOUNGHO
+   </engNm>
+   <hjNm>
+    金映豪
+   </hjNm>
+   <memTitle>
+    [학 력] 북경대학교 졸업(국제정치학 학사) 서강대학교 졸업(중국학 석사) [경 력] (현) 제20대 국회의원 (서울 서대문을) (현) 국회 행정안전위원회 위원 (현) 국회 윤리특별위원회 위원 (현) 국회 공공부문 채용비리 의혹 국정조사특별위원회 위원 (현) 더불어민주당 서대문을 지역위원장 (현) 더불어민주당 재해대책특별위원회 위원장 (현) 더불어민주당 세계한인민주회의 부의장 (현) 더불어민주당 원자력안전대책특별위원회 위원 (현) 더불어민주당 을지로위원회 위원 (현) 더불어민주당 서민주거TF 위원 (현) 한-파키스탄 의원친선협회 부회장 (현) 한-덴마크 의원친선협회 이사 (현) 한-중 의원외교협의회 회원 (현) 한중청년지도자포럼 대표위원 (전) 국회 재난안전대책특별위원회 간사 (전) 더불어민주당 제2사무부총장 (전) 더불어민주당 사드대책위원회 간사 (전) 스포츠투데이 기자 
+   </memTitle>
+   <origNm>
+    서울 서대문구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    윤여길, 장종화
+   </secretary>
+   <secretary2>
+    강병정, 이동현, 오보람, 김나래, 김종하
+   </secretary2>
+   <shrtNm>
+    공공부문 채용비리 의혹과 관련된 국정조사특별위원회,윤리특별위원회,행정안전위원회
+   </shrtNm>
+   <staff>
+    김병운, 백경훈
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kangsh@na.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://kangsh.kr
+   </assemHomep>
+   <assemTel>
+    02-784-2376
+   </assemTel>
+   <bthDate>
+    19551203
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    강석호
+   </empNm>
+   <engNm>
+    KANG SEOKHO
+   </engNm>
+   <examCd>
+    산악등반
+   </examCd>
+   <hbbyCd>
+    스포츠
+   </hbbyCd>
+   <hjNm>
+    姜碩鎬
+   </hjNm>
+   <memTitle>
+    학력 중동중·고 졸업 한국외국어대학교 스페인어과 졸업 경력 제20대 국회 외교통일위원장 제20대 국회 정보위원장 제19대 국회 국토교통위원회 간사 제18대 국회 농림수산식품위원회 간사 새누리당 최고위원 새누리당 제1사무부총장 새누리당 제4정책조정위원장 새누리당 경상북도당 위원장
+   </memTitle>
+   <origNm>
+    경북 영양군영덕군봉화군울진군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    김동우, 정성한
+   </secretary>
+   <secretary2>
+    한승룡, 서재광, 조하나, 박민지
+   </secretary2>
+   <shrtNm>
+    외교통일위원회
+   </shrtNm>
+   <staff>
+    임종석, 홍성범
+   </staff>
+  </item>
+ </body>
+</response>

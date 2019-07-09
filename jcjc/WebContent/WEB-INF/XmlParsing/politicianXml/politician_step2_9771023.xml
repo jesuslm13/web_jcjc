@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    lawjj909@naver.com
+   </assemEmail>
+   <assemTel>
+    02-784-6831
+   </assemTel>
+   <bthDate>
+    19660215
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김정재
+   </empNm>
+   <engNm>
+    KIM JUNGJAE
+   </engNm>
+   <hbbyCd>
+    트래킹
+   </hbbyCd>
+   <hjNm>
+    金汀才
+   </hjNm>
+   <memTitle>
+    포항여자고등학교 이화여자대학교 정치외교학 학사 이화여자대학교대학원 석사 프랭클린피어스법과대학원 졸업(J.D.) 현) 제20대 국회의원(포항 북구) 국회 농림축산식품해양수산위원회 위원 전) 서울특별시의회(7?8대)의원 서울특별시의회 문화체육관광위원회 위원장 새누리당 중앙당 부대변인 자유한국당 원내대변인 국회 운영위원회 위원 국회 과학기술정보방송통신위원회 위원 국회 재난안전대책특별위원회 위원 자유한국당 대표 경북지역 특보 자유한국당 방송장악저지특위 간사 자유한국당 원전대책특위 위원 자유한국당 포항지진대책 TF 간사 19대 대통령선거 자유한국당 중앙선거대책위원회 여성본부 대외협력본부장 자유한국당 신적폐 저지 특별위원회 위원 자유한국당 사회주의 개헌-정책 저지 투쟁본부 위원 상훈) 새누리당 국감우수의원상(2016) 입법 및 정책개발 우수 국회의원상(2016) NGO 모니터단 선정 국정감사 우수의원(2016, 2017) 자유한국당 국감우수의원상(2017) 한국생활자치대상 국회의원 부분 대상(2017) 법률소비자연맹 선정 제20대 국회 제2차년도 &amp;#039헌정대상(의정종합대상)&amp;#039(2018) 한국신문방송인클럽 선정 국회의정대상(2018) 여성정치발전인상(2018)
+   </memTitle>
+   <origNm>
+    경북 포항시북구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김동규, 안종일
+   </secretary>
+   <secretary2>
+    김재원, 최장현, 김은지, 윤영빈
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,농림축산식품해양수산위원회
+   </shrtNm>
+   <staff>
+    박문태, 이상신
+   </staff>
+  </item>
+ </body>
+</response>

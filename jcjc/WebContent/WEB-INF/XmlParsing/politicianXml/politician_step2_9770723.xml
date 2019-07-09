@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kimminki@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://www.kimminki.co.kr
+   </assemHomep>
+   <assemTel>
+    02-784-1930
+   </assemTel>
+   <bthDate>
+    19660428
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    김민기
+   </empNm>
+   <engNm>
+    KIM MINKI
+   </engNm>
+   <hbbyCd>
+    바둑
+   </hbbyCd>
+   <hjNm>
+    金敏基
+   </hjNm>
+   <memTitle>
+    * 고려대학교 농업경제학과 졸업 * 육군 제201특공여단 소대장 (ROTC 26기) * 중소기업은행 근무 * 용인시의회 민주당 대표의원 * 6.2지방선거 경기도지사 야4당 공동선대위 대변인 * 민주당 경기도당 대변인 * 민주통합당 정책위부의장 * 국회 정보위원회 위원 * 국회 학교폭력대책특별위원회 간사 * 민주통합당 정치공작불법사찰진상조사위원회 위원 * 민주통합당 밀양송전탑 진상조사위원회 위원 * 민주당 국정원 헌정파괴국기문란 진상조사특별위원회 위원 * 국정원 댓글 의혹사건 등의 진상규명을 위한 국정조사특별위원회 위원 * 신용정보대량유출 대책 특별위원회 위원 * 6.4 지방선거 새정치민주연합 중앙당 공직선거후보재추천 재심위원회 위원 * 6.4 지방선거 새정치민주연합 경기도당 경선 선거관리위원장 * 6.4 지방선거 새정치민주연합 김진표 경기도지사 후보 선거대책본부 수석대변인 * 국민안전혁신특별위원회 위원 * 새정치민주연합 디지털소통위원회 부본부장 * 새정치민주연합 교육연수국 부원장 * 새정치민주연합 용인을 지역위원회 지역위원장 * 제19대 용인시을 국회의원 * 국회 안전행정위원회 위원 * 제20대 용인시을 국회의원 * 국회 교육문화체육관광위원회 위원 * 국회 재난안전 대책 특별위원회 위원 * 더불어민주당 제19대 대통령선거대책위 정책본부 부본부장 * 더불어민주당 제19대 대통령선거대책위 직능본부 교육문화체육분과위원회 위원장 * 더불어민주당 수석사무부총장 * 국회 행정안전위원회 위원 * 국회 정보위원회 간사
+   </memTitle>
+   <origNm>
+    경기 용인시을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    김완수, 손주연
+   </secretary>
+   <secretary2>
+    박인철, 서명희, 박성미, 성혜련
+   </secretary2>
+   <shrtNm>
+    공공부문 채용비리 의혹과 관련된 국정조사특별위원회,정보위원회,행정안전위원회
+   </shrtNm>
+   <staff>
+    김진수, 박형민
+   </staff>
+  </item>
+ </body>
+</response>

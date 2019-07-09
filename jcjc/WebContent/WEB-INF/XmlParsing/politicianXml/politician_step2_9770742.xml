@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    ktheum@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/ktheum
+   </assemHomep>
+   <assemTel>
+    02-784-4710
+   </assemTel>
+   <bthDate>
+    19630111
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    김태흠
+   </empNm>
+   <engNm>
+    Kim, Tae Heum
+   </engNm>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    金泰欽
+   </hjNm>
+   <memTitle>
+    1998~2003 국무총리실 행정관 2004~2006 한나라당 충남도당 대변인 2006~2007 충청남도 정무부지사 2008~2009 한나라당 충남도당 위원장 2009~2010 순천향대학교 행정학과 겸임교수 2011~2012 한나라당 여의도 연구소 부소장 2012~2016 제 19. 20대 국회의원(충남 보령.서천) 2012~2016 국회 국토교통위. 기획재정위원회 위원 2013~2014 새누리당 원내대변인 2016~ 새누리당 제 1사무부총장 2016~ 국회 농림축산식품 해양수산위원회 간사 2017~ 한.리비아 의원친선협회 회장
+   </memTitle>
+   <origNm>
+    충남 보령시서천군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    이태균, 한상필
+   </secretary>
+   <secretary2>
+    신무수, 신영호, 서진원, 한주희
+   </secretary2>
+   <shrtNm>
+    농림축산식품해양수산위원회
+   </shrtNm>
+   <staff>
+    이효열, 허정환
+   </staff>
+  </item>
+ </body>
+</response>

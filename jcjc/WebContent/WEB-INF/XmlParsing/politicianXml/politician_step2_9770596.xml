@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    yoo@na.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://www.yjj21.co.kr
+   </assemHomep>
+   <assemTel>
+    02-784-6066
+   </assemTel>
+   <bthDate>
+    19560327
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    유재중
+   </empNm>
+   <engNm>
+    YOO JAEJUNG
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    柳在仲
+   </hjNm>
+   <memTitle>
+    부산대학교 대학원 법학박사 제18·19·20대 국회의원 (부산 수영구) 국회 행정안전위원장 국회 교육문화체육관광위원회 위원 국회 보건복지위원회 간사 국회 남북관계및교류협력발전 특별위원회 간사 새누리당 부산광역시당 위원장 새누리당 비상대책위원 부산광역시 수영구청장 (3·4대) 부산광역시의회 의원 (2·3·5대) (시의회 운영위원장) [수상경력] 2009 제 1회 매니포스토 약속대상 최우수상 수상 2009 NGO 모니터단 선정 국정감사 우수의원상 수상 2010 국정감사 친환경베스트의원상 수상 [저서] 아름다운 만남/ 청년지도자의 실험과 꿈(공동저서) 논문 : 지방분권실현에 관한 연구 (행정구역 개편 논의를 중심으로)
+   </memTitle>
+   <origNm>
+    부산 수영구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    권일진, 김형영
+   </secretary>
+   <secretary2>
+    이자영, 김성수, 손사라, 김선주
+   </secretary2>
+   <shrtNm>
+    보건복지위원회
+   </shrtNm>
+   <staff>
+    김영창, 윤위
+   </staff>
+  </item>
+ </body>
+</response>

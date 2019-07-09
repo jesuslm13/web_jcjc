@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemHomep>
+    https://blog.naver.com/3flowers20
+   </assemHomep>
+   <assemTel>
+    02-784-8231
+   </assemTel>
+   <bthDate>
+    19620801
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김삼화
+   </empNm>
+   <engNm>
+    KIM SAMHWA
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    金三和
+   </hjNm>
+   <memTitle>
+    대전여자고등학교 졸업 서울시립대 법정대학 행정학사 서울시립대 도시행정대학원 경영학석사 (전)서울지방변호사회 변호사 (전)(사)한국성폭력 상담소 이사장 (전)서울가정법원 가사조정위원 (전)(사)한국여성변호사회 회장 (전)대한변호사협회 부협회장 (전)새정치민주연합 최고위원 (전)국회 윤리특별위원회 윤리심사자문위원 (전)국민의당 중앙위원회 부의장 (전)국민의당 원내대변인 (전)국민의당 사무총장 (현)바른미래당 비례대표 국회의원 (현)국회 환경노동위원회 간사, 여성가족위원회 위원, 윤리특별위원회 위원 (현)바른미래당 원내대변인
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    이용남, 정형석
+   </secretary>
+   <secretary2>
+    김지수, 한병섭, 김윤정, 정윤주, 홍은하
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,산업통상자원중소벤처기업위원회,에너지 특별위원회
+   </shrtNm>
+   <staff>
+    오진희, 주관성
+   </staff>
+  </item>
+ </body>
+</response>

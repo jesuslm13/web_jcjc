@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kshdg11@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://kimsh.or.kr
+   </assemHomep>
+   <assemTel>
+    02-784-2310
+   </assemTel>
+   <bthDate>
+    19630125
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    김상훈
+   </empNm>
+   <engNm>
+    KIM SANGHOON
+   </engNm>
+   <hjNm>
+    金相勳
+   </hjNm>
+   <memTitle>
+    대구대건고 졸 영남대학교 법학과 졸 미국 오리건대학교 대학원 행정학 졸 제 33회 행정고시 대구시 일본파견주재관 대구시 경제통상국 국장 국회 한·중정치경제포럼 연구책임의원 국회 산업통상자원위원회 위원 새누리당 원내부대표 국회 정부 및 공공기관 등의 해외자원개발 진상규명을 위한 국정조사특별위원회 위원 국회 정치개혁특별위원회 위원 새누리당 정책위원회 수석부의장 국회 보건복지위원회 간사 가습기살균제 사고 진상규명과 피해구제 및 재발방지를 위한 국정조사특별위원회 간사 자유한국당 대구시당 위원장 자유한국당 지방자치발전특별위원회 부위원장 국회 국토교통위원회 위원
+   </memTitle>
+   <origNm>
+    대구 서구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    안치욱 홍지웅
+   </secretary>
+   <secretary2>
+    나종윤 서민정 김샛별 김서진
+   </secretary2>
+   <shrtNm>
+    국토교통위원회
+   </shrtNm>
+   <staff>
+    권태윤 백정부
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    llj11@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/llj11
+   </assemHomep>
+   <assemTel>
+    02-784-6970
+   </assemTel>
+   <bthDate>
+    19640305
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    임이자
+   </empNm>
+   <engNm>
+    LIM LEEJA
+   </engNm>
+   <hjNm>
+    林利子
+   </hjNm>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김규환, 조윤정
+   </secretary>
+   <secretary2>
+    송성훈, 김용수, 염승현, 한별아, 김재령
+   </secretary2>
+   <shrtNm>
+    공공부문 채용비리 의혹과 관련된 국정조사특별위원회,정치개혁 특별위원회,환경노동위원회
+   </shrtNm>
+   <staff>
+    강병구, 김응박
+   </staff>
+  </item>
+ </body>
+</response>

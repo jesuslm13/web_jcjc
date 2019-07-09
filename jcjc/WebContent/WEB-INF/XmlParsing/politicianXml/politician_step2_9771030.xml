@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-7773
+   </assemTel>
+   <bthDate>
+    19550826
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    박완수
+   </empNm>
+   <engNm>
+    PARK WANSU
+   </engNm>
+   <hjNm>
+    朴完洙
+   </hjNm>
+   <memTitle>
+    제23회 행정고등고시 합격 (前) 제19~20대 창원시장 (前) 제1대 (통합)창원시장 (前) 제6대 인천국제공항공사 사장 (前) 제20대 국회 민생경제특별위원회 위원 (前) 새누리당 최고위원 (前) 자유한국당 지방자치위원회 위원장 (前) 자유한국당 비상대책위원회 위원 (前) 제20대 국회의원 (경남 창원시의창구/자유한국당) - 상반기 국토교통위원회 위원 (前) 제20대 국회의원 (경남 창원시의창구/자유한국당) - 하반기 행정안전위원회 위원 (現) 자유한국당 신정치혁신특별위원회 공천혁신소위원회 위원(現) 
+   </memTitle>
+   <origNm>
+    경남 창원시의창구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    이영일, 진정원
+   </secretary>
+   <secretary2>
+    차형보, 최지윤, 박성준, 박정희, 이환희, 장윤선
+   </secretary2>
+   <shrtNm>
+    행정안전위원회
+   </shrtNm>
+   <staff>
+    김태훈, 최성용
+   </staff>
+  </item>
+ </body>
+</response>

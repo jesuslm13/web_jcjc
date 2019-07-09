@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-8940
+   </assemTel>
+   <bthDate>
+    19560525
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    윤상직
+   </empNm>
+   <engNm>
+    YOON SANGJICK
+   </engNm>
+   <hjNm>
+    尹相直
+   </hjNm>
+   <memTitle>
+    - 서울대학교 무역학과 졸업 - 미국 위스콘신대 법학박사 - 미국 뉴욕주 변호사 - 前 산업통상자원부 장관 - 前 지식경제부 제1차관 - 現 국회 법제사법위원회 위원 - 現 국회 예산결산특별위원회 위원 
+   </memTitle>
+   <origNm>
+    부산 기장군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김윤환, 조기성
+   </secretary>
+   <secretary2>
+    임이랑, 장혁준, 박수향, 김정우
+   </secretary2>
+   <shrtNm>
+    과학기술정보방송통신위원회,사법개혁 특별위원회
+   </shrtNm>
+   <staff>
+    정동만, 제방훈
+   </staff>
+  </item>
+ </body>
+</response>

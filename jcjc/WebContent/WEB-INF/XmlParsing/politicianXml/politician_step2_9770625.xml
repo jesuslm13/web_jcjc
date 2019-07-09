@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    hjv6465@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://www.leehj.net
+   </assemHomep>
+   <assemTel>
+    02-784-1884~6
+   </assemTel>
+   <bthDate>
+    19640819
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    이학재
+   </empNm>
+   <engNm>
+    LEE HAGJAE
+   </engNm>
+   <hbbyCd>
+    걷기
+   </hbbyCd>
+   <hjNm>
+    李鶴宰
+   </hjNm>
+   <memTitle>
+    국회의원 (18대~20대, 3선) 국회 정보위원장 (전) 국회 예산결산특별위원회 간사 (전) 국회 국토교통위원회 간사 (전) 국회 정치개혁특별위원회 간사 (전) 국회 지식경제위원회 위원 (전) 국회 운영위원회 위원 (전) 국회 교육문화체육관광위원회 위원 (전) 한.앙골라 국회 의원친선협의회 회장 (전) 제9대 대한카누연맹(KCF) 회장 (전) 새누리당 비상대책위원회 위원 (전) 새누리당 일자리특별위원회 위원장 (전) 바른미래당 지방선거기획단장 (전) 인천광역시 서구청장 (재선)
+   </memTitle>
+   <origNm>
+    인천 서구갑
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    김민정 이한종
+   </secretary>
+   <secretary2>
+    조대웅 김고은 박설희 오세웅
+   </secretary2>
+   <shrtNm>
+    교육위원회
+   </shrtNm>
+   <staff>
+    김병욱 이용창
+   </staff>
+  </item>
+ </body>
+</response>

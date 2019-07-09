@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    gbs2008@daum.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/jeonjujeong
+   </assemHomep>
+   <assemTel>
+    02-784-8975
+   </assemTel>
+   <bthDate>
+    19540410
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    정운천
+   </empNm>
+   <engNm>
+    JEONG WOON CHUN
+   </engNm>
+   <hjNm>
+    鄭雲天
+   </hjNm>
+   <memTitle>
+    [학 력] - 고려대학교 농업경제학 학사 - 남성고등학교 졸업 [약 력] - 바른미래당 최고위원 - 前 바른정당 최고위원 - 前 한나라당 최고위원 - 前 한식재단 이사장 - 前 농림수산식품부 장관 - 前 한국농업CEO연합회 회장 - 前 한국신지식농업인회 회장 - 前 한국참다래유통사업단 대표이사 
+   </memTitle>
+   <origNm>
+    전북 전주시을
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박상조
+   </secretary>
+   <secretary2>
+    양명주, 민경환, 심규리, 이용주
+   </secretary2>
+   <shrtNm>
+    농림축산식품해양수산위원회,에너지 특별위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    김보현, 정경복
+   </staff>
+  </item>
+ </body>
+</response>

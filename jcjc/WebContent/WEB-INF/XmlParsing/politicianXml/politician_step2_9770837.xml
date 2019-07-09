@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    ilovebusanjin@hanmail.net
+   </assemEmail>
+   <assemTel>
+    02-784-7911
+   </assemTel>
+   <bthDate>
+    19630511
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    이헌승
+   </empNm>
+   <engNm>
+    LEE HUNSEUNG
+   </engNm>
+   <hjNm>
+    李憲昇
+   </hjNm>
+   <memTitle>
+    &amp;lt; 학 력 &amp;gt; 2009 ~ 2011 한국해양대학교 대학원 무역학 박사과정 1993 ~ 1996 조지워싱턴 대학교 대학원 정치관리학 석사 1988 ~ 1991 노스웨스턴 대학교 대학원 사회학 석사 1981 ~ 1988 고려대학교 사회학, 경영학 학사 1978 ~ 1981 금성고등학교 25회졸업(총동창회 부회장) 1975 ~ 1978 개성중학교 27회졸업(운영위원장) 1969 ~ 1975 개금초등학교 7회졸업(총동창회 회장) &amp;lt; 주요경력 &amp;gt; 2012 ~ 제19대 국회의원, 새누리당 부산시당 대변인 2011 ~ 한나라당 부대변인 2008 ~ 2010 부산광역시청 대외협력보좌관 2007 ~ 2007 한나라당 박근혜 경선수행부단장 2003 ~ 2003 한나라당 보좌관협의회 부회장
+   </memTitle>
+   <origNm>
+    부산 부산진구을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    김병하, 전효선
+   </secretary>
+   <secretary2>
+    추인희, 박유미, 권순민, 손추성
+   </secretary2>
+   <shrtNm>
+    국토교통위원회
+   </shrtNm>
+   <staff>
+    김창수, 조민희
+   </staff>
+  </item>
+ </body>
+</response>

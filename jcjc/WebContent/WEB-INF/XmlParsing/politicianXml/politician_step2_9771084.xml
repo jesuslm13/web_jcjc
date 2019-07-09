@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    choojustice@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/choojustice
+   </assemHomep>
+   <assemTel>
+    02-784-9740
+   </assemTel>
+   <bthDate>
+    19710115
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    추혜선
+   </empNm>
+   <engNm>
+    CHU HYESEON
+   </engNm>
+   <hbbyCd>
+    요리
+   </hbbyCd>
+   <hjNm>
+    秋惠仙
+   </hjNm>
+   <memTitle>
+    정의당 원내수석부대표, 공정경제민생본부장 현)제20대 국회의원 현) 중소상공인자영업자위원회 위원장 현) 정무위원회 위원 전) 과학기술정보방송통신위원회 위원 전) 정의당 수석대변인 전) 정의당 언론개혁기획단 단장 전) 방송통신위원회 정책자문위원 전) 언론개혁시민연대 사무총장 
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    정의당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    이광식, 임정화
+   </secretary>
+   <secretary2>
+    박상우, 박상희, 김봄이래
+   </secretary2>
+   <shrtNm>
+    정무위원회
+   </shrtNm>
+   <staff>
+    권정달, 김하늬
+   </staff>
+  </item>
+ </body>
+</response>

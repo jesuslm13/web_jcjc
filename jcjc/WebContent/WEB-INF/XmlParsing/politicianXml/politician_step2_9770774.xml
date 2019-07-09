@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    lasco21@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/withwanju/
+   </assemHomep>
+   <assemTel>
+    02-784-7560
+   </assemTel>
+   <bthDate>
+    19661110
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    박완주
+   </empNm>
+   <engNm>
+    PARK WANJOO
+   </engNm>
+   <examCd>
+    등산
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    朴完柱
+   </hjNm>
+   <memTitle>
+    [약력] ■ (현)제19·20대 국회의원 ■ (현)국회 농림축산식품해양수산위원회 간사 및 농림법안소위 위원장 ■ (현)국회 예산결산특별위원회 위원 ■ (현)국회 정치개혁특별위원회 위원 ■ (전)더불어민주당 최고위원 ■ (전)더불어민주당 충남도당위원장 ■ (전)더불어민주당 수석대변인 ■ (전)더불어민주당 원내수석부대표 ■ (전)새정치민주연합 원내대변인 ■ (전)제20대 국회산업통상자원위원회 위원 ■ (전)제20대 국회운영위원회 위원 ■ (전)제20대 국회 예산결산특별위원회 위원 ■ (전)해외자원개발 진상규명을 위한 국정조사특별위원회 위원 ■ (전)새정치민주연합 원내기획부대표 ■ (전)국회여성가족위원회 위원 ■ (전)국회지속가능발전특별위원회 위원 ■ (전)허베이스피리트호 유류피해대책특별위원회 위원 ■ (현)한국아동인구환경의원연맹 이사 ■ (전)대한장애인당구협회 회장 ■ (현)아.태정치학회 고문 ■ (전)문재인 대통령 후보 선대위 총무 부본부장 ■ (전)민주당 중앙당 부대변인 ■ (전)민주당 충남도당 대변인 ■ (전)민주당 행복도시 원안사수 특별위원회 부위원장 [학력] 천안 직산 삼은초등학교(6회) 천안중학교(31회) 천안 중앙고등학교(15회) 성균관대학교 한국철학과(`89 부총학생회장)
+   </memTitle>
+   <origNm>
+    충남 천안시을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    구형서, 김경희
+   </secretary>
+   <secretary2>
+    정지훈, 박유진, 황윤경, 남지혜
+   </secretary2>
+   <shrtNm>
+    농림축산식품해양수산위원회,예산결산특별위원회,정치개혁 특별위원회
+   </shrtNm>
+   <staff>
+    안석준, 이무응
+   </staff>
+  </item>
+ </body>
+</response>

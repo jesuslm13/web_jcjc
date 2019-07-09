@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    esh337@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/lsh4yu
+   </assemHomep>
+   <assemTel>
+    02-784-1631
+   </assemTel>
+   <bthDate>
+    19510316
+   </bthDate>
+   <electionNum>
+    14,15,17,18,19,20대
+   </electionNum>
+   <empNm>
+    이석현
+   </empNm>
+   <engNm>
+    LEE SEOKHYUN
+   </engNm>
+   <hbbyCd>
+    독서 여행
+   </hbbyCd>
+   <hjNm>
+    李錫玄
+   </hjNm>
+   <memTitle>
+    서울법대졸(71학번), 김대중의장비서(&amp;#03985~&amp;#03988), 제14대국회의원, 건설위간사, 개혁모임감사, 재경위원, 당정책위수석부의장, 당정책위3정조위원장, 환경운동연합국정정책위원, 2002년월드컵국회특별위원, 민추협 창설위원, 제14,15,17대국회의원, 환경관리공단 이사장
+   </memTitle>
+   <origNm>
+    경기 안양시동안구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    6선제20대
+   </reeleGbnNm>
+   <secretary>
+    이정길, 이진경
+   </secretary>
+   <secretary2>
+    문윤환, 나선영, 이은지, 곽레나, 정화경
+   </secretary2>
+   <shrtNm>
+    외교통일위원회
+   </shrtNm>
+   <staff>
+    김지성, 오세욱
+   </staff>
+  </item>
+ </body>
+</response>

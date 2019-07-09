@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    khpgeoje@naver.com
+   </assemEmail>
+   <assemTel>
+    02-784-4760
+   </assemTel>
+   <bthDate>
+    19540824
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    김한표
+   </empNm>
+   <engNm>
+    KIM HANPYO
+   </engNm>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    金漢杓
+   </hjNm>
+   <memTitle>
+    한국외국어대학교 대학원 행정학 박사 연세대학교 행정대학원 행정학 석사 한국외국어대학교 사회과학대학 행정학과 부산동아고등학교 제20대 국회의원(자유한국당/경남거제시) 前)제19대 국회의원(새누리당/경남거제시) 前)제19대 국회산업통상자원위원회 위원 前)제19대 국회예산결산특별위원회 위원 前)제20대 국회정무위원회 간사 前)제20대 국회예산결산특별위원회 위원 前)자유한국당 경남도당위원장 前)경남 거제경찰서장 前)청와대 경호실 가족경호부장 前)청와대 민정비서실 행정관
+   </memTitle>
+   <origNm>
+    경남 거제시
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    옥송희
+   </secretary>
+   <secretary2>
+    김경명, 박준성, 차호, 김종화
+   </secretary2>
+   <shrtNm>
+    교육위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    신정인, 서상열 
+   </staff>
+  </item>
+ </body>
+</response>

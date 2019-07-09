@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    jwoo2772@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/jwoo37
+   </assemHomep>
+   <assemTel>
+    02-784-6931
+   </assemTel>
+   <bthDate>
+    19650210
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    이장우
+   </empNm>
+   <engNm>
+    LEE JANGWOO
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    李莊雨
+   </hjNm>
+   <memTitle>
+    · 제19·20대 국회의원(대전 동구) · 現 국회 교육문화체육관광위원회 위원 · 새누리당 최고위원 · 국회 교육문화체육관광위원회 간사 · 새누리당 대변인 · 새누리당 원내대변인 · 새누리당 원내부대표 · 새누리당 대전광역시당위원장 · 대전광역시 동구청장(민선 4기) · 대전대학교 행정학과 대우조교수 · 대전대학교 제13대 총동문회장 · 청목회(전국 청년 시장, 군수, 구청장회) 사무총장 · 재단법인 동구 차세대인재육성장학재단 이사장 · 대전대학교 행정학과 겸임교수 · 국회의원 정책비서관·보좌관 · 대전대학교 총학생회장 · 대전대학교 대학원 행정학 박사 · 대전대학교 대학원 경영행정학 석사 · 대전대학교 행정학과 졸업 · 대전고등학교 졸업 · 동영중학교 졸업 · 남양초등학교 졸업 · 1965. 2. 10. 충남 청양 출생
+   </memTitle>
+   <origNm>
+    대전 동구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    양동훈, 오정석
+   </secretary>
+   <secretary2>
+    최이석, 유기홍, 한종규, 김은주
+   </secretary2>
+   <shrtNm>
+    사법개혁 특별위원회,예산결산특별위원회,환경노동위원회
+   </shrtNm>
+   <staff>
+    이규헌, 정재필
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    hansunkyo@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://www.hansunkyo.com
+   </assemHomep>
+   <assemTel>
+    02-784-2066
+   </assemTel>
+   <bthDate>
+    19590623
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    한선교
+   </empNm>
+   <engNm>
+    HAN SUNKYO
+   </engNm>
+   <examCd>
+    농구
+   </examCd>
+   <hbbyCd>
+    등산,음악
+   </hbbyCd>
+   <hjNm>
+    韓善敎
+   </hjNm>
+   <memTitle>
+    성균관대학교 대학원 정치학 석사 성균관대 물리학과 졸업 육군현역, 병장 만기제대 4선 국회의원(17. 18. 19, 20대) 前 MBC 아나운서 前 한나라당 대변인 前 건설교통위원회 위원(17대) 前 환경노동위원회 위원(17대) 前 남북관계발전특위 위원(17대) 前 신행정수도 건설을 위한 특별조치법 위헌결정후속대책 및 지역균형발전 특위(17대) 前 한나라당 선대위 대변인, 수행단장 前 한나라당 홍보기획본부장 前 문화체육관광방송통신위원회 한나라당 간사(18대) 前 문화체육관광방송통신위원회 위원장 前 한국프로농구연맹 총재 前 미래창조과학방송통신위원회 위원장 前 교육문화체육관광위원회 위원 現 문화체육관광위원회 위원 現 정보위원회 위원 
+   </memTitle>
+   <origNm>
+    경기 용인시병
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    송주석, 안준상
+   </secretary>
+   <secretary2>
+    이준영, 이지연, 조하나, 김민지
+   </secretary2>
+   <shrtNm>
+    문화체육관광위원회,정보위원회
+   </shrtNm>
+   <staff>
+    김준우, 민영일
+   </staff>
+  </item>
+ </body>
+</response>

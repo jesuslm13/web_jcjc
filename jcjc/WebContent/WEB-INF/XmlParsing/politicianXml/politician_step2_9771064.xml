@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    freedebt553@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://freedebt553.tistory.com
+   </assemHomep>
+   <assemTel>
+    02-784-7451
+   </assemTel>
+   <bthDate>
+    19710725
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    제윤경
+   </empNm>
+   <engNm>
+    JE YOUNKYUNG
+   </engNm>
+   <hjNm>
+    諸閏景
+   </hjNm>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    정내라, 원종현
+   </secretary>
+   <secretary2>
+    김요한, 국서림, 김나래, 박상진
+   </secretary2>
+   <shrtNm>
+    여성가족위원회,예산결산특별위원회,정무위원회
+   </shrtNm>
+   <staff>
+    이수남, 양혜진
+   </staff>
+  </item>
+ </body>
+</response>

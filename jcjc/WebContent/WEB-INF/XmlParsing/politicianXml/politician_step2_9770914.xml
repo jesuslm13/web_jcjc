@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    victoryljb@naver.com
+   </assemEmail>
+   <assemTel>
+    02-784-4131~3
+   </assemTel>
+   <bthDate>
+    19570530
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    이종배
+   </empNm>
+   <engNm>
+    LEE JONGBAE
+   </engNm>
+   <hjNm>
+    李鍾培
+   </hjNm>
+   <memTitle>
+    (현) 제20대 국회의원(자유한국당, 충북충주) (현) 국회 산업통상자원중소벤처기업위원회 간사위원 (현) 자유한국당 정책위 부의장 (현) 자유한국당 대외협력위원장 대통령비서실행정관 행정자치부 재정경제과장, 자치행정과장 행정자치부 자치경찰추진단장 미 콜로라도 주립대학 객원교수 행정안전부 차관보 행정안전부 제2차관 민선 5기 충주시장 제19대 국회의원 
+   </memTitle>
+   <origNm>
+    충북 충주시
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    오효택, 장민호
+   </secretary>
+   <secretary2>
+    김교범, 김영진, 이미향, 김주현
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회,에너지 특별위원회
+   </shrtNm>
+   <staff>
+    김성훈, 임순묵
+   </staff>
+  </item>
+ </body>
+</response>

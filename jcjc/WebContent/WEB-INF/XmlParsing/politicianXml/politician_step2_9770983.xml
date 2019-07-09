@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kbgbundang@gmail.com
+   </assemEmail>
+   <assemTel>
+    02-784-5490
+   </assemTel>
+   <bthDate>
+    19730115
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김병관
+   </empNm>
+   <engNm>
+    KIM BYOUNGGWAN
+   </engNm>
+   <hbbyCd>
+    수영
+   </hbbyCd>
+   <hjNm>
+    金炳官
+   </hjNm>
+   <memTitle>
+    행정안전위원회 위원 전)법제사법위원회 위원 전)상반기 행정안전위원회 위원 전)청년미래특별위원회 간사 더불어민주당 최고위원 더불어민주당 전국청년위원장 전)상반기 산업통상자원중소벤처기업위원회 위원 전)더불어민주당 비상대책위원회 위원 전)웹젠 이사회 의장
+   </memTitle>
+   <origNm>
+    경기 성남시분당구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    이준협, 정민구
+   </secretary>
+   <secretary2>
+    신청수, 박경호, 이진주, 김현숙
+   </secretary2>
+   <shrtNm>
+    4차 산업혁명 특별위원회,행정안전위원회
+   </shrtNm>
+   <staff>
+    김세호, 오형범
+   </staff>
+  </item>
+ </body>
+</response>

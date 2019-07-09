@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    sdl1951@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/sdl1951
+   </assemHomep>
+   <assemTel>
+    02-784-4750
+   </assemTel>
+   <bthDate>
+    19511204
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이상돈
+   </empNm>
+   <engNm>
+    LEE SANGDON
+   </engNm>
+   <hjNm>
+    李相敦
+   </hjNm>
+   <memTitle>
+    2018.07~ 제20대 국회 후반기 환경노동위원회 위원 2018.02 제20대 국회의원(비례대표/바른미래당) 2016.12 ~ 2017.12 제20대 국회 헌법개정특별위원회 위원 2016.06 제20대 국회 전반기 환경노동위원회 위원 2016.05~2018.02 제20대 국회의원(비례대표/국민의당) 2016.05 국민의당 최고위원 2016.02 ~ 2016.04 국민의당 선거대책위원회 공동위원장 중앙대학교 법과대학 명예교수 2007.07~2009.02 중앙대학교 법학연구소 소장 2001.02~2003.02 중앙대학교 법과대학 학장 1995.09~2003.12 조선일보 비상임 논설위원 1995.09~1995.12 미국 로욜라대학교 로스쿨 객원교수 1993.03~2013.02 중앙대학교 법과대학 교수 
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김이진, 이주호
+   </secretary>
+   <secretary2>
+    김유나, 장수진, 임찬호, 박용훈
+   </secretary2>
+   <shrtNm>
+    환경노동위원회
+   </shrtNm>
+   <staff>
+    민경일, 박성우
+   </staff>
+  </item>
+ </body>
+</response>

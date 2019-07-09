@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    youngvote@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://dreamyp.or.kr
+   </assemHomep>
+   <assemTel>
+    02-784-3143
+   </assemTel>
+   <bthDate>
+    19570430
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    홍영표
+   </empNm>
+   <engNm>
+    HONG YOUNGPYO
+   </engNm>
+   <examCd>
+    갈등조정
+   </examCd>
+   <hbbyCd>
+    음악감상
+   </hbbyCd>
+   <hjNm>
+    洪永杓
+   </hjNm>
+   <memTitle>
+    - 대우자동차 직업훈련원 수료, 차체부 생산직입사 (1982) - 대우자동차 영국판매법인 주재원 (1995-2001) - 참여연대 정책위원 (2001) - 국무총리실 시민사회비서관 (2004) - 저출산고령화대책연석회의 지원단 부단장 (2006) - 우석대 유통통상학부 초빙교수 (2008) - 국회의원(부평을), 민주당 원내부대표, 시민주권모임 운영위원 (2009) - 민주당 원내대변인 (2011) - 전국노동위원장, 국회 환경노동위원회 야당간사 (2011-2012) - 국회 예결특위 위원 (2012) - 민주통합당대표 비서실장 (2012) - 민주통합당 정책위 수석부의장 (2012) - 국회 산업통상자원위원회 간사 (2014) - 국회 산업통상자원위원회 위원장 직무대리 (2015) - 국회 환경노동위원장 (2016) - 더불어민주당 원내대표 (2018) * 수상경력: 민주화운동 유공자 인정 황조근정훈장 * 트위터: @YoungpyoHong
+   </memTitle>
+   <origNm>
+    인천 부평구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    윤낙영, 서희철, 이지혜
+   </secretary>
+   <secretary2>
+    김유경, 변윤섭, 황한솔, 정형은, 김승혜, 김영주 
+   </secretary2>
+   <shrtNm>
+    국방위원회,국회운영위원회,정보위원회
+   </shrtNm>
+   <staff>
+    장철민, 이태명
+   </staff>
+  </item>
+ </body>
+</response>

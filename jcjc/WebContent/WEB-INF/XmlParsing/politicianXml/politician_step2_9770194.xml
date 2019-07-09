@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    anyang21@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://www.ljk.co.kr
+   </assemHomep>
+   <assemTel>
+    02-788-2694
+   </assemTel>
+   <bthDate>
+    19570522
+   </bthDate>
+   <electionNum>
+    16,17,18,19,20대
+   </electionNum>
+   <empNm>
+    이종걸
+   </empNm>
+   <engNm>
+    LEE JONGKUL
+   </engNm>
+   <examCd>
+    피아노
+   </examCd>
+   <hbbyCd>
+    농구,축구
+   </hbbyCd>
+   <hjNm>
+    李鍾杰
+   </hjNm>
+   <memTitle>
+    경기고, 서울법대졸, 법무법인나라대표변호사(역임) 민변 기획간사, 경찰개혁위원회 위원, 공정거래위원회 자문위원, 서울시립대학 강사, 안양시민연대 공동대표, 새천년민주당 원내부총무, 인권위원장, 대표비서실장 열린우리당 중앙위원 열린우리당 원내수석부대표 대한농구협회 회장 겸 아시아농구연맹 부회장(역임) 국회 예산결산특별위원회 위원, 간사(역임) 중도개혁통합신당추진모임 정책위의장(역임) 민주통합당 최고위원(역임) 더불어민주당 원내대표(현)
+   </memTitle>
+   <origNm>
+    경기 안양시만안구
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    5선제20대
+   </reeleGbnNm>
+   <secretary>
+    김홍일, 윤소영
+   </secretary>
+   <secretary2>
+    김영환, 이영규, 허은성, 정윤재
+   </secretary2>
+   <shrtNm>
+    과학기술정보방송통신위원회,사법개혁 특별위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    김우식, 정철영
+   </staff>
+  </item>
+ </body>
+</response>

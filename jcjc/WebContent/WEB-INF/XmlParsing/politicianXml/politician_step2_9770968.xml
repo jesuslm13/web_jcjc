@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    sdkwin16@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://shindk.kr
+   </assemHomep>
+   <assemTel>
+    02-784-6142~4, (F)02-788-0149
+   </assemTel>
+   <bthDate>
+    19611222
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    신동근
+   </empNm>
+   <engNm>
+    SHIN DONGKEUN
+   </engNm>
+   <hjNm>
+    申東根
+   </hjNm>
+   <memTitle>
+    ▶ 경력 현) 더불어민주당 원내부대표 현) 국회보건복지위원회 위원 현) 국회운영위원회 위원 현) 제20대 인천서구을 국회의원 현) 더불어민주당 인천서구을 지역위원회 위원장 전) 새정치민주연합 인천시당위원장 전) 인천광역시 정무부시장 전) 인천의료관광재단 이사장 민주화운동 관련 국가유공자 인정 전) 보건의료대표자회의 의장 전) 건강사회를 위한 치과의사회 회장 전) 한국청년연합 공동준비위원장 전) 신동근 치과의원 원장 전) 경희대 삼민투 위원장 ▶ 학력 서울대 대학원 치의학박사과정 수료 서울대 대학원 치의학과 석사 경희대 치대 졸업 국립전북기계공고 졸업
+   </memTitle>
+   <origNm>
+    인천 서구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    윤나리, 이현주
+   </secretary>
+   <secretary2>
+    정상운, 서명훈, 이영철, 김정은, 고현실
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,문화체육관광위원회
+   </shrtNm>
+   <staff>
+    홍웅표, 이상규
+   </staff>
+  </item>
+ </body>
+</response>

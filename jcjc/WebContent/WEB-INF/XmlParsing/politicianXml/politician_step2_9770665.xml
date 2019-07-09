@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    hip@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://www.hip.or.kr
+   </assemHomep>
+   <assemTel>
+    02-784-6346
+   </assemTel>
+   <bthDate>
+    19560211
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    홍일표
+   </empNm>
+   <engNm>
+    HONG ILPYO
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    洪日杓
+   </hjNm>
+   <memTitle>
+    - 건국대 법대, 동 대학원 졸업 - 사법시험(23회) 합격 - 인천지법, 서울고법 판사 - 대법원 재판연구관 - 인천광역시 정무부시장
+   </memTitle>
+   <origNm>
+    인천 미추홀구갑
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    서현석, 이시승
+   </secretary>
+   <secretary2>
+    곽윤주, 안대현, 이중용, 선승혜
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회
+   </shrtNm>
+   <staff>
+    김현숙, 박흥찬
+   </staff>
+  </item>
+ </body>
+</response>

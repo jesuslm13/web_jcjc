@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-8410
+   </assemTel>
+   <bthDate>
+    19670910
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김영진
+   </empNm>
+   <engNm>
+    KIM YOUNGJIN
+   </engNm>
+   <examCd>
+    축구
+   </examCd>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    金榮鎭
+   </hjNm>
+   <origNm>
+    경기 수원시병
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김병수, 이승협
+   </secretary>
+   <secretary2>
+    김동준, 윤석민, 박원영, 김혜원
+   </secretary2>
+   <shrtNm>
+    국토교통위원회
+   </shrtNm>
+   <staff>
+    노창식, 박금직
+   </staff>
+  </item>
+ </body>
+</response>

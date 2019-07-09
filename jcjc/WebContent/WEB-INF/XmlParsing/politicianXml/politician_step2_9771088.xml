@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    shlee197520@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/shlee197520
+   </assemHomep>
+   <assemTel>
+    02-784-9671
+   </assemTel>
+   <bthDate>
+    19490104
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이수혁
+   </empNm>
+   <engNm>
+    LEE SOOHYUCK
+   </engNm>
+   <hjNm>
+    李秀赫
+   </hjNm>
+   <memTitle>
+    - 서울대학교 외교학 학사 - 연세대학교 정치학 석사 - 전) 청와대 외교통상비서관 (김대중 정부) - 전) 외교통상부 차관보 - 전) 북핵 6자회담 초대 수석대표 (노무현 정부) - 전) 주독일 대한민국 대사관 특명전권대사 - 전) 국가정보원 1차장 - 전) 단국대학교 석좌교수 - 전) 더불어민주당 한반도경제통일위원장 - 현) 더불어민주당 국제위원장 - 현) 더불어민주당 제2정조위원장
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    우수미
+   </secretary>
+   <secretary2>
+    황동현, 강민정, 노성민
+   </secretary2>
+   <shrtNm>
+    외교통일위원회
+   </shrtNm>
+   <staff>
+    김상범, 서정환
+   </staff>
+  </item>
+ </body>
+</response>

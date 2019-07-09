@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    jsh35351@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/jsh35351
+   </assemHomep>
+   <assemTel>
+    02-788-2816(본관433호)
+   </assemTel>
+   <bthDate>
+    19620602
+   </bthDate>
+   <electionNum>
+    17,19,20대
+   </electionNum>
+   <empNm>
+    정성호
+   </empNm>
+   <engNm>
+    JUNG SUNGHO
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    鄭成湖
+   </hjNm>
+   <memTitle>
+    대신고등학교 졸업 서울대학교 법학 학사 제28회 사법시험 합격 사법연수원 제18기 수료 육군 제3사단 법무관 복무 민주사회를 위한 변호사 모임 회원 의정부YMCA 이사 경기북부환경운동연합 공동대표 연천군청 고문변호사 제17대 열린우리당 국회의원(경기 양주·동두천) 법제사법위원회 위원 건설교통위원회 위원 열린우리당 원내부대표 동두천시청 고문변호사 경기도교육청 고문변호사 의정부시청 고문변호사 경기 교원장학재단 감사 민주정책연구원 부원장 제19대 민주통합당 국회의원(경기 양주·동두천) 기획재정위원회 위원 국회운영위원회 간사 민주통합당 대변인 한국·러시아 의원친선협회 간사 민주당 원내수석부대표 국토교통위원회 간사 교통법안심사소위원회 위원장
+   </memTitle>
+   <origNm>
+    경기 양주시
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    안중언,유무성
+   </secretary>
+   <secretary2>
+    강유진, 정희태, 성세운, 오현숙
+   </secretary2>
+   <shrtNm>
+    기획재정위원회
+   </shrtNm>
+   <staff>
+    정원철, 서준섭
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    smedass2015@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/smedass2015
+   </assemHomep>
+   <assemTel>
+    02-782-9901
+   </assemTel>
+   <bthDate>
+    19560628
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    신상진
+   </empNm>
+   <engNm>
+    SHIN SANGJIN
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    申相珍
+   </hjNm>
+   <origNm>
+    경기 성남시중원구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    이정훈, 한필수
+   </secretary>
+   <secretary2>
+    이호준, 이기철, 강동준, 전그림
+   </secretary2>
+   <shrtNm>
+    보건복지위원회
+   </shrtNm>
+   <staff>
+    박종진, 윤광석
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemHomep>
+    http://blog.naver.com/smjingogo
+   </assemHomep>
+   <assemTel>
+    02-784-9591
+   </assemTel>
+   <bthDate>
+    19670514
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    진선미
+   </empNm>
+   <engNm>
+    JIN SUNMEE
+   </engNm>
+   <examCd>
+    노래
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    陳善美
+   </hjNm>
+   <memTitle>
+    재선(19대. 20대 강동구 갑 국회의원) 성균관대학교 법학과 졸업 민주화를 위한 변호사모임 여성인권위원장 새정치민주연합 정책위원회 부의장 국회 여성아동대상 성폭력대책 특별위원회 위원 더불어민주당 원내부대표 더불어민주당 선거대책위원회 위원 더불어민주당 을지로위원회 법률지원단장 국회 저출산고령화 특별위원회 더불어민주당 간사 더불어민주당 제1정책조정위원회 위원장 더불어민주당 원내 수석 부대표 현, 국회 문화체육관광위원회 위원 현, 여성가족부 장관
+   </memTitle>
+   <origNm>
+    서울 강동구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    장동혁 권기완
+   </secretary>
+   <secretary2>
+    송지은 김오현 김연화 김진이
+   </secretary2>
+   <shrtNm>
+    문화체육관광위원회
+   </shrtNm>
+   <staff>
+    이연재 황두영
+   </staff>
+  </item>
+ </body>
+</response>

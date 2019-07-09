@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    cleanshim@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.cleanshim.com
+   </assemHomep>
+   <assemTel>
+    02-784-4164
+   </assemTel>
+   <bthDate>
+    19580118
+   </bthDate>
+   <electionNum>
+    16,17,18,19,20대
+   </electionNum>
+   <empNm>
+    심재철
+   </empNm>
+   <engNm>
+    SHIM JAECHEOL
+   </engNm>
+   <hbbyCd>
+    색소폰
+   </hbbyCd>
+   <hjNm>
+    沈在哲
+   </hjNm>
+   <memTitle>
+    학력 - 서울대영어교육과 - 중앙대사회개발대학원 사회복지학과 - 가톨릭대 보건대학원 박사과정 주요경력 - 80년 &amp;#039서울의 봄&amp;#039 당시 서울대 총학생회장 - MBC 보도국기자 - 신한국당·한나라당부대변인 - 한나라당 전략기획위원장 - 한나라당 홍보기획본부장 - 한나라당 경기도당 위원장 - 한나라당 정책위의장 - 새누리당 최고위원 - 국회 윤리특별위원회 위원장 - 국회 예산결산특별위원회 위원장 - 국회 장애인 인권침해 방지대책 특위 위원장 - 20대 전반기 국회부의장 - 국회 한-영국의원 친선협회 회장 - 국회 스마트컨버전스연구회 대표 - 국회 경제살리기일자리창출포럼 대표 - 국회 유라시아철도 추진위원회 위원장 - 국회 친환경전기자동차 포럼 회장 - 국회 가톨릭신도의원회 회장 - 자유한국당 북한산석탄수입의혹규명특위 위원 - 현)국회 기획재정위원회 위원 - 현)국회 자유민주주의와 시장경제포럼 대표 - 현)자유한국당 좌파독재저지 특별위원회 고문 - 현)자유한국당 북한산석탄수입의혹규명 특별위원회 위원 - 현)국회 한-이라크 의원친선혐회 부회장 - 현)국회 한-코스타리카 의원친선혐회 부회장
+   </memTitle>
+   <origNm>
+    경기 안양시동안구을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    5선제20대
+   </reeleGbnNm>
+   <secretary>
+    황선용, 장효정 
+   </secretary>
+   <secretary2>
+    김진성 , 장윤현, 이동훈
+   </secretary2>
+   <shrtNm>
+    기획재정위원회
+   </shrtNm>
+   <staff>
+    정연철 
+   </staff>
+  </item>
+ </body>
+</response>

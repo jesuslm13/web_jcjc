@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    okdaegu@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://taeok.kr
+   </assemHomep>
+   <assemTel>
+    02-784-2820
+   </assemTel>
+   <bthDate>
+    19611127
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    정태옥
+   </empNm>
+   <engNm>
+    CHOUNG TAEOK
+   </engNm>
+   <hbbyCd>
+    배드민턴
+   </hbbyCd>
+   <hjNm>
+    鄭泰沃
+   </hjNm>
+   <memTitle>
+    2017.02 ~ 자유한국당 원내대변인 2017.02 ~ 제20대 국회의원 (대구 북구갑/자유한국당) 2017.02 ~ 자유한국당 원내부대표 2017.01 ~ 2017.02 새누리당 원내대변인 2016.07 ~ 제20대 국회 지방재정분권특별위원회 위원 2016.06 ~ 제20대 국회 전반기 정무위원회 위원 2016.05 ~ 2017.02 제20대 국회의원 (대구 북구갑/새누리당) 2016.05 ~ 2017.02 새누리당 원내부대표 2014.08 ~ 2015.10 대구광역시 행정부시장 2014.05 ~ 2014.08 안전행정부 지방행정정책관 2013.04 ~ 2014.05 안전행정부 지역발전정책관 2010.07 ~ 2013.04 인천광역시청 기획관리실장 2008.03 ~ 2009.09 대통령실 선임행정관 1986 제30회 행정고시 합격 
+   </memTitle>
+   <origNm>
+    대구 북구갑
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    권보선, 서기대
+   </secretary>
+   <secretary2>
+    김태우, 이현철, 조혜아, 김유진
+   </secretary2>
+   <shrtNm>
+    사법개혁 특별위원회,정무위원회
+   </shrtNm>
+   <staff>
+    구본태, 우기송
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    shk@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://cleankim.kr/
+   </assemHomep>
+   <assemTel>
+    02-784-4173
+   </assemTel>
+   <bthDate>
+    19540518
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    김상희
+   </empNm>
+   <engNm>
+    KIM SANGHEE
+   </engNm>
+   <examCd>
+    노래
+   </examCd>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    金相姬
+   </hjNm>
+   <memTitle>
+    o 학력 -1972. 2 공주사대부속고등학교 졸업 -1976. 2 이화여자대학교 제약학과 졸업 o 경력 -한국여성민우회 상임대표 -여성환경연대 공동대표 -한국방송공사(KBS) 이사 -대통령자문 지속가능발전위원회 위원장 (장관급) -통합민주당 최고위원 -민주당 전국여성위원장 -민주당 소사구 지역위원장 -민주당 원내부대표 -제18대 국회의원(비례대표), 19대 국회의원(부천소사) -국회 환경노동위원회, 교육과학기술위원회, 교육문화체육관광위원회, 국토교통위원회 위원 -국회 여성가족위원회 간사 -국회 예산결산특별위원회, 서민주거복지특별위원회 위원 -국회 국민건강복지포럼 공동대표 -국회 여성가족위원회 위원장 -국회 성평등정책포럼 대표 o 현직 -제20대 국회의원(부천시소사구) -더불어민주당 부천 소사 지역위원장 -국회 민생경제특별위원회 위원장 -국회 보건복지위원회 위원 -국회 인구정책과 생활정치를 위한 의원모임 대표의원 -더불어민주당 을지로위원회 위원 
+   </memTitle>
+   <origNm>
+    경기 부천시소사구
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    권민희, 김영기
+   </secretary>
+   <secretary2>
+    박갑식, 문채영, 김소연, 양지현
+   </secretary2>
+   <shrtNm>
+    보건복지위원회,정치개혁 특별위원회
+   </shrtNm>
+   <staff>
+    김명신, 임채원
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    ksjv7900@naver.com
+   </assemEmail>
+   <assemTel>
+    02-784-1460
+   </assemTel>
+   <bthDate>
+    19591207
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    강석진
+   </empNm>
+   <engNm>
+    KANG SEOKJIN
+   </engNm>
+   <hjNm>
+    姜錫振
+   </hjNm>
+   <origNm>
+    경남 산청군함양군거창군합천군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    서일교, 신우성
+   </secretary>
+   <secretary2>
+    김준형, 신용욱, 용선주, 정진남
+   </secretary2>
+   <shrtNm>
+    농림축산식품해양수산위원회
+   </shrtNm>
+   <staff>
+    김완철, 오석환
+   </staff>
+  </item>
+ </body>
+</response>

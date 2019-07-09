@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    sotong533@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/kopark2012
+   </assemHomep>
+   <assemTel>
+    02-784-5364
+   </assemTel>
+   <bthDate>
+    19570326
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    박광온
+   </empNm>
+   <engNm>
+    PARK KWANGON
+   </engNm>
+   <hjNm>
+    朴洸瑥
+   </hjNm>
+   <memTitle>
+    MBC 도쿄 특파원, 앵커, 보도국 통일외교부장, 정치국제에디터, 논설위원, 보도국장 제18대 대통령 선거 문재인대통령후보 선거대책위원회 대변인 민주당 홍보위원장 새정치민주연합 대변인 제19대 국회의원 제19대 국회 기획재정위원회 위원 제19대 국회 운영위원회 위원 새정치민주연합 원내부대표 더불어민주당 문재인 당대표 비서실장 현) 제20대 국회의원 더불어민주당 수석대변인 국정기획자문위원회 대변인 겸 경제분과 위원 국회 기획재정위원회 간사 국회 예산결산특별위원회 위원 더불어민주당 국민연금 공공투자정책추진 특별위원회 위원장 더불어민주당 제3정조위 위원장 더불어민주당 경기도당 위원장 현)국회 과학기술정보방송통신위원회 위원 
+   </memTitle>
+   <origNm>
+    경기 수원시정
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    홍순웅
+   </secretary>
+   <secretary2>
+    차진완,오영하,한소진,권영근
+   </secretary2>
+   <shrtNm>
+    과학기술정보방송통신위원회
+   </shrtNm>
+   <staff>
+    이한돌,이용국,김민주
+   </staff>
+  </item>
+ </body>
+</response>

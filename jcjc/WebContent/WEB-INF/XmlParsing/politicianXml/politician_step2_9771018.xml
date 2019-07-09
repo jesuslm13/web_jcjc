@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    glyj532@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/glyj532
+   </assemHomep>
+   <assemTel>
+    02-784-6090~2
+   </assemTel>
+   <bthDate>
+    19680614
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이용주
+   </empNm>
+   <engNm>
+    LEE YONGJU
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    李勇周
+   </hjNm>
+   <memTitle>
+    서울대 법학과 졸, 법무부 보호국 검사, 서울중앙지검·광주지검·순천지청·서울고검 검사, 서울동부지검·창원지검 부장검사, 전)법무법인 태원 대표변호사, 국민의당 원내부대표, 국민의당 법률위원장, 국회 법제사법위원회 간사, 국회 예산결산특별위원회 위원
+   </memTitle>
+   <origNm>
+    전남 여수시갑
+   </origNm>
+   <polyNm>
+    민주평화당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    유지은, 백진오
+   </secretary>
+   <secretary2>
+    박철주, 박선영, 강성태, 안민우
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회
+   </shrtNm>
+   <staff>
+    조훈환, 임현
+   </staff>
+  </item>
+ </body>
+</response>

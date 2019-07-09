@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    cyber633@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://doublechae.kr
+   </assemHomep>
+   <assemTel>
+    02-784-9480
+   </assemTel>
+   <bthDate>
+    19750102
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    채이배
+   </empNm>
+   <engNm>
+    CHAE YIBAI
+   </engNm>
+   <hbbyCd>
+    영화감상
+   </hbbyCd>
+   <hjNm>
+    蔡利培
+   </hjNm>
+   <memTitle>
+    1998 참여연대 경제민주화위원회 간사 2001 공인회계사 합격 2001~2004 삼일회계법인 금융본부 2004~2007 이엔테크놀로지 재무팀장 2006~2016 좋은기업지배구조연구소 연구위원 2013~2016 참여연대 감사 2009~2016 경제개혁연구소 연구위원
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    이미래
+   </secretary>
+   <secretary2>
+    신동승, 박진선, 이현영, 김유환
+   </secretary2>
+   <shrtNm>
+    법제사법위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    정용해, 송시현
+   </staff>
+  </item>
+ </body>
+</response>

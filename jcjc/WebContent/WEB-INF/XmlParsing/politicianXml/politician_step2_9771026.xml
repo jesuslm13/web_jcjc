@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    jsc5708@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/firstgumi
+   </assemHomep>
+   <assemTel>
+    02-784-7380
+   </assemTel>
+   <bthDate>
+    19570818
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    장석춘
+   </empNm>
+   <engNm>
+    JANG SEOKCHUN
+   </engNm>
+   <hjNm>
+    張錫春
+   </hjNm>
+   <memTitle>
+    청암고, 고려대 노동대학원 고위지도자과정 수료 前한국노동조합총연맹 위원장 前청와대 고용노동특별보좌관 前경제사회발전노사정위원회 위원 前중앙노동위원회 근로자위원 前노사발전재단 공동이사장
+   </memTitle>
+   <origNm>
+    경북 구미시을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박현영, 윤창혁
+   </secretary>
+   <secretary2>
+    최미아, 한상훈, 윤태식
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회
+   </shrtNm>
+   <staff>
+    백은상, 장재권
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    wychoi2016@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/wychoi2016
+   </assemHomep>
+   <assemTel>
+    02-784-2350
+   </assemTel>
+   <bthDate>
+    19500402
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    최운열
+   </empNm>
+   <engNm>
+    CHOI WOONYOUL
+   </engNm>
+   <hjNm>
+    崔運烈
+   </hjNm>
+   <memTitle>
+    학력) 서울대학교 경영학 학사 조지아대학교 대학원 경영학 석사 조지아대학교 대학원 경영학 박사 경력) 現 제20대 국회의원(더불어민주당) 제20대 국회 정무위원회 위원 더불어민주당 정책위원회 상임부의장 더불어민주당 국가경제자문회의 부의장 前 한국은행 금융통화위원회 위원 서강대학교 부총장 / 경영학부 교수 국민경제자문위원회 위원 한국증권연구원 원장 코스닥위원회 위원장 제20대 국회 미래일자리특별위원회 간사 제20대 국회 4차산업혁명특별위원회 위원 더불어민주당 경제민주화 T/F 단장 더불어민주당 정책위원회 부의장 더불어민주당 을지로위원회 상임부위원장
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    장기홍, 홍승민
+   </secretary>
+   <secretary2>
+    정성조, 유근정, 강경미, 김민상
+   </secretary2>
+   <shrtNm>
+    정무위원회
+   </shrtNm>
+   <staff>
+    신동림, 이동주
+   </staff>
+  </item>
+ </body>
+</response>

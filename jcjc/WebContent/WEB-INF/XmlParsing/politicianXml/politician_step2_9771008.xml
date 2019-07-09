@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    sij5140@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.sungij.co.kr
+   </assemHomep>
+   <assemTel>
+    02-784-6290
+   </assemTel>
+   <bthDate>
+    19630319
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    성일종
+   </empNm>
+   <engNm>
+    SUNG ILJONG
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    成一鍾
+   </hjNm>
+   <memTitle>
+    □ 경력 제 20대 국회의원(서산·태안) 새누리당 원내부대표 국회 보건복지위원회 위원 국회 운영위원회 위원 국회 예산결산특별위원회 위원 (前) ㈜엔바이오컨스 대표이사 (前) 고려대학교 그린스쿨대학원 겸임교수 (前) 민주평화통일자문위 중앙상임위원 (前) 국토해양부 자문위원 (前) (사)독도사랑운동본부 총재 (前) 고려대학교 교우회 부회장 □수상 은탑산업훈장 수훈 Seoul Success Award 수상(서울신문) ‘10년후 한국을 빛낼 100인의 리더’선정(동아일보) 포브스 최고경영자 대상 수상(포브스코리아) 창조경제 CEO 대상(녹색환경부문, 동아일보) □ 학력 광운대학교 대학원 환경공학 박사 고려대학교 정책대학원 도시및지방행정학 석사 고려대학교 경영학과 학사 서산고등학교
+   </memTitle>
+   <origNm>
+    충남 서산시태안군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박정호, 유재영
+   </secretary>
+   <secretary2>
+    양준호, 김길수, 여미애, 성정환
+   </secretary2>
+   <shrtNm>
+    예산결산특별위원회,윤리특별위원회,정무위원회
+   </shrtNm>
+   <staff>
+    김태륜
+   </staff>
+  </item>
+ </body>
+</response>

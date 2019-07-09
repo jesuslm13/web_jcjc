@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    5321tempia@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/ijs5321
+   </assemHomep>
+   <assemTel>
+    02-784-8380
+   </assemTel>
+   <bthDate>
+    19650805
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    임종성
+   </empNm>
+   <engNm>
+    LIM JONGSEONG
+   </engNm>
+   <hjNm>
+    林鍾聲
+   </hjNm>
+   <memTitle>
+    [학력] 한양대학교 행정자치대학원 졸업(석사) [주요경력] 제20대 국회의원 경기 광주시을(오포,초월,곤지암,도척) 제20대 국회 국토교통위원회 위원 청년미래특별위원회 위원 국회 규제개혁포럼 공동대표 더불어민주당 조직사무부총장 더불어민주당 2018지방선거기획단·조직강화특별위원회·당원자격심사위원회 위원 더불어민주당 국민통합위원회 상임부위원장 더불어민주당 도시농업특별위원회 위원장 더불어민주당 서민주거TF 주거공급소위원회 위원 (사)국제장애인문화교류협회중앙회 자문위원 제7, 8대 경기도의회 의원(전) 경기도의회 교육위원회 간사·도시환경위원장(전) 경기도의회 저탄소녹색성장연구회 회장(전) 민주당 경기도당 청년위원장(전) 민주당 중앙당 청년위원회 상임부위원장(전) 광주청년회의소 회장(전) 광주시 청소년오케스트라 초대단장(전)
+   </memTitle>
+   <origNm>
+    경기 광주시을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    설동찬, 이두섭
+   </secretary>
+   <secretary2>
+    송경하,김균태,이주란,이상헌,이수현
+   </secretary2>
+   <shrtNm>
+    국토교통위원회,여성가족위원회
+   </shrtNm>
+   <staff>
+    김석구, 전우선
+   </staff>
+  </item>
+ </body>
+</response>

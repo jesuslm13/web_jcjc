@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    ksw-911@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/v0413ksw
+   </assemHomep>
+   <assemTel>
+    02-784-6566
+   </assemTel>
+   <bthDate>
+    19731015
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김성원
+   </empNm>
+   <engNm>
+    KIM SUNGWON
+   </engNm>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    金成願
+   </hjNm>
+   <memTitle>
+    학력 고려대학교 대학원 공학박사 경력 제20대 국회의원(경기 동두천시연천군/자유한국당)(현) 국회 운영위원회 위원(현) 국회 정무위원회 위원(현) 국회 예산결산특별위원회 위원(현) 국회 남북경협특별위원회 위원(현) 국회 남북관계개선특별위원회 위원 국회 가습기살균제 사고 진상규명과 피해규제 및 재발방지 대책마련을 위한 국정조사특별위원회 위원 자유한국당 통일위원회 위원장(현) 자유한국당 경기도당 수석 부위원장(현) 자유한국당 경기도당 조직본부 북부권 본부장(현) 자유한국당 원내대변인 자유한국당 대변인 자유한국당 청년소통특별위원회 위원장 자유한국당 조직강화특별위원회 위원 자유한국당 경기도당 윤리위원회 위원장 새누리당 원내부대표 고려대학교 연구교수
+   </memTitle>
+   <origNm>
+    경기 동두천시연천군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    신형섭
+   </secretary>
+   <secretary2>
+    정재환, 김준표, 김은미, 권영기, 현지연
+   </secretary2>
+   <shrtNm>
+    남북경제협력 특별위원회,예산결산특별위원회,정무위원회
+   </shrtNm>
+   <staff>
+    양우식, 오남택
+   </staff>
+  </item>
+ </body>
+</response>

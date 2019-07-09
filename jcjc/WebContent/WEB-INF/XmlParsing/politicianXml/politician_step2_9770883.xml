@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    7842055@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.joohoyoung.or.kr
+   </assemHomep>
+   <assemTel>
+    02-788-2137, 02-784-2055/2056
+   </assemTel>
+   <bthDate>
+    19601210
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    주호영
+   </empNm>
+   <engNm>
+    JOO HOYOUNG
+   </engNm>
+   <examCd>
+    운동
+   </examCd>
+   <hbbyCd>
+    독서,바둑
+   </hbbyCd>
+   <hjNm>
+    朱豪英
+   </hjNm>
+   <memTitle>
+    능인고 졸업 영남대 법학과 졸업 사법시험 24회 영남대 법학박사 대구지방법원 부장판사, 영덕상주지원장 제 17, 18, 19대 국회의원 (전) 이명박 대통령후보 비서실장 (전) 17대 대통령당선인 대변인 (전) 한나라당 원내수석부대표 (전) 국회운영위원회 간사 (전) 국회여성위원회 위원 (전) 국회국제경기지원특별위원회 법안심사소위원장 (전) 국회 문화체육관광방송통신위원회 위원 (전) 초대 특임장관 (전) 여의도연구소장 (전) 새누리당 인재영입위원장 (전) 국회외교통상통일위원회 위원 (전) 국회문화체육관광방송통신위원회 위원 (전) 국회교육문화체육관광위원회 위원 (전) 국회정치개혁특별위원회 위원장 (전) 새누리당 대구시당위원장 (전) 새누리당 정책위의장 (전) 국회정보위원회 위원장 (전) 국회국방위원회 위원 (전) 바른정당 원내대표
+   </memTitle>
+   <origNm>
+    대구 수성구을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    임대규, 손희권, 김나원
+   </secretary>
+   <secretary2>
+    정찬기, 남길호, 구명본
+   </secretary2>
+   <shrtNm>
+    정무위원회
+   </shrtNm>
+   <staff>
+    우경식, 손정갑
+   </staff>
+  </item>
+ </body>
+</response>

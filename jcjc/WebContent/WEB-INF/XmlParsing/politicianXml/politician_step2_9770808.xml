@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    winneryks@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/winneryks
+   </assemHomep>
+   <assemTel>
+    02-784-4380
+   </assemTel>
+   <bthDate>
+    19600817
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    윤관석
+   </empNm>
+   <engNm>
+    YOUN KWANSUK
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    尹官石
+   </hjNm>
+   <memTitle>
+    * 보성고 졸업 * 한양대학교 신문학과 졸업 * 민주당 정책위 부의장 * 남동을 지역위원회 위원장 * 국회 교육문화체육관광위원회 위원 * 국회 평창동계올림픽 &amp;amp; 국제경기지원특별위원회 간사 * 국회 윤리특별위원회 위원 * 국회 스카우트 의원 연맹 이사 * 국회 한·쿠웨이트 의원친선협회 부회장 * 인천 남동(을) 민주당 지역위원장 * 실업극복국민운동 인천본부 이사 * 민주통합당 인천시당 민생공약실천특위위원장 * 인천시 문화복지 자문위원 * (전) 문재인 담쟁이 캠프(대통령 예비 후보) 대변인 * (전) 민선5기 인천시청 초대 대변인 * (전) 민주개혁을 위한 인천시민연대 초대 사무처장 * (전) 실업극복국민운동 인천본부 초대 사무처장
+   </memTitle>
+   <origNm>
+    인천 남동구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    윤영승, 황현정
+   </secretary>
+   <secretary2>
+    이유정, 조용석, 권민정, 최근화
+   </secretary2>
+   <shrtNm>
+    공공부문 채용비리 의혹과 관련된 국정조사특별위원회,국토교통위원회
+   </shrtNm>
+   <staff>
+    고영만, 허남동
+   </staff>
+  </item>
+ </body>
+</response>

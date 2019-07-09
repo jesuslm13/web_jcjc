@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    hhhyc@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/hhhyc
+   </assemHomep>
+   <assemTel>
+    02-784-5705
+   </assemTel>
+   <bthDate>
+    19650713
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    황영철
+   </empNm>
+   <engNm>
+    HWANG YOUNGCHEUL
+   </engNm>
+   <examCd>
+    축구
+   </examCd>
+   <hbbyCd>
+    축구
+   </hbbyCd>
+   <hjNm>
+    黃永哲
+   </hjNm>
+   <memTitle>
+    * 학력 - 홍천중학교 졸업 - 홍천고등학교 졸업 - 서울대학교 정치학과 졸업 * 경력 - 제1대 홍천군의회 의원 - 제4,5대 강원도의회 의원 - 제17대 대통령선거 한나라당 강원도 선거대책본부장(대변인) - 제18대 국회의원(강원도 홍천군,횡성군) - 새누리당 대변인 - 농림수산식품위원회 위원 - 예산결산특별위원회 위원 - 운영위원회 위원 - 제19대 국회의원(강원도 홍천군,횡성군) - 새누리당 대표최고위원 비서실장 - 새누리당 보수혁신특별위원회 위원 - 제19대 국회 안전행정위원회 새누리당 간사 - 군 인권개선 및 병영문화혁신 특별위원회 간사 - 민족화해협력범국민협의회 상임의장 - 제19대 국회 국토교통위원회 위원 - 새누리당 정책위원회 부의장 - 예산결산특별위원회 위원 - 제20대 국회의원(강원도 홍천군 철원군 화천군 양구군 인제군) - (現) 국방위원회 위원 - (現) 지역균형발전협의체 회장 - (前) 헌법개정 및 정치개혁 특별위원회 간사 - (前) 평창동계올림픽 및 국제경기대회지원 특별위원회 위원장 - (前) 행정안전위원회 위원 - (前) 자유한국당 제천화재참사 진상조사단 단장 - (前) 바른정당 강원도당위원장 - (前) 바른정당 귀농귀촌 특별위원회 위원장 - (前) 최순실 국정조사특별위원회 위원 - (前) 예산결산특별위원회위원 
+   </memTitle>
+   <origNm>
+    강원 홍천군철원군화천군양구군인제군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    권태환, 김도형
+   </secretary>
+   <secretary2>
+    유지헌, 윤혜림, 장경아, 김일훈, 최미숙
+   </secretary2>
+   <shrtNm>
+    국방위원회,남북경제협력 특별위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    이대희, 김화자
+   </staff>
+  </item>
+ </body>
+</response>

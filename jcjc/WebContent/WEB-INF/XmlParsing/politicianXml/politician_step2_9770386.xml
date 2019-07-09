@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    whywon21@daum.net
+   </assemEmail>
+   <assemHomep>
+    http://www.wonhyeyoung.or.kr
+   </assemHomep>
+   <assemTel>
+    02-784-3106
+   </assemTel>
+   <bthDate>
+    19510927
+   </bthDate>
+   <electionNum>
+    14,17,18,19,20대
+   </electionNum>
+   <empNm>
+    원혜영
+   </empNm>
+   <engNm>
+    WON HYEYOUNG
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    元惠榮
+   </hjNm>
+   <memTitle>
+    부천 북초교 서울 중동중.경복고 서울대 역사교육과 서울대 교양과정부 학생회장 반독재 민주화운동 관련 2회 복역 (주)풀무원식품 창업.경영 한겨레민주당 대변인 제14대 국회의원 (부천시 오정구) 국회 환경노동위원회 간사 민주당 원내대표의원 민선 2.3대 부천시장 전국 대도시 시장협의회 회장 PIFAN 조직위원장 제17대 국회의원 (부천시 오정구) 열린우리당 정책위원회 의장, 사무총장 열린우리당 최고위원 아시아.태평양환경개발의원회의 회장 한양대.가톨릭대 겸임교수 한.중의원외교협의회 부회장 제18대 국회의원 (부천시 오정구) 민주당 원내대표 국회 예산결산특별위원회 위원장 민주통합당 대표 제19대 국회의원 (부천시 오정구) 국회 남북관계 및 교류협력 발전 특별위원회 위원장 국회 정치개혁 특별위원회 위원장
+   </memTitle>
+   <origNm>
+    경기 부천시오정구
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    5선제20대
+   </reeleGbnNm>
+   <secretary>
+    노미선,조근희
+   </secretary>
+   <secretary2>
+    이수현,이범섭,유기준,이시은
+   </secretary2>
+   <shrtNm>
+    외교통일위원회,정치개혁 특별위원회
+   </shrtNm>
+   <staff>
+    김용석,유윤진
+   </staff>
+  </item>
+ </body>
+</response>

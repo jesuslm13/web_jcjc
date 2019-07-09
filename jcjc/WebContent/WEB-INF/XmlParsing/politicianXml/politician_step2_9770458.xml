@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    joo350@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://www.joo-sy.com
+   </assemHomep>
+   <assemTel>
+    02-788-2153
+   </assemTel>
+   <bthDate>
+    19520727
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    주승용
+   </empNm>
+   <engNm>
+    JOO SEUNGYONG
+   </engNm>
+   <examCd>
+    서예
+   </examCd>
+   <hbbyCd>
+    붓글씨,독서
+   </hbbyCd>
+   <hjNm>
+    朱昇鎔
+   </hjNm>
+   <memTitle>
+    광주일고.성균관대학교, 고려대 경영대학원 무역학석사 전남대학교 일반대학원 이학박사 제4대,5대 전라남도의회 의원 전남 여천군수 전국시장군수협의회 공동의장 전남 여수시장 제17,18,19대 국회의원 민주통합당 정책위의장 국회교통안전포럼 대표 새정치민주연합 사무총장 새정치민주연합 최고위원 국민의당 비대위원 국민의당 원내대표 現 제20대 국회의원 現 국회국토교통위원회 위원 現 국회물관리연구회 대표의원
+   </memTitle>
+   <origNm>
+    전남 여수시을
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    김다나, 안중근
+   </secretary>
+   <secretary2>
+    이정호, 박상욱, 서준원, 손오춘
+   </secretary2>
+   <shrtNm>
+    국토교통위원회
+   </shrtNm>
+   <staff>
+    강성필, 송현종
+   </staff>
+  </item>
+ </body>
+</response>

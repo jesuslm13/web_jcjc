@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    withmin413@gmail.com
+   </assemEmail>
+   <assemTel>
+    02-784-5920
+   </assemTel>
+   <bthDate>
+    19640512
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김종민
+   </empNm>
+   <engNm>
+    KIM JONGMIN
+   </engNm>
+   <hbbyCd>
+    영화감상
+   </hbbyCd>
+   <hjNm>
+    金鍾民
+   </hjNm>
+   <memTitle>
+    학력 장훈고등학교 서울대학교 국어국문학 학사 주요 경력 내일신문 기자 시사저널 기자 청와대 홍보기획비서관실 행정관 청와대 대변인 청와대 국정홍보비서관 충청남도 정무부지사 제20대 국회의원 (논산·계룡·금산) 국회 소속위원회 현) 법제사법위원회 현) 국회운영위원회 현) 정치개혁특별위원회 현) 헌법개정 및 정치개혁 특별위원회 전) 기획재정위원회 전) 헌법개정특별위원회 전) 예산결산특별위원회 전) 지방재정·분권특별위원회 더불어민주당 현) 원내부대표 전) 정책위원회 부의장 수상 내역 홍조근정훈장 
+   </memTitle>
+   <origNm>
+    충남 논산시계룡시금산군
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박철훈, 성치훈
+   </secretary>
+   <secretary2>
+    이현경, 박병훈, 정위지, 김진희
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,법제사법위원회,정치개혁 특별위원회
+   </shrtNm>
+   <staff>
+    정운몽, 홍성신
+   </staff>
+  </item>
+ </body>
+</response>

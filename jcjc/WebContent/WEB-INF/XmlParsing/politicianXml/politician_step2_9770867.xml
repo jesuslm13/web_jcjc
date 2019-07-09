@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    pv21c@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://hwangjuhong.com
+   </assemHomep>
+   <assemTel>
+    02-784-8834
+   </assemTel>
+   <bthDate>
+    19520227
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    황주홍
+   </empNm>
+   <engNm>
+    HWANG JUHONG
+   </engNm>
+   <hjNm>
+    黃柱洪
+   </hjNm>
+   <memTitle>
+    □ 학력 ○ 광주 제일고등학교 졸업 ○ 연세대학교 정치외교학과 정치학사 &amp;amp; 정치학석사 ○ 미국 미주리대학교 정치학석사 &amp;amp; 정치학박사(전공: 서양 정치사상) □ 주요경력 ○ 미국 미주리대학교 정치학 강사 ○ 미국 미네소타 대학교 연구교수 ○ 아태평화재단 연구실장 &amp;amp; 기획실장 ○ 국회정책연구위원 실장(1급) ○ 건국대학교 정치외교학과 교수 &amp;amp; 학과장 ○ 정당공천제폐지 국민운동본부 상임공동대표 ○ 민선 3, 4, 5기 전남 강진군수(3선) ○ 국민의당 최고위원 (2017. 1~2017. 5) ○ 민주평화당 정책위의장(전) ○ 국회 농림축산식품해양수산위원회 위원장 ○ 민주평화당 사무총장 
+   </memTitle>
+   <origNm>
+    전남 고흥군보성군장흥군강진군
+   </origNm>
+   <polyNm>
+    민주평화당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    공형옥, 김양훈
+   </secretary>
+   <secretary2>
+    신동식, 이정제, 곽창옥, 정경화
+   </secretary2>
+   <shrtNm>
+    농림축산식품해양수산위원회
+   </shrtNm>
+   <staff>
+    문경희, 이종용
+   </staff>
+  </item>
+ </body>
+</response>

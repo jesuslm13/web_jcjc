@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    songyounggil@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/songyounggil
+   </assemHomep>
+   <assemTel>
+    02-784-8957
+   </assemTel>
+   <bthDate>
+    19630321
+   </bthDate>
+   <electionNum>
+    16,17,18,20대
+   </electionNum>
+   <empNm>
+    송영길
+   </empNm>
+   <engNm>
+    SONG YOUNGGIL
+   </engNm>
+   <hbbyCd>
+    독서 등산
+   </hbbyCd>
+   <hjNm>
+    宋永吉
+   </hjNm>
+   <memTitle>
+     - 전라남도 고흥 출생 - 연세대 경영학과/ 초대 직선 총학생회장 - 사법고시 합격(36회), 변호사, 민주화를위한변호사모임 회원 - 한국방송통신대학교 중어중문, 일본학 - 前 대통령직속 북방경제협력위원회 위원장 - 現 4선 국회의원 (16,17,18,20대 인천 계양구을),외교통상위원회 위원 - 現 더불어민주당 동북아평화협력특별위원회 위원장 - 前 기획재정위원회 위원 - 민선 5기 인천광역시장 - 前 먹고사는문제연구소 이사장
+   </memTitle>
+   <origNm>
+    인천 계양구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    이경복, 황유정
+   </secretary>
+   <secretary2>
+    이정아, 문세종, 김휘동, 서미래
+   </secretary2>
+   <shrtNm>
+    외교통일위원회
+   </shrtNm>
+   <staff>
+    박용수, 한상범
+   </staff>
+  </item>
+ </body>
+</response>

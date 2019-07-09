@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    hopejung@na.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/chounsook_jung
+   </assemHomep>
+   <assemTel>
+    02-784-3740
+   </assemTel>
+   <bthDate>
+    19640108
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    정춘숙
+   </empNm>
+   <engNm>
+    JUNG CHOUNSOOK
+   </engNm>
+   <hjNm>
+    鄭春淑
+   </hjNm>
+   <memTitle>
+    강남대학교 사회복지전문대학원 사회복지학 박사 前한국여성의전화 상임대표 前서울시 성평등위원회 위원 前대법원 양형위원회 자문위원 前더불어민주당 혁신위원회 위원 前더불어민주당 대외협력위원회 위원장 前더불어민주당 보육특별위원회 위원장
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박상현, 최봉규
+   </secretary>
+   <secretary2>
+    전상규, 한지성, 김민정, 장현경
+   </secretary2>
+   <shrtNm>
+    보건복지위원회,여성가족위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    최대환, 김용천
+   </staff>
+  </item>
+ </body>
+</response>

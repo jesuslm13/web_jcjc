@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemHomep>
+    https://blog.naver.com/bongha4rang
+   </assemHomep>
+   <assemTel>
+    02-784-5871
+   </assemTel>
+   <bthDate>
+    19600618
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김정호
+   </empNm>
+   <engNm>
+    KIM JUNG HO
+   </engNm>
+   <hbbyCd>
+    바둑
+   </hbbyCd>
+   <hjNm>
+    金禎鎬
+   </hjNm>
+   <origNm>
+    경남 김해시을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김명진, 조진광
+   </secretary>
+   <secretary2>
+    하광식, 정소희, 홍석정
+   </secretary2>
+   <shrtNm>
+    기획재정위원회
+   </shrtNm>
+   <staff>
+    이현주, 진광현
+   </staff>
+  </item>
+ </body>
+</response>

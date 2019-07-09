@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    parkyoungsun21@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.pys21.net
+   </assemHomep>
+   <assemTel>
+    02-784-3870
+   </assemTel>
+   <bthDate>
+    19600122
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    박영선
+   </empNm>
+   <engNm>
+    PARK YOUNGSUN
+   </engNm>
+   <hbbyCd>
+    음악감상
+   </hbbyCd>
+   <hjNm>
+    朴映宣
+   </hjNm>
+   <memTitle>
+    경희대학교 졸업 서강대학교 언론대학원 졸업 MBC 기자, 앵커 - 미국 LA특파원, 경제부장 경희대 언론정보대학원 겸임 교수 17대 국회의원(비례대표) 18대/19대/20대 국회의원(서울 구로을) 민주통합당 정책위 의장 민주통합당 최고위원 국회 법제사법위원장 새정치민주연합 원내대표 새정치민주연합 국민공감혁신위원회 위원장 새정치민주연합 재벌개혁특별위원회 위원장 더불어민주당 비상대책위원회 위원 (현) 기획재정위원회 위원 (현) 더불어민주당 참좋은지방정부위원회 공동위원장 
+   </memTitle>
+   <origNm>
+    서울 구로구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    류채진, 최정현
+   </secretary>
+   <secretary2>
+    전성건, 김민주, 최진호, 강준호
+   </secretary2>
+   <shrtNm>
+    기획재정위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    김동석, 김영주
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    farmhk20@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/farmhk20
+   </assemHomep>
+   <assemTel>
+    02-784-2841
+   </assemTel>
+   <bthDate>
+    19630406
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김현권
+   </empNm>
+   <engNm>
+    KIM HYUNKWON
+   </engNm>
+   <hjNm>
+    金玄權
+   </hjNm>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김성훈, 박미래
+   </secretary>
+   <secretary2>
+    김형호, 하동욱, 박민주, 김단희
+   </secretary2>
+   <shrtNm>
+    농림축산식품해양수산위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    김현곤, 송용한
+   </staff>
+  </item>
+ </body>
+</response>

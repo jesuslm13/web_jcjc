@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    2016kimkj@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://kimklan88.blog.me
+   </assemHomep>
+   <assemTel>
+    02-784-2601
+   </assemTel>
+   <bthDate>
+    19660714
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김경진
+   </empNm>
+   <engNm>
+    KIM KYUNGJIN
+   </engNm>
+   <hjNm>
+    金京鎭
+   </hjNm>
+   <memTitle>
+    現) 2018.02.06 ~ 제20대 국회의원(광주 북구갑/민주평화당) 2018.02.06 ~ 민주평화당 최고위원 2018.02.06 ~ 민주평화당 6.13 지방선거 상임선대위원장 경력) 2016.06 ~ 2018.02 제20대 국회의원(광주 북구갑/국민의당) 2016.07 ~ 2018.02 제20대 국회 과학기술정보방송통신위원회 간사 2017.09 ~ 2017.11 제20대 국회운영위원회 위원
+   </memTitle>
+   <origNm>
+    광주 북구갑
+   </origNm>
+   <polyNm>
+    민주평화당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김태현, 이준평
+   </secretary>
+   <secretary2>
+    오태호, 신성호, 김용진, 김건호
+   </secretary2>
+   <shrtNm>
+    과학기술정보방송통신위원회
+   </shrtNm>
+   <staff>
+    윤미혜, 이봉윤
+   </staff>
+  </item>
+ </body>
+</response>

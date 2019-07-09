@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    ktn0320@daum.net
+   </assemEmail>
+   <assemHomep>
+    http://www.ktn21.com
+   </assemHomep>
+   <assemTel>
+    02-784-4570, 031-751-4048
+   </assemTel>
+   <bthDate>
+    19650320
+   </bthDate>
+   <electionNum>
+    17,19,20대
+   </electionNum>
+   <empNm>
+    김태년
+   </empNm>
+   <engNm>
+    KIM TAENYEON
+   </engNm>
+   <examCd>
+    독서
+   </examCd>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    金太年
+   </hjNm>
+   <memTitle>
+    제17,19,20대 국회의원 전) 더불어민주당 정책위의장 전) 국정기획자문위원회 부위원장 전) 국회 예산결산특별위원회 간사 전) 국회 교육문화체육관광위원회 간사 전) 국회 정치개혁특별위원회 간사 
+   </memTitle>
+   <origNm>
+    경기 성남시수정구
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    박기일
+   </secretary>
+   <secretary2>
+    안승태, 강경훈, 배지은, 강승우, 고이화
+   </secretary2>
+   <shrtNm>
+    환경노동위원회
+   </shrtNm>
+   <staff>
+    오철재, 이창욱
+   </staff>
+  </item>
+ </body>
+</response>

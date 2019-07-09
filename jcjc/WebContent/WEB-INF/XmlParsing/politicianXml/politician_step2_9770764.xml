@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemHomep>
+    http://www.민사랑.com/
+   </assemHomep>
+   <assemTel>
+    02-784-6490
+   </assemTel>
+   <bthDate>
+    19610418
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    민홍철
+   </empNm>
+   <engNm>
+    MIN HONGCHUL
+   </engNm>
+   <hjNm>
+    閔洪喆
+   </hjNm>
+   <memTitle>
+    [학 력] 김해동광초등학교 졸업 김해중학교 졸업 김해고등학교 졸업 부산대학교 법학과 졸업 부산대학교 대학원 법학과 졸업(법학석사) [경 력] (前) 육군 법무감(준장) (前) 고등군사법원 법원장 (前) 국방부 인사소청위원회 위원장 (前) 중앙행정심판위원회 비상임위원 (前) 제19대 국회의원 (前) 민주당 수석사무부총장 (前) 새정치민주연합 원내부대표 (前) 국회 국토교통위원회 위원 (前) 국회 예산결산특별위원회 위원 (前) 국회 지방자치발전특별위원회 위원 (前) 국회 세월호침몰사고 진상규명을 위한 국정조사 특별위원회 위원 (前) 국회 군 인권 개선 및 병영문화 혁신특별위원회 위원 (現) 제20대 국회의원 
+   </memTitle>
+   <origNm>
+    경남 김해시갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    조남혁, 한주연
+   </secretary>
+   <secretary2>
+    황집필, 임주성, 류주연
+   </secretary2>
+   <shrtNm>
+    국방위원회,남북경제협력 특별위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    김대승, 오연달
+   </staff>
+  </item>
+ </body>
+</response>

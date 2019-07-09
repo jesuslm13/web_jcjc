@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    bji@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/open1197news
+   </assemHomep>
+   <assemTel>
+    02-784-1626
+   </assemTel>
+   <bthDate>
+    19480902
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    변재일
+   </empNm>
+   <engNm>
+    BYUN JAEILL
+   </engNm>
+   <examCd>
+    스키
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    卞在一
+   </hjNm>
+   <memTitle>
+    미국 펜실베니아대학교 대학원 졸업, 정보통신부차관, 국무총리국무조정실 산업심의관
+   </memTitle>
+   <origNm>
+    충북 청주시청원구
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    김승태, 김주희
+   </secretary>
+   <secretary2>
+    장아름, 유연성, 이수현, 배꽃나라,김경미
+   </secretary2>
+   <shrtNm>
+    과학기술정보방송통신위원회,에너지 특별위원회
+   </shrtNm>
+   <staff>
+    신동주, 박철민
+   </staff>
+  </item>
+ </body>
+</response>

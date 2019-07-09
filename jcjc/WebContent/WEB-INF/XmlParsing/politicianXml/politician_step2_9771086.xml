@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemHomep>
+    http://blog.naver.com/kjsim1304
+   </assemHomep>
+   <assemTel>
+    02-784-8870
+   </assemTel>
+   <bthDate>
+    19611019
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    심기준
+   </empNm>
+   <engNm>
+    SHIM KIJOON
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    沈基俊
+   </hjNm>
+   <memTitle>
+    현) 국회 기획재정위원회 위원 현) 더불어민주당 정책위원회 상임부의장 현) 더불어민주당 을지로위원회 위원 현) 더불어민주당 지방혁신균형발전추진단 위원 더불어민주당 강원도당 위원장 국회 평창동계올림픽 및 국제경기대회지원특별위원회 위원 더불어민주당 최고위원 문재인 대통령 후보 강원도 총괄본부장 노무현대통령후보 중앙선대위 조직본부 국장 상지대학교 졸업 원주고등학교 졸업 
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    장병선, 진민수, 백경민
+   </secretary>
+   <secretary2>
+    윤무영, 나유경, 김지은, 전소희
+   </secretary2>
+   <shrtNm>
+    기획재정위원회
+   </shrtNm>
+   <staff>
+    김석현, 심규호
+   </staff>
+  </item>
+ </body>
+</response>

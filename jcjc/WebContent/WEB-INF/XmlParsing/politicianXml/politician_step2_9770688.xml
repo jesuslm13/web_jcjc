@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    cbwhope@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.cbwhope.or.kr
+   </assemHomep>
+   <assemTel>
+    02-784-5270
+   </assemTel>
+   <bthDate>
+    19520505
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    장병완
+   </empNm>
+   <engNm>
+    CHANG BYOUNGWAN
+   </engNm>
+   <hbbyCd>
+    테니스
+   </hbbyCd>
+   <hjNm>
+    張秉浣
+   </hjNm>
+   <memTitle>
+    ▷ 광주서중·일고 졸업 ▷ 서울대 무역학과 졸업 ▷ 미국 위스콘신대 공공정책학 석사 ▷ 중앙대학교 행정학 박사 ▶ 제17회 행정고등고시 합격 ▶ 전) 기획예산처 예산실장 ▶ 전) UN-ESCAP 아·태 민간투자 장관회의 의장 ▶ 전) 기획예산처 장관 ▶ 전) 호남대학교 총장 ▶ (사)「장애인먼저」실천 광주운동본부장 ▶ 국회 문화체육관광방송통신위원회 위원 ▶ 국회 예산결산특별위원회 민주당 간사 ▶ 민주당 제4정책조정위원회 위원장 ▶ 국회 미래창조과학방송통신위원회 위원 ▶ 국회 예산재정개혁특별위원회 간사 ▶ 민주당 정책위원회 의장
+   </memTitle>
+   <origNm>
+    광주 동구남구갑
+   </origNm>
+   <polyNm>
+    민주평화당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    김형훈, 허호인
+   </secretary>
+   <secretary2>
+    양승권, 황현정, 서재우, 김휘종
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,정무위원회
+   </shrtNm>
+   <staff>
+    박승준, 박철호
+   </staff>
+  </item>
+ </body>
+</response>

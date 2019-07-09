@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemHomep>
+    http://blog.naver.com/choi_gyoil
+   </assemHomep>
+   <assemTel>
+    02-784-4195
+   </assemTel>
+   <bthDate>
+    19620228
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    최교일
+   </empNm>
+   <engNm>
+    CHOI GYOIL
+   </engNm>
+   <hjNm>
+    崔敎一
+   </hjNm>
+   <origNm>
+    경북 영주시문경시예천군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    이기영, 황재택
+   </secretary>
+   <secretary2>
+    박수환, 홍유정, 강인구
+   </secretary2>
+   <shrtNm>
+    기획재정위원회,예산결산특별위원회,정치개혁 특별위원회
+   </shrtNm>
+   <staff>
+    박민구, 정종철
+   </staff>
+  </item>
+ </body>
+</response>

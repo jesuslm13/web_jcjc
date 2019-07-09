@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemHomep>
+    http://blog.naver.com/assemblyjjs
+   </assemHomep>
+   <assemTel>
+    02-784-1530
+   </assemTel>
+   <bthDate>
+    19520117
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    장정숙
+   </empNm>
+   <engNm>
+    CHANG JUNGSOOK
+   </engNm>
+   <examCd>
+    수영
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    張貞淑
+   </hjNm>
+   <memTitle>
+    제20대 국회의원(비례대표) 제20대 국회 전반기 교육문화체육관광위원회 위원 (전) 국회 행정안전위원회 위원 (전) 국회 운영위원회 위원 (전) 제8대 서울특별시의회 의원 아침을 여는 여성들의 평화모임 공동대표 2017 대한무궁화협회 무궁화대상(정치부문) 2017 법률소비자연맹 국회의원 헌정대상 2017 창조혁신 한국인 대상 의정활동혁신 부분 2016 국정감사 NGO모니터단 국정감사 우수의원 2016 대한뉴스 코리아 베스트 의정대상 연세대학교 교육대학원 석사 서울대학교 성악과 학사 경기여자고등학교 졸업
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김영상, 부유민
+   </secretary>
+   <secretary2>
+    홍수희, 김재영, 박가영, 박민경
+   </secretary2>
+   <shrtNm>
+    보건복지위원회
+   </shrtNm>
+   <staff>
+    이승엽, 한승용
+   </staff>
+  </item>
+ </body>
+</response>

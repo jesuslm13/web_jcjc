@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    Chohoonhyun@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/chohoonhyun
+   </assemHomep>
+   <assemTel>
+    02-784-2187
+   </assemTel>
+   <bthDate>
+    19530310
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    조훈현
+   </empNm>
+   <engNm>
+    CHO HOONHYUN
+   </engNm>
+   <examCd>
+    바둑
+   </examCd>
+   <hbbyCd>
+    등산.골프
+   </hbbyCd>
+   <hjNm>
+    曺薰鉉
+   </hjNm>
+   <memTitle>
+    [학력] 명예체육학 박사(목포대) [경력] 제20대 국회의원 (비례대표/새누리당) 제20대 국회 전반기 교육문화체육관광위원회 위원 바둑전문기사(9단) (전)한국기원 상임이사 Plan(UN국제구호개발NGO) 홍보대사 
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    강명구, 문승현
+   </secretary>
+   <secretary2>
+    이기백, 황효주, 사정아, 이영상
+   </secretary2>
+   <shrtNm>
+    문화체육관광위원회,윤리특별위원회
+   </shrtNm>
+   <staff>
+    김상조, 김종열
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    ychin21@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://www.chinyoung.kr/
+   </assemHomep>
+   <assemTel>
+    02-788-2925
+   </assemTel>
+   <bthDate>
+    19501023
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    진영
+   </empNm>
+   <engNm>
+    CHIN YOUNG
+   </engNm>
+   <examCd>
+    색소폰
+   </examCd>
+   <hbbyCd>
+    수영
+   </hbbyCd>
+   <hjNm>
+    陳永
+   </hjNm>
+   <memTitle>
+    &amp;lt;학력&amp;gt; - 경기고등학교 - 서울대학교 법학과 - 워싱턴주립대학교 법과대학원 &amp;lt;병역&amp;gt; - 육군 대위 만기 전역 &amp;lt;주요경력&amp;gt; - 17, 18, 19, 20대 국회의원(서울시 용산구) - (전) IPU(국제의회연맹) 집행위원 및 부회장 - (전) 국회 안전행정위원회 위원장 - (전) 제50대 보건복지부장관 - (전) 더불어민주당 중앙선거대책위원회 부위원장 - (전) 더불어민주당 비상대책위원회 위원 
+   </memTitle>
+   <origNm>
+    서울 용산구
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    김정현, 유재한
+   </secretary>
+   <secretary2>
+    백정은, 권두성, 윤정회, 이다영
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회
+   </shrtNm>
+   <staff>
+    박용석, 우병호
+   </staff>
+  </item>
+ </body>
+</response>

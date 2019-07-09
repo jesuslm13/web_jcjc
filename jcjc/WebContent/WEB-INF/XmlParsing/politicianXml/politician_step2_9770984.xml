@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    777byung@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/777byung
+   </assemHomep>
+   <assemTel>
+    02-784-3670
+   </assemTel>
+   <bthDate>
+    19650415
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김병욱
+   </empNm>
+   <engNm>
+    KIM BYUNGWOOK
+   </engNm>
+   <hbbyCd>
+    탁구
+   </hbbyCd>
+   <hjNm>
+    金炳旭
+   </hjNm>
+   <memTitle>
+    [더불어민주당 김병욱 국회의원(분당을)] 부산 배정고 졸업 한양대 법학과 (4년 장학생조건으로 입학) 졸업 고려대 MBA 졸업 국민대 경영학 박사 (현( 제20대 국회의원 (경기 성남시분당구을/더불어민주당) (전) 19대 문재인 대선후보 선거대책위원회 대변인 (전) 19대 문재인 대선후보 경기도당 선거대책본부 공동본부장 (현) 제20대 국회 후반기 정무위원회 위원 (현) 제20대 국회 후반기 국회운영위원회 위원 (현) 더불어민주당 원내부대표 (현) 더불어민주당 혁신성장추진위원회 위원 (현) 제20대 국회 미세먼지 대책 특별위원회 위원 (전) 제20대 국회 전반기 예산결산특별위원회 위원 (전) 제20대 국회 전반기 교육문화체육관광위원회 위원 (전) 가천대학교 경영학과 겸임교수 (전) 성남정책포럼 공동대표 (전) 경제정의실천시민연합 상임집행위원 (전) 전국증권유관기관노조협의회 의장 (전) 분당구탁구연합회 회장 (전) 국민대학교 겸임교수
+   </memTitle>
+   <origNm>
+    경기 성남시분당구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김준하, 채수곤
+   </secretary>
+   <secretary2>
+    신하영, 이종목, 김수연, 최민희
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,정무위원회
+   </shrtNm>
+   <staff>
+    권은실, 왕홍곤
+   </staff>
+  </item>
+ </body>
+</response>

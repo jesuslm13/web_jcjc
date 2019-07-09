@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemHomep>
+    http://www.okdk.kr
+   </assemHomep>
+   <assemTel>
+    02-784-2566
+   </assemTel>
+   <bthDate>
+    19590410
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김두관
+   </empNm>
+   <engNm>
+    KIM DUKWAN
+   </engNm>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    金斗官
+   </hjNm>
+   <memTitle>
+    * 제 20대 국회의원 * 국회 기획재정위원회위원 * 국회 예산결산특별위원회위원 * 국회 남북관계개선특별위원회 위원 * 경기 김포시갑 지역위원장(더불어민주당) * (전) 새정치민주연합 중앙선대위 공동위원장 * (전) 제 34대 경상남도 도지사 * (전) 열린우리당 최고위원 * (전) 노무현 대통령비서실 정무특별보좌관 * (전) 제 5대 행정자치부 장관 * (전) 제38대 ~ 39대 경상남도 남해군수 * (전) 남해군 고현면 이어리 이장
+   </memTitle>
+   <origNm>
+    경기 김포시갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박진석, 채율
+   </secretary>
+   <secretary2>
+    이황재, 구수민, 김경원, 김단비
+   </secretary2>
+   <shrtNm>
+    기획재정위원회
+   </shrtNm>
+   <staff>
+    강성민, 김경훈
+   </staff>
+  </item>
+ </body>
+</response>

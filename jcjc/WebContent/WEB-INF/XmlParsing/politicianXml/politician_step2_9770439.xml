@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    mrjung@na.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://www.mrjung.net
+   </assemHomep>
+   <assemTel>
+    02-784-5275
+   </assemTel>
+   <bthDate>
+    19501108
+   </bthDate>
+   <electionNum>
+    16,17,18,19,20대
+   </electionNum>
+   <empNm>
+    정갑윤
+   </empNm>
+   <engNm>
+    JEONG KABYOON
+   </engNm>
+   <hbbyCd>
+    축구,등산
+   </hbbyCd>
+   <hjNm>
+    鄭甲潤
+   </hjNm>
+   <memTitle>
+    울산 제일중학교 졸 경남고등학교 졸 울산공과대학(현 울산대학교) 졸 울산대학교 산업대학원 산업관리공학 졸 조선대학교 명예 법학박사 울산대학교 초대 총학생회장 역임 울산대학교 총동창회장 역임 (주)해성목재 대표 역임 제4대 경남도의원 역임 울산상공회의소 상임의원 역임 (사)한국청년회의소 중앙부회장 역임 (사)한국청년회의소 경남·울산지구 회장 역임 (사)대한산악연맹 울산지부 회장 역임 울산 조기축구회 회장 역임 16·17·18·19대 국회의원 역임 한-캐나다 의원 친선협회 이사 역임 한-케냐 의원 친선협회 회장 역임 한나라당 재해대책특별위원회 위원장 역임 한나라당 울산시당위원장 역임 국회 산업자원, 건설교통, 예산결산특별위원 역임 국회 행정자치 위원회 간사 역임 국회 예산결산특별위원회 위원장 역임 새누리당 중소기업활력화위원회 위원장 역임 울산자유무역지역 추진위원회 고문 (현) 울산광역시 장애인 후원회 상임고문(현) 20대 국회의원 · 법제사법위원(현) 국회 정각회 명예회장(현) 한-인도 의원 친선협회 회장(현) 소기업소상공인경쟁력강화 포럼 고문(현)
+   </memTitle>
+   <origNm>
+    울산 중구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    5선제20대
+   </reeleGbnNm>
+   <secretary>
+    김우호 신상민
+   </secretary>
+   <secretary2>
+    전도진 윤혜원 신영훈 박창주
+   </secretary2>
+   <shrtNm>
+    법제사법위원회
+   </shrtNm>
+   <staff>
+    김건태 김종윤 고광철
+   </staff>
+  </item>
+ </body>
+</response>

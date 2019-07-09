@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    wtc218@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://www.wtc21.co.kr
+   </assemHomep>
+   <assemTel>
+    02-784-9071
+   </assemTel>
+   <bthDate>
+    19530218
+   </bthDate>
+   <electionNum>
+    15,16,19,20대
+   </electionNum>
+   <empNm>
+    정우택
+   </empNm>
+   <engNm>
+    CHUNG WOOTAIK
+   </engNm>
+   <hbbyCd>
+    바둑
+   </hbbyCd>
+   <hjNm>
+    鄭宇澤
+   </hjNm>
+   <origNm>
+    충북 청주시상당구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    송재혁,박진석
+   </secretary>
+   <secretary2>
+    변건우,정다정,신은경,장일준,신동일
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회
+   </shrtNm>
+   <staff>
+    오인수,임효성
+   </staff>
+  </item>
+ </body>
+</response>

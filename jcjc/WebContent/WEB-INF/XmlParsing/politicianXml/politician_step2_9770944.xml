@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    sjpark101@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/sjpark580801
+   </assemHomep>
+   <assemTel>
+    02-784-4364
+   </assemTel>
+   <bthDate>
+    19580801
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    박성중
+   </empNm>
+   <engNm>
+    PARK SUNGJOONG
+   </engNm>
+   <hbbyCd>
+    바둑.등산
+   </hbbyCd>
+   <hjNm>
+    朴成重
+   </hjNm>
+   <memTitle>
+    국회 안전행정위원회 간사 국회 예산결산특별위원회 위원 서초구청장(전) 사랑의 열매 사무총장(전) 육군학사장교 총동문회장(전) 대통령 비서실 행정관(전) 행정고시 23회 성균관대학교 행정학과 학사 서울대학교 행정대학원 석사 성균관대학교 도시행정학 박사
+   </memTitle>
+   <origNm>
+    서울 서초구을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    손정욱, 김재헌
+   </secretary>
+   <secretary2>
+    유재원, 신석훈, 김미정, 이화진
+   </secretary2>
+   <shrtNm>
+    공공부문 채용비리 의혹과 관련된 국정조사특별위원회,과학기술정보방송통신위원회
+   </shrtNm>
+   <staff>
+    박창삼, 최윤석
+   </staff>
+  </item>
+ </body>
+</response>

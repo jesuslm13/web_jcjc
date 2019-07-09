@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    pjh0411508@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/parkjoohyun508
+   </assemHomep>
+   <assemTel>
+    02-784-6341
+   </assemTel>
+   <bthDate>
+    19630411
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    박주현
+   </empNm>
+   <engNm>
+    PARK JOOHYUN
+   </engNm>
+   <examCd>
+    피아노
+   </examCd>
+   <hbbyCd>
+    음악감상
+   </hbbyCd>
+   <hjNm>
+    朴珠賢
+   </hjNm>
+   <memTitle>
+    제20대 국회의원 (국민의당 비례대표) 농림축산식품해양수산위원회 위원 민주평화당 수석대변인 &amp;lt;출생&amp;gt; 1963년 전라북도 군산 &amp;lt;학력&amp;gt; 전주여자고등학교 52회 졸업 서울대학교 법과대학 81학번(연수원 17기) 서울대학교 대학원 법학 석사 핀란드 땀뻬레대학교 대학원 교육학 박사과정 중 &amp;lt;경력&amp;gt; 제27회 사법시험 합격 국민의당 전국여성위원장 및 최고위원(전) 시민경제사회연구소 소장(휴직) 참여정부 청와대 국민참여수석, 참여혁신수석(전) 대통령직속 저출산고령사회위원회 운영위원장(전) 민주사회를 위한 변호사모임 창립회원, 사회복지위원회 위원장(전) 대한변호사협회 이사(전)
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    이명재, 홍헌호
+   </secretary>
+   <secretary2>
+    문관식, 하대성, 한강숙, 김수미
+   </secretary2>
+   <shrtNm>
+    농림축산식품해양수산위원회
+   </shrtNm>
+   <staff>
+    강석균, 장시윤
+   </staff>
+  </item>
+ </body>
+</response>

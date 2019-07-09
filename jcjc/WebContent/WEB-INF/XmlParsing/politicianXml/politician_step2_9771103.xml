@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <bthDate>
+    19650715
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    정점식
+   </empNm>
+   <engNm>
+    Jeong jeom sig 
+   </engNm>
+   <hjNm>
+    鄭点植
+   </hjNm>
+   <origNm>
+    경남 통영시고성군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    곽민준
+   </secretary>
+   <shrtNm>
+    문화체육관광위원회
+   </shrtNm>
+   <staff>
+    최재호
+   </staff>
+  </item>
+ </body>
+</response>

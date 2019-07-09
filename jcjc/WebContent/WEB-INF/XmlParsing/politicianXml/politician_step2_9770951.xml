@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    bukgs1@gmail.com
+   </assemEmail>
+   <assemTel>
+    02-784-7431
+   </assemTel>
+   <bthDate>
+    19710420
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    전재수
+   </empNm>
+   <engNm>
+    CHUN JAESOO
+   </engNm>
+   <hjNm>
+    田載秀
+   </hjNm>
+   <origNm>
+    부산 북구강서구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    정효진, 정주영
+   </secretary>
+   <secretary2>
+    손가연, 박영주, 신영희, 유하림, 최소영
+   </secretary2>
+   <shrtNm>
+    윤리특별위원회,정무위원회
+   </shrtNm>
+   <staff>
+    선용규, 최지훈
+   </staff>
+  </item>
+ </body>
+</response>

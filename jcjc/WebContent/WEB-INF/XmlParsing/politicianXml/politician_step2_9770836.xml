@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    youngcamp1@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://ofthepeople.kr
+   </assemHomep>
+   <assemTel>
+    02-784-8051
+   </assemTel>
+   <bthDate>
+    19520416
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    이학영
+   </empNm>
+   <engNm>
+    LEE HACKYOUNG
+   </engNm>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    李學永
+   </hjNm>
+   <memTitle>
+    ○학력 1971.03 ~ 1985.08 전남대학교 국어국문학과 졸업 1992.03 ~ 1996.08 전남대학교 대학원 정책학 석사 졸업 ○경력 2003.05 ~ 2011.02 한국YMCA 전국연맹 사무총장 2003.03 ~ 2011.02 시민사회단체연대회의 상임공동대표 2006.03 ~ 2012.01 희망제작소 이사 2006.01 ~ 2008.12 한국NGO학회 부회장 2004.11 ~ 2009.05 국무총리실 부속 시민사회발전위원회 위원 2003.05 ~ 2011.02 노무현재단 이사 2012.04 ~ 2016.04 19대 국회의원(경기 군포), 민주통합당 윤리위원회 위원장 2016.04 ~ 현재 20대 국회의원 (경기 군포시 을), 더불어민주당 을지로위원회 위원장, 상반기 국회 정무위원회 더불어민주당 간사 
+   </memTitle>
+   <origNm>
+    경기 군포시을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    전재현, 김병곤
+   </secretary>
+   <secretary2>
+    허남진, 한보란, 임종은
+   </secretary2>
+   <shrtNm>
+    정무위원회
+   </shrtNm>
+   <staff>
+    고상연, 성기황
+   </staff>
+  </item>
+ </body>
+</response>

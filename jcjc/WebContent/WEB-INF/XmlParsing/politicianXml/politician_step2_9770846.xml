@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    sangrokgab@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/jhc05
+   </assemHomep>
+   <assemTel>
+    02-784-8901
+   </assemTel>
+   <bthDate>
+    19620518
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    전해철
+   </empNm>
+   <engNm>
+    JEON HAECHEOL
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    全海澈
+   </hjNm>
+   <memTitle>
+    2012. 05 ~ 제19대 국회의원(경기 안산상록갑) 2007. 12 ~ 2012. 05 법무법인 해마루 대표변호사 2010. 안산환경운동연합 자문위원 2009. 노무현재단 상임운영위원 2008. ~ 민주통합당 안산상록갑 지역위원장 2006. 05 ~ 2007. 12 대통령비서실 민정수석비서관 2003. 07 대통령소속 의문사진상규명위원회 위원 2001. 01 ~ 2004. 05 법무법인 해마루 변호사 2001~2002 미국워싱턴주립대학교잭슨스쿨 객원 연구원 1999. 민주사회를 위한 변호사모임 언론위원회 위원장 1998. 대한변호사협회 인권위원 1996. 민주사회를 위한 변호사모임 대외협력위원회 위원장 1994. 안산시 고문변호사 1987. 제29회 사법시험 합격 1985. 고려대학교 법학과 졸업 1981. 마산중앙고등학교 졸업 1978. 목포영흥중학교 졸업 1975. 목포대성초등학교 졸업
+   </memTitle>
+   <origNm>
+    경기 안산시상록구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    백수현, 이은정
+   </secretary>
+   <secretary2>
+    이재경, 최찬규, 한동욱, 길라현
+   </secretary2>
+   <shrtNm>
+    정무위원회,정보위원회
+   </shrtNm>
+   <staff>
+    오재훈, 한종환
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-2195
+   </assemTel>
+   <bthDate>
+    19661015
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    최인호
+   </empNm>
+   <engNm>
+    CHOI INHO
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    崔仁昊
+   </hjNm>
+   <origNm>
+    부산 사하구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    손우정, 이정환
+   </secretary>
+   <secretary2>
+    홍철현, 박령주, 김기완, 김소영
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회,정치개혁 특별위원회
+   </shrtNm>
+   <staff>
+    김수철, 조명래
+   </staff>
+  </item>
+ </body>
+</response>

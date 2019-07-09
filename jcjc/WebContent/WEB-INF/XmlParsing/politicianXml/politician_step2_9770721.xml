@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    my733@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://www.vitamin21.or.kr
+   </assemHomep>
+   <assemTel>
+    02-784-1797
+   </assemTel>
+   <bthDate>
+    19640228
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    김명연
+   </empNm>
+   <engNm>
+    KIM MYUNGYEON
+   </engNm>
+   <examCd>
+    노래
+   </examCd>
+   <hbbyCd>
+    스포츠
+   </hbbyCd>
+   <hjNm>
+    金明淵
+   </hjNm>
+   <memTitle>
+    &amp;lt;출생 및 약력&amp;gt; 안산 신길동 출생 군자초등학교 졸업 (50회) 군자중학교 졸업 (25회) 인천고등학교 졸업 (81회) 육군병장 제대 (전차부대) 건국대학교 축산대학 졸업 한양대학교 대학원 졸업(지방자치학 석사) &amp;lt;국회 활동&amp;gt; 국회 보건복지위원회 자유한국당 간사(현) 국회 여성가족위원회 위원(전) 국회 예산결산특별위원회 위원(전) &amp;lt;정당 활동&amp;gt; 자유한국당 전략기획부총장(전) 자유한국당 수석대변인(전) &amp;lt;사회·봉사 활동&amp;gt; 대한결핵협회 결핵퇴치운동본부 협력위원장(현) 샛뿔자율방범대 운영위원장(현) 선부종합사회복지관 운영위원(현) 꿈이 있는 세상(비영리봉사단체)회원(현) 안산시 광역전철특별위원회 위원(전) 안산녹색소비자연대 이사(전)
+   </memTitle>
+   <origNm>
+    경기 안산시단원구갑
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    배시열, 장은주
+   </secretary>
+   <secretary2>
+    김임포, 박형진, 박수미, 김상철
+   </secretary2>
+   <shrtNm>
+    보건복지위원회
+   </shrtNm>
+   <staff>
+    최호종, 김재국
+   </staff>
+  </item>
+ </body>
+</response>

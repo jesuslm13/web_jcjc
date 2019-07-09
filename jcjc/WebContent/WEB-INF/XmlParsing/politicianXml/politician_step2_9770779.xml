@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    maumgil88@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/bakhonggeun
+   </assemHomep>
+   <assemTel>
+    02-784-8370
+   </assemTel>
+   <bthDate>
+    19691008
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    박홍근
+   </empNm>
+   <engNm>
+    PARK HONGGEUN
+   </engNm>
+   <hjNm>
+    朴洪根
+   </hjNm>
+   <memTitle>
+    제 19,20대 국회의원 국토교통위원회 위원 예산결산특별위원회 위원 더불어민주당 을지키는민생실천위원회 위원장 동물복지국회포럼 공동대표 더불어민주당 원내수석부대표(前) 국회운영위원회 간사(前) 과학기술정보방송통신위원회 간사(前) 민족화해협력범국민협의회 정책위원장(前) 새정치민주연합 당대표 비서실장(前) 민주통합당 비상대책위원 겸 전국청년위원장(前) 유네스코(UNESCO) 한국위원(前) 
+   </memTitle>
+   <origNm>
+    서울 중랑구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    박승진,나바다
+   </secretary>
+   <secretary2>
+    고강섭,최광원,채정임,김주현,유완례
+   </secretary2>
+   <shrtNm>
+    국토교통위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    장석원,김동영
+   </staff>
+  </item>
+ </body>
+</response>

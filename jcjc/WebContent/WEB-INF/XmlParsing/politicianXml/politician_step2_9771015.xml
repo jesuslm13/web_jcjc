@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    614lyh@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/614lyh
+   </assemHomep>
+   <assemTel>
+    02-784-2570
+   </assemTel>
+   <bthDate>
+    19600320
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이용호
+   </empNm>
+   <engNm>
+    LEE YONGHO
+   </engNm>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    李容鎬
+   </hjNm>
+   <memTitle>
+    전주고 서울대학교 산업공학과 학사 경향신문 정치부 차장(전) 국무총리 비서실 공보담당비서관(전) 국회사무처 홍보기획관(전) 국민의당 원내대변인(전) 국민의당 정책위의장 제20대 국회의원
+   </memTitle>
+   <origNm>
+    전북 남원시임실군순창군
+   </origNm>
+   <polyNm>
+    무소속
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    강채영
+   </secretary>
+   <secretary2>
+    민혜정,정효영,안은경,이창권
+   </secretary2>
+   <shrtNm>
+    국토교통위원회
+   </shrtNm>
+   <staff>
+    양준호,오진웅
+   </staff>
+  </item>
+ </body>
+</response>

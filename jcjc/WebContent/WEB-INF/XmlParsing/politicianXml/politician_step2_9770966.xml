@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    newds61@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/newds61
+   </assemHomep>
+   <assemTel>
+    02-784-3543
+   </assemTel>
+   <bthDate>
+    19610918
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    유동수
+   </empNm>
+   <engNm>
+    YOO DONGSOO
+   </engNm>
+   <examCd>
+    탁구
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    柳東秀
+   </hjNm>
+   <memTitle>
+    1961년 전북 부안 출생 전라고, 연세대 경영학과 졸업 국회 정무위원회 위원(현) 더불어민주당 사회적경제위원회 부위원장(현) 더불어민주당 가상통화 T/F 위원(현) 국회 산업통상자원중소벤처기업위원회 위원(전) 국회 전반기 예산결산특별위원회 위원(전) 국회 미세먼지 대책 특별위원회 위원(전) 더불어민주당 원내대표단 정책부대표(전) 더불어민주당 원내대표단 예산부대표(전) 민선7기 인천시장 인수위 재정/예산 혁신위원회 위원장(전) 민선5기 인천시장 인수위 전문위원(전) 인천도시공사 상임감사(전) 인천시 공익사업선정위원(전) 세동회계법인 공인회계사(전) 인덕회계법인 인천지점 대표공인회계사(전) 북인천세무서 과세적부심 심사위원(전) 계양구 결산감사위원(전) 경인여대 감사(전) 계양복지지원협의회장(현) 계양구 방위협의회 부회장(현)
+   </memTitle>
+   <origNm>
+    인천 계양구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김기석, 김성광
+   </secretary>
+   <secretary2>
+    최해룡 , 박종현 , 나규미 , 권초롱 , 김민주 
+   </secretary2>
+   <shrtNm>
+    정무위원회
+   </shrtNm>
+   <staff>
+    이영환, 최창열
+   </staff>
+  </item>
+ </body>
+</response>

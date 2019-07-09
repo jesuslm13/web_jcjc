@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    yw2014@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/yw2014
+   </assemHomep>
+   <assemTel>
+    02-788-2014
+   </assemTel>
+   <bthDate>
+    19670120
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    김영우
+   </empNm>
+   <engNm>
+    KIM YOUNGWOO
+   </engNm>
+   <examCd>
+    족구
+   </examCd>
+   <hbbyCd>
+    음악
+   </hbbyCd>
+   <hjNm>
+    金榮宇
+   </hjNm>
+   <memTitle>
+    포천초등학교 졸업 경희중·고등학교 졸업 고려대학교 정치외교학과 학사 졸업 고려대학교 대학원 정치외교학과 석사졸업 성균관대학교 국정관리대학원 박사과정 (수료) (現) 제20대 국회의원(포천시·가평군) (現) 국회 행정안전위원회 위원 (前) 국회 국방위원장 (前) 바른정당 최고위원 (前) 제18.19대 국회의원(포천시·연천군) (前) 국회 외교통일위원회 위원 (前) 새누리당 수석 대변인 (前) 한·불가리아 의원친선협회 회장 (前) 새누리당 대변인 (前) 새누리당 제1사무부총장 (前) 국회 예산결산특별위원회 위원 (前) 새누리당 예산결산위원장 (前) 국회 국방위원회 위원 (前) YTN 기자
+   </memTitle>
+   <origNm>
+    경기 포천시가평군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    김재언, 이진우
+   </secretary>
+   <secretary2>
+    신충식, 김현정, 이지현, 양우성, 정미영
+   </secretary2>
+   <shrtNm>
+    행정안전위원회
+   </shrtNm>
+   <staff>
+    박준용, 허청회
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    nakw@na.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/nakw63
+   </assemHomep>
+   <assemTel>
+    02-784-3103~4, 788-2770
+   </assemTel>
+   <bthDate>
+    19631206
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    나경원
+   </empNm>
+   <engNm>
+    NA KYUNGWON
+   </engNm>
+   <hjNm>
+    羅卿瑗
+   </hjNm>
+   <memTitle>
+    [학 력] -서울대학교 대학원 국제법학 박사 (수료) -서울대학교 대학원 법학 석사 -서울대 법학과 졸업 -서울여고 졸업 -숭의여중 졸업(서울동작구) [약 력] -제17·18·19·20대 국회의원 -국제장애인올림픽위원회(IPC) 집행위원 -스페셜올림픽코리아(SOK) 회장 -한국장애인부모회 후원회 공동대표 -인천·부산지방법원 판사(前) -서울행정법원 판사(前) -한나라당 대변인,최고위원(前) -한나라당 공천개혁특별위원회 위원장(前) -2013 평창동계 스페셜올림픽 세계대회 조직위원장(前) -새누리당 서울특별시당 위원장(前) -새누리당 보수혁신위원회 부위원장(前) -국회 외교통일위원회 위원장(前)
+   </memTitle>
+   <origNm>
+    서울 동작구을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    윤형석, 최수영, 한성연
+   </secretary>
+   <secretary2>
+    조성진, 이수영, 정인호, 채수지
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,기획재정위원회,정보위원회
+   </shrtNm>
+   <staff>
+    김상환, 한승수
+   </staff>
+  </item>
+ </body>
+</response>

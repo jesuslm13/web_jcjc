@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kky672@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://www.usekky.com
+   </assemHomep>
+   <assemTel>
+    02-784-1781
+   </assemTel>
+   <bthDate>
+    19691115
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    김관영
+   </empNm>
+   <engNm>
+    KIM KWANYOUNG
+   </engNm>
+   <examCd>
+    성악
+   </examCd>
+   <hjNm>
+    金寬永
+   </hjNm>
+   <memTitle>
+    [국회 및 정당경력] 국회 운영위 · 정치쇄신특위 위원 (전) 국회 국토교통위원회 위원 (전) 국회 기획재정위원회 위원 (전) 국회 예산결산특별위원회 위원 (전) 국회 운영위원회 간사 (전) 국회 정무위원회 간사 (전) 국회 헌법개정특별위원회 1소위원장(전) 국회 산업통상자원중소벤처기업위원회 위원(현) 국회 운영위원회 위원(현) 국회 정보위원회 간사(현) 민주당 원내부대표 (전) 민주당 수석대변인 (전) 새정치민주연합 대표 비서실장 (전) 국민의당 전북도당위원장 (전) 국민의당 원내수석부대표 (전) 국민의당 비상대책위원 (전) 국민의당 사무총장 (전) 바른미래당 전북도당위원장 (현) 바른미래당 원내대표 (현) [학 력] 용화초등학교 졸업 (81년) 회현중학교 졸업 (84년) 군산제일고등학교 졸업 (87년) 성균관대학교 졸업-경영학 전공 (91년) 서울대학교 행정대학원 석사 (95년) [자 격] 공인회계사 (88년)-전국 최연소 합격 행정고시 재경직 (92년) 사법고시 41회 (99년) [경 력] 안건/청운 회계법인 공인회계사 (90년~93년) 재정경제부 행정사무관 (93년~00년) 사법연수원 수료 (00년~02년) 김앤장 법률사무소 변호사/공인회계사 (02년~11년)
+   </memTitle>
+   <origNm>
+    전북 군산시
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    김삼영,송미경
+   </secretary>
+   <secretary2>
+    소흥수,김은연,김주완,이석원
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,산업통상자원중소벤처기업위원회,정보위원회
+   </shrtNm>
+   <staff>
+    고은영,서현준,박용규
+   </staff>
+  </item>
+ </body>
+</response>

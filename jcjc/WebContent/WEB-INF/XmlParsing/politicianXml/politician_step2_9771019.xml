@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    thisweek905@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/nowjs21
+   </assemHomep>
+   <assemTel>
+    02-784-9401
+   </assemTel>
+   <bthDate>
+    19710729
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    손금주
+   </empNm>
+   <engNm>
+    SON KUMJU
+   </engNm>
+   <examCd>
+    스쿠버다이
+   </examCd>
+   <hbbyCd>
+    여행
+   </hbbyCd>
+   <hjNm>
+    孫今柱
+   </hjNm>
+   <memTitle>
+    &amp;lt;학력&amp;gt; 서울대학교 대학원 법학 석사 서울대학교 국어국문학과 졸업 &amp;lt;경력&amp;gt; (전) 국민의당 수석대변인 (전) 법제처 국민법제관 (전) 방송통신위원회 행정심판위원 (전) 서울행정법원 판사 제40회 사법시험 합격
+   </memTitle>
+   <origNm>
+    전남 나주시화순군
+   </origNm>
+   <polyNm>
+    무소속
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박영호, 송영우
+   </secretary>
+   <secretary2>
+    성정익, 심양택, 윤혜지, 오대원
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,농림축산식품해양수산위원회
+   </shrtNm>
+   <staff>
+    윤혜연, 조병문
+   </staff>
+  </item>
+ </body>
+</response>

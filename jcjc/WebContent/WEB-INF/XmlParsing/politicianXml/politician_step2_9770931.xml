@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    gogoyongjin@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/kohyj64
+   </assemHomep>
+   <assemTel>
+    02-784-4840
+   </assemTel>
+   <bthDate>
+    19640806
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    고용진
+   </empNm>
+   <engNm>
+    KOH YONGJIN
+   </engNm>
+   <examCd>
+    배드민턴
+   </examCd>
+   <hbbyCd>
+    영화감상
+   </hbbyCd>
+   <hjNm>
+    고용진
+   </hjNm>
+   <memTitle>
+    현) 더불어민주당 정책위원회 부의장 현) 국회 정무위원회 위원 현) 더불어민주당 정보통신특별위원회 위원장 현) 제20대 국회의원 / 더불어민주당 노원갑 지역위원장 국회 과학기술정보방송통신위원회 위원 국회 평창동계올림픽 및 국제경기대회지원특위 위원 현) 더불어민주당 공정언론특별위원회 위원 현) 더불어민주당 오직민생특별위원회 사교육대책TF 위원 현) 한국아동인구환경의원연맹(CPE) 회원 - 1964년생 - 종암초·대광중·대광고 졸업 - 서울대학교 언론정보학과 및 동 대학원 석사 졸업 - 재선 서울시의회 의원(제4·5대) - 노무현정부 청와대 행정관 - 환경공단 기획관리이사 - 민주당 대표실 부실장 
+   </memTitle>
+   <origNm>
+    서울 노원구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    목소영, 윤선희
+   </secretary>
+   <secretary2>
+    김하동, 박남문, 김진환, 유재선, 김영환
+   </secretary2>
+   <shrtNm>
+    정무위원회
+   </shrtNm>
+   <staff>
+    여경훈, 홍진옥
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    hjyun9292@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/hjyun327
+   </assemHomep>
+   <assemTel>
+    02-784-4961~3
+   </assemTel>
+   <bthDate>
+    19630327
+   </bthDate>
+   <electionNum>
+    17,19,20대
+   </electionNum>
+   <empNm>
+    윤호중
+   </empNm>
+   <engNm>
+    YUN HOJUNG
+   </engNm>
+   <examCd>
+    궁도
+   </examCd>
+   <hbbyCd>
+    배드민턴
+   </hbbyCd>
+   <hjNm>
+    尹昊重
+   </hjNm>
+   <memTitle>
+    춘천고, 서울대 철학과 졸업 제17대, 19대, 20대 국회의원(건설교통위원, 보건복지위원, 기획재정위원) 새정치국민회의 부대변인 청와대 민정/정책기획 비서실 행정관 새천년민주당 부대변인 열린우리당 대변인 민주당 수석사무부총장 민주당 전략기획위원장 민주통합당 사무총장 새정치민주연합 디지털소통본부장 더불어민주당 사회적경제위원회 수석부위원장 더불어민주당 유능한경제정당위원회 기획위원장 더불어민주당 구리시 지역위원장 국회 예산결산특별위원회 위원 국회 기획재정위원회 간사위원 국회 서민주거복지특별위원회 간사위원 더불어민주당 정책위의장 더불어민주당 국민주권선거대책위원회 정책본부장 국정기획자문위원회 기획분과위원장 국회 예산결산특별위원회 간사위원 국회 환경노동위원회 위원 국회 국토교통위원회 위원(現) 더불어민주당 사무총장(現) 
+   </memTitle>
+   <origNm>
+    경기 구리시
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    박준혁, 양대산
+   </secretary>
+   <secretary2>
+    안완섭, 정은철, 이슬기, 남슬비아
+   </secretary2>
+   <shrtNm>
+    국토교통위원회
+   </shrtNm>
+   <staff>
+    남건우, 이강일
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    leecy@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://leecy.or.kr
+   </assemHomep>
+   <assemTel>
+    02-788-2975
+   </assemTel>
+   <bthDate>
+    19590715
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    이찬열
+   </empNm>
+   <engNm>
+    LEE CHANYEOL
+   </engNm>
+   <hbbyCd>
+    검도
+   </hbbyCd>
+   <hjNm>
+    李燦烈
+   </hjNm>
+   <memTitle>
+    ○ 학력 석천초, 삼괴중 졸업 수원 삼일실고 졸업 20회(현 삼일공고 기계과1회) 인하대학교 기계공학과 졸업 연세대학교 경제대학원 졸업(경제학 석사) ○ 경력 (前) 삼일공고 총동문회장 (前) (사)한국장애인장학회 이사 (前) 제6대 경기도의회 의원 (前) 제18, 19대 국회의원 (前) 국회 환경노동위원회/국토해양위원회/윤리특별위원회/예산결산특별위원회/국토교통위원회 위원 (前) 국회 안전행정위원회 간사 (前) 국회 지방자치발전특별위원회 간사 (前) 민주당 원내부대표 (前) 민주당 인재영입위원회 위원 (前) 새정치민주연합 수원갑 지역위원장 (前) 더불어민주당 경기도당 위원장 (前) 국민의당 최고위원 (前) 국민의당 인재영입위원회 위원장 (前) (주)화산 PAP 대표이사 (現) 수원시 검도연합회장 (現) 재수화성시민회 이사 (現) 경기의정포럼 공동대표 (現) 경동영아원 후원회 부회장 (現) 제20대 국회의원
+   </memTitle>
+   <origNm>
+    경기 수원시갑
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    정창희, 배혜진
+   </secretary>
+   <secretary2>
+    주영헌, 장인정, 조정희, 김보라
+   </secretary2>
+   <shrtNm>
+    교육위원회
+   </shrtNm>
+   <staff>
+    장우진, 최국현
+   </staff>
+  </item>
+ </body>
+</response>

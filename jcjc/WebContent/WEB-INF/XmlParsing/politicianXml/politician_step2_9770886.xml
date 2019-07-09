@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    mphonglove@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://www.mphong.com
+   </assemHomep>
+   <assemTel>
+    02-788-2954
+   </assemTel>
+   <bthDate>
+    19471005
+   </bthDate>
+   <electionNum>
+    17,19,20대
+   </electionNum>
+   <empNm>
+    홍문표
+   </empNm>
+   <engNm>
+    HONG MOONPYO
+   </engNm>
+   <examCd>
+    유도
+   </examCd>
+   <hbbyCd>
+    바둑,독서
+   </hbbyCd>
+   <hjNm>
+    洪文杓
+   </hjNm>
+   <memTitle>
+    한양대 행정대학원 졸업 국회의장 정무수석 비서관(85.6~87.10) 88올림픽 홍보 전문위원 민주동우회 간사장 한나라당 제2사무부총장(00.8~03.11) 한나라당 정치개혁 특별위원회위원(01.4~01.11) 한나라당 운영위원(전) 한나라당 재해대책위원회위원(전) 수도이전문제특별위원회위원(전) 한국농어촌공사사장(전) 한나라당 최고위원(전) 새누리당 충남도당 위원장(전) 국회 예산결산특별위원회 위원(전) 국회 농림수산식품위원회 위원(현) 국회 태안유류피해대책특별위원회 위원장(전) (사)국민생활체육전국생활체조연합회 회장(전) 대한하키협회 회장(전) 아시아하키연맹 부회장(전) 18대 대통령선거 새누리당 충남선거대책위원장 새누리당 제1사무부총장 (전) 새누리당 사무총장 직대 (전) 바른정당 최고위원(전) 바른정당 조직강화특별위원회 위원장(전)
+   </memTitle>
+   <origNm>
+    충남 홍성군예산군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    구성완, 최종성
+   </secretary>
+   <secretary2>
+    신대경, 김수영, 안진호, 손병관, 성수정
+   </secretary2>
+   <shrtNm>
+    행정안전위원회
+   </shrtNm>
+   <staff>
+    최재구, 김주일
+   </staff>
+  </item>
+ </body>
+</response>

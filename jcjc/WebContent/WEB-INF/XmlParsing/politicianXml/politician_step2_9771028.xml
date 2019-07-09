@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    yc20002@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/yc20002
+   </assemHomep>
+   <assemTel>
+    02-784-5901
+   </assemTel>
+   <bthDate>
+    19631211
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이만희
+   </empNm>
+   <engNm>
+    LEE MANHEE
+   </engNm>
+   <hjNm>
+    李晩熙
+   </hjNm>
+   <memTitle>
+    (현) 국회 농림축산식품해양수산위원회 위원(후반기) (현) 자유한국당 원내대변인 (현) 자유한국당 원내부대표 ----------------------------------------------- (전) 국회 농림축산식품해양수산위원회 간사(상반기) (전) 국회 운영위원회 위원 (전) 국회 가습기살균제 피해사건 진상규명 국정조사 특별위원회 위원 (전) 국회 최순실 국정농단 의혹사건 진상규명 국정조사 특별위원회 위원 (전) 국회 미래일자리특별위원회 위원 (전) 자유한국당 인권위원장 (전) 새누리당 원내부대표 (전) 새누리당 민생경제점검단 위원 (전) 새누리당 당헌·당규개정 특별위원회 위원 (전) 새누리당 일자리특별위원회 위원 (전) 자유한국당 농림축산식품해양수산위원회 정책조정위원회 간사 (전) 인사혁신처 소청위 상임위원 (전) 경기지방경찰청장 (전) 경북지방경찰청장 (전) 대통령실 치안비서관 (전) 외교부 뉴욕총영사관 영사 (전) 영천경찰서장
+   </memTitle>
+   <origNm>
+    경북 영천시청도군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    강보인, 손영우
+   </secretary>
+   <secretary2>
+    오장택, 김무찬, 서주연, 김준수
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,농림축산식품해양수산위원회
+   </shrtNm>
+   <staff>
+    강성우, 이재섭
+   </staff>
+  </item>
+ </body>
+</response>

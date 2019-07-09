@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    hwj335@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/yiyoon0101
+   </assemHomep>
+   <assemTel>
+    02-784-1571
+   </assemTel>
+   <bthDate>
+    19571104
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    윤영일
+   </empNm>
+   <engNm>
+    YOON YOUNGIL
+   </engNm>
+   <hbbyCd>
+    독서.등산
+   </hbbyCd>
+   <hjNm>
+    尹英壹
+   </hjNm>
+   <memTitle>
+    성균관대 행정학 박사, 제23회 행정고시 시라큐스대학교 대학원 행정학 석사 서울대학교 대학원 행정학 석사 성균관대학교 법정대학 정치외교학과 현)국토교통위원회 간사 현)국민의당 제4정조위원장 전)한국외대 행정학과 초빙교수 전)IBK기업은행 감사 전)성균관대 국정관리대학원 초빙교수 전)감사원 재정경제감사국장, 감사교육원장 전)UN감사실 감사관
+   </memTitle>
+   <origNm>
+    전남 해남군완도군진도군
+   </origNm>
+   <polyNm>
+    민주평화당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김강중 한희석 
+   </secretary>
+   <secretary2>
+    신동욱 이성숙 이우승 임경환
+   </secretary2>
+   <shrtNm>
+    국토교통위원회
+   </shrtNm>
+   <staff>
+    김행석 진정일
+   </staff>
+  </item>
+ </body>
+</response>

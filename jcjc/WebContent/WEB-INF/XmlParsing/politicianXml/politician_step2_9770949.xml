@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    assemblyc@daum.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/busanyc
+   </assemHomep>
+   <assemTel>
+    02-784-1091
+   </assemTel>
+   <bthDate>
+    19620205
+   </bthDate>
+   <electionNum>
+    16,17,20대
+   </electionNum>
+   <empNm>
+    김영춘
+   </empNm>
+   <engNm>
+    KIM YOUNGCHOON
+   </engNm>
+   <hbbyCd>
+    여행.독서
+   </hbbyCd>
+   <hjNm>
+    金榮春
+   </hjNm>
+   <memTitle>
+    해양수산부 장관(현) 제20대 국회의원(현) 국회 농림축산식품해양수산위원장 제17대 국회의원 제16대 국회의원 민주당 최고위원 청와대 정무비서관 고려대학교 총학생회장 &amp;lt;부산사무실&amp;gt; 주소 : 부산 부산진구 새싹로 68 부광빌딩 2층 전화 : 051-802-0413
+   </memTitle>
+   <origNm>
+    부산 부산진구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    김진성, 신상훈
+   </secretary>
+   <secretary2>
+    이승은, 정주영, 신혜림, 조경일
+   </secretary2>
+   <shrtNm>
+    과학기술정보방송통신위원회
+   </shrtNm>
+   <staff>
+    김병운, 문봉주
+   </staff>
+  </item>
+ </body>
+</response>

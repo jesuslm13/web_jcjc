@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-1751
+   </assemTel>
+   <bthDate>
+    19520327
+   </bthDate>
+   <electionNum>
+    18,20대
+   </electionNum>
+   <empNm>
+    이은재
+   </empNm>
+   <engNm>
+    LEE EUNJAE
+   </engNm>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    李恩宰
+   </hjNm>
+   <origNm>
+    서울 강남구병
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    송효근, 우무정
+   </secretary>
+   <secretary2>
+    이규종, 박정오, 이점숙, 허윤정
+   </secretary2>
+   <shrtNm>
+    법제사법위원회,정보위원회
+   </shrtNm>
+   <staff>
+    나기철, 박웅서
+   </staff>
+  </item>
+ </body>
+</response>

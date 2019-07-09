@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    jfirst607@naver.com 
+   </assemEmail>
+   <assemHomep>
+    http://blog.jfirst21.com
+   </assemHomep>
+   <assemTel>
+    02-784-3851
+   </assemTel>
+   <bthDate>
+    19670413
+   </bthDate>
+   <electionNum>
+    18,20대
+   </electionNum>
+   <empNm>
+    장제원
+   </empNm>
+   <engNm>
+    CHANG JEWON
+   </engNm>
+   <hjNm>
+    張濟元
+   </hjNm>
+   <origNm>
+    부산 사상구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    곽준성, 김재호
+   </secretary>
+   <secretary2>
+    서영진, 김현준, 이예슬
+   </secretary2>
+   <shrtNm>
+    법제사법위원회,예산결산특별위원회,정치개혁 특별위원회
+   </shrtNm>
+   <staff>
+    김민수, 안은전
+   </staff>
+  </item>
+ </body>
+</response>

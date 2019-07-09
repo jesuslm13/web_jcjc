@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-2060
+   </assemTel>
+   <bthDate>
+    19580109
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    유민봉
+   </empNm>
+   <engNm>
+    YOU MINBONG
+   </engNm>
+   <hjNm>
+    庾敏鳳
+   </hjNm>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    임수빈, 최우영
+   </secretary>
+   <secretary2>
+    김효준, 유무경, 임승균
+   </secretary2>
+   <shrtNm>
+    4차 산업혁명 특별위원회,공공부문 채용비리 의혹과 관련된 국정조사특별위원회,여성가족위원회,행정안전위원회
+   </shrtNm>
+   <staff>
+    신재경, 이순호
+   </staff>
+  </item>
+ </body>
+</response>

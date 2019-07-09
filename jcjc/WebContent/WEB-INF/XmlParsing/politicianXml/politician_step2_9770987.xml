@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    hisoonja426@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/hisoonja3
+   </assemHomep>
+   <assemTel>
+    02-784-1606
+   </assemTel>
+   <bthDate>
+    19581012
+   </bthDate>
+   <electionNum>
+    17,18,20대
+   </electionNum>
+   <empNm>
+    박순자
+   </empNm>
+   <engNm>
+    PARK SOONJA
+   </engNm>
+   <examCd>
+    운동.배구
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    朴順子
+   </hjNm>
+   <memTitle>
+    제17.18.20대 국회의원 (3선 / 안산 단원구 을) 안산 단원구 을 당협위원장 국토교통위원회 위원장 고려대학교 경제학과 졸업 한양대학교 대학원 행정학 박사 졸업 자유한국당 중앙연수원장/국민정책위원회 단장 국회 한-라오스 의원친선협회 회장 한나라당 최고위원 대통령 특사(싱가포르, 이라크, 필리핀) 한나라당 결식아동특별대책위원장 한나라당 일자리특별위원회 위원장 한나라당 중앙여성위원장 경기도의회 의원 4대 한나라당 경기도당 수석부위원장 민주평통 안산시협의회 회장 안산시 애향장학회 설립위원
+   </memTitle>
+   <origNm>
+    경기 안산시단원구을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    박찬용, 정홍석
+   </secretary>
+   <secretary2>
+    이경수, 이정훈, 유민희
+   </secretary2>
+   <shrtNm>
+    국토교통위원회,남북경제협력 특별위원회
+   </shrtNm>
+   <staff>
+    최덕호, 진성오
+   </staff>
+  </item>
+ </body>
+</response>

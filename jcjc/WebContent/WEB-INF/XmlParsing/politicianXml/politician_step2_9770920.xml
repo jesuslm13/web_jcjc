@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    hope_1000@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://hope_1000.blog.me
+   </assemHomep>
+   <assemTel>
+    02-784-9850
+   </assemTel>
+   <bthDate>
+    19541212
+   </bthDate>
+   <electionNum>
+    15,16,17,18,19,20대
+   </electionNum>
+   <empNm>
+    천정배
+   </empNm>
+   <engNm>
+    CHUN JUNGBAE
+   </engNm>
+   <hbbyCd>
+    여행,독서
+   </hbbyCd>
+   <hjNm>
+    千正培
+   </hjNm>
+   <memTitle>
+    · (현)국회의원 (15~20대) · (현)동북아전략연구원 부설 호남의 희망 이사장 · (전)국민의당 공동대표 · (전)법무부 장관 · (전)민주사회를위한 변호사모입(민변) 국제인권위원장 · 서울대학교 대학원 법학 석사 · 서울대학교 법과대학 졸업 · 한국방송통신대 교육학과 졸업 · 목포중,고 졸업 · 전남 신안 출생 저서 · 꽁지머리를 묶은 인권변호사(1996) · 여기가 로도스다, 여기서 춤추어라(2007) · 정의로운 복지국가(2010) · 흔들려 다시 피는 시간(2012)
+   </memTitle>
+   <origNm>
+    광주 서구을
+   </origNm>
+   <polyNm>
+    민주평화당
+   </polyNm>
+   <reeleGbnNm>
+    6선제20대
+   </reeleGbnNm>
+   <secretary>
+    김한년, 문형구
+   </secretary>
+   <secretary2>
+    김재갑, 박정은, 박성은, 이현
+   </secretary2>
+   <shrtNm>
+    외교통일위원회,정치개혁 특별위원회
+   </shrtNm>
+   <staff>
+    문형래, 오정훈
+   </staff>
+  </item>
+ </body>
+</response>

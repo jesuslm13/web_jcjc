@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    7844990@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://hyunmee.net
+   </assemHomep>
+   <assemTel>
+    02-784-4990
+   </assemTel>
+   <bthDate>
+    19621129
+   </bthDate>
+   <electionNum>
+    17,19,20대
+   </electionNum>
+   <empNm>
+    김현미
+   </empNm>
+   <engNm>
+    KIM HYUNMEE
+   </engNm>
+   <examCd>
+    논평
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    金賢美
+   </hjNm>
+   <memTitle>
+    연세대 정치외교학과 졸업, 청와대 정무2비서관(前) 열린우리당 경기도당위원장(前) 기획재정위원회 야당간사(前) 민주정책연구원 시니어연구소장(前) 예산결산특별위원회 위원장(前) 과학기술정보방송통신위원회 위원(現) (現)국토교통부 장관(2017.6~)
+   </memTitle>
+   <origNm>
+    경기 고양시정
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    김한담, 류종철
+   </secretary>
+   <secretary2>
+    한진, 조희수, 최성원, 유신욱
+   </secretary2>
+   <shrtNm>
+    농림축산식품해양수산위원회
+   </shrtNm>
+   <staff>
+    김영환, 이경혜
+   </staff>
+  </item>
+ </body>
+</response>

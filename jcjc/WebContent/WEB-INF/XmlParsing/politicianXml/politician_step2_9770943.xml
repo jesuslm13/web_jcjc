@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemHomep>
+    http://leehyehoon.kr
+   </assemHomep>
+   <assemTel>
+    02-784-4467
+   </assemTel>
+   <bthDate>
+    19640615
+   </bthDate>
+   <electionNum>
+    17,18,20대
+   </electionNum>
+   <empNm>
+    이혜훈
+   </empNm>
+   <engNm>
+    LEE HYEHOON
+   </engNm>
+   <examCd>
+    피아노
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    李惠薰
+   </hjNm>
+   <origNm>
+    서울 서초구갑
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    윤정준, 이도란, 이소리
+   </secretary>
+   <secretary2>
+    백성록, 김보라, 서영지, 김보라
+   </secretary2>
+   <shrtNm>
+    국토교통위원회,예산결산특별위원회,정보위원회
+   </shrtNm>
+   <staff>
+    이동창, 장동진
+   </staff>
+  </item>
+ </body>
+</response>

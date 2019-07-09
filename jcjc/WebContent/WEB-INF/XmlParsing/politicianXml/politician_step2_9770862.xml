@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    mjhong45@daum.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/mjhong2004
+   </assemHomep>
+   <assemTel>
+    02-784-4777
+   </assemTel>
+   <bthDate>
+    19550405
+   </bthDate>
+   <electionNum>
+    15,16,19,20대
+   </electionNum>
+   <empNm>
+    홍문종
+   </empNm>
+   <engNm>
+    HONG MOONJONG
+   </engNm>
+   <examCd>
+    글쓰기
+   </examCd>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    洪文鐘
+   </hjNm>
+   <memTitle>
+    &amp;lt;학력&amp;gt; - 고려대 졸 - 하버드대 행정학 석사 - 스탠퍼드대 문학 석사 - 하버드대 교육학 박사 &amp;lt;주요경력&amp;gt; - 15·16·19·20대 국회의원 - (전) 한나라당 경기도당위원장 - (전) 새누리당 사무총장 - (전) 제19대 국회 후반기 미래창조과학방송통신위원회 위원장 - (현) 경민대학교 이사장
+   </memTitle>
+   <origNm>
+    경기 의정부시을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    김승원, 석명수
+   </secretary>
+   <secretary2>
+    황원석, 임준태, 심성여, 맹시후
+   </secretary2>
+   <shrtNm>
+    교육위원회
+   </shrtNm>
+   <staff>
+    권순일, 신병승
+   </staff>
+  </item>
+ </body>
+</response>

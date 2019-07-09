@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    songok4740@naver.com
+   </assemEmail>
+   <assemTel>
+    02-784-9470
+   </assemTel>
+   <bthDate>
+    19651220
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    송옥주
+   </empNm>
+   <engNm>
+    SONG OKJOO
+   </engNm>
+   <hjNm>
+    宋玉珠
+   </hjNm>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김선홍, 김진호
+   </secretary>
+   <secretary2>
+    엄소영, 이두, 권예린, 배꽃나라
+   </secretary2>
+   <shrtNm>
+    여성가족위원회,예산결산특별위원회,환경노동위원회
+   </shrtNm>
+   <staff>
+    이동훈, 이홍근
+   </staff>
+  </item>
+ </body>
+</response>

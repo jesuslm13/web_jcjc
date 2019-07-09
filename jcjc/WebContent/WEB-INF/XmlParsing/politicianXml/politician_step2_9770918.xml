@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    oshvictory1@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/arang301
+   </assemHomep>
+   <assemTel>
+    02-784-5761
+   </assemTel>
+   <bthDate>
+    19710207
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    오신환
+   </empNm>
+   <engNm>
+    OH SHINHWAN
+   </engNm>
+   <hjNm>
+    吳晨煥
+   </hjNm>
+   <memTitle>
+    학력 고려대학교 정책대학원 석사 수료 한국예술종합학교(한예종) 졸업 관악구 당곡 초·중·고등학교 졸업 경력 바른미래당 비상대책위원 새로운공동체 [공존] 상임대표 제19. 20대 국회의원(서울 관악을) 제20대 국회 전반기 법제사법위원회/예산결산특별위원회 위원 
+   </memTitle>
+   <origNm>
+    서울 관악구을
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    정바울 이경관
+   </secretary>
+   <secretary2>
+    소훈섭 염성관 최인식 김안나 김도희 김동규
+   </secretary2>
+   <shrtNm>
+    법제사법위원회,사법개혁 특별위원회
+   </shrtNm>
+   <staff>
+    김형진 백관백
+   </staff>
+  </item>
+ </body>
+</response>

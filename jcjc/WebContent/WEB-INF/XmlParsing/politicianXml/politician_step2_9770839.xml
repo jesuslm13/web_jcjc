@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    ijgalso@daum.net
+   </assemEmail>
+   <assemHomep>
+    http://www.ijk.or.kr
+   </assemHomep>
+   <assemTel>
+    02-784-1358
+   </assemTel>
+   <bthDate>
+    19531111
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    인재근
+   </empNm>
+   <engNm>
+    IN JAEKEUN
+   </engNm>
+   <hjNm>
+    印在謹
+   </hjNm>
+   <memTitle>
+    [학력] 이화여자대학교 사회학과 졸업 [주요경력] 로버트 케네디 인권상 수상 이화여자대학교 민주동우회 회장 민주통합 시민행동 공동대표 서울민주통일민중운동연합 의장 민주헌법쟁취국민운동본부 상임집행위원 민주화실천가족운동협의회(민가협) 총무 제19대 국회의원(외교통일위원회, 여성가족위원회, 보건복지위원회) 제20대 국회의원(보건복지위원회 간사) [현재활동] (재)김근태재단 이사장 제20대 국회의원(행정안전위원회 위원장) 국회의원 연구단체 국회&amp;#039민주주의와 복지국가 연구회&amp;#039 대표의원
+   </memTitle>
+   <origNm>
+    서울 도봉구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    강경만, 성하림
+   </secretary>
+   <secretary2>
+    박상근, 정지혁, 강준희, 박주희
+   </secretary2>
+   <shrtNm>
+    행정안전위원회
+   </shrtNm>
+   <staff>
+    한성희, 임영진
+   </staff>
+  </item>
+ </body>
+</response>

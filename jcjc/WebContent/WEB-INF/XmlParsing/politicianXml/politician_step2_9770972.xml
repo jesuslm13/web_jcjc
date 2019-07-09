@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    leeek1105@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/leeek1105
+   </assemHomep>
+   <assemTel>
+    02-784-3457
+   </assemTel>
+   <bthDate>
+    19570225
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이은권
+   </empNm>
+   <engNm>
+    LEE EUNKWON
+   </engNm>
+   <hjNm>
+    李殷權
+   </hjNm>
+   <memTitle>
+    - 서대전고등학교 졸업 - 단국대학교 (전공:토목공학과) 졸업 - 단국대학교 행정법무대학원 - 제20대 국회 하반기 국토교통위원회 위원 - 자유한국당 중구당원협의회 운영위원장 - 전 한나라당 중구당원협의회 운영위원장 - 전 민선4기 대전광역시 중구청장 - 전 자유한국당 대전광역시당 위원장 - 전 자유한국당 원내부대표 - 제20대 국회 제1기 예산결산특별위원회 위원 - 제20대 국회 상반기 과학기술정보방송통신위원회 위원 - 전 국회 운영위원회 위원
+   </memTitle>
+   <origNm>
+    대전 중구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김석환, 신정원
+   </secretary>
+   <secretary2>
+    이주호, 권혁주, 안효석, 오희정, 강효나
+   </secretary2>
+   <shrtNm>
+    국토교통위원회
+   </shrtNm>
+   <staff>
+    류승관, 정일수
+   </staff>
+  </item>
+ </body>
+</response>

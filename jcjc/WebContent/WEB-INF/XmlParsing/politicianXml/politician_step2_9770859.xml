@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    jeoung@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://www.한정애.com
+   </assemHomep>
+   <assemTel>
+    02-784-3051
+   </assemTel>
+   <bthDate>
+    19650108
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    한정애
+   </empNm>
+   <engNm>
+    HAN JEOUNGAE
+   </engNm>
+   <hbbyCd>
+    영화,여행
+   </hbbyCd>
+   <hjNm>
+    韓貞愛
+   </hjNm>
+   <memTitle>
+    ■ 학력 해운대여자고등학교 졸업(1985) 부산대학교 공과대학 환경공학과 학사(1989) 부산대학교 환경대학원 석사 수료(1992) 영국 노팅엄대학교 산업공학 박사(2003) ■ 경력 현) 더불어민주당 제19, 20대 국회의원(서울 강서병) 현) 제20대 국회 환경노동위원회 간사 현) 더불어민주당 정책위원회 수석부의장 현) 국회기후변화포럼 공동대표 현) 국회 일생활균형 및 일하는 방식 혁신을 위한 포럼 대표 전) 한국산업안전보건공단 노조위원장 전) 한국노동조합총연맹 공공연맹 부위원장 전) 한국노동조합총연맹 대외협력본부장 전) 새정치민주연합 정책위원회 부의장 전) 새정치민주연합 당대변인 전) 더불어민주당 서울시당 여성위원장 전) 더불어민주당 제4기 원내부대표 전) 더불어민주당 정책위원회 수석부의장 전) 더불어민주당 성과연봉제 진상조사단 단장 전) 더불어민주당 정책위원회 제4정조위원장 전) 더불어민주당 홍보위원회 위원장 전) 제19대 문재인 대통령후보 중앙선거대책본부 홍보본부 공동본부장 전) 국정기획자문위원회 사회분과 위원 전) 더불어민주당 중앙당 공직선거후보자 추천관리위원회 위원 전) 더불어민주당 민생평화상황실 소득주도성장팀 팀장 전) 더불어민주당 정책위원회 제5정조위원장
+   </memTitle>
+   <origNm>
+    서울 강서구병
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    김영철, 박철우
+   </secretary>
+   <secretary2>
+    김장용, 강희정, 장희정, 김지은, 주영광, 김문경
+   </secretary2>
+   <shrtNm>
+    환경노동위원회
+   </shrtNm>
+   <staff>
+    김영수, 조선옥
+   </staff>
+  </item>
+ </body>
+</response>

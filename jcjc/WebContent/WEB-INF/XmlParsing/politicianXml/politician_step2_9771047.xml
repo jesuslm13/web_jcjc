@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemHomep>
+    http://blog.naver.com/liberty_20
+   </assemHomep>
+   <assemTel>
+    02-784-4630
+   </assemTel>
+   <bthDate>
+    19751009
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    전희경
+   </empNm>
+   <engNm>
+    JUN HEEKYUNG
+   </engNm>
+   <hbbyCd>
+    산책
+   </hbbyCd>
+   <hjNm>
+    全希卿
+   </hjNm>
+   <memTitle>
+    현) 자유한국당 대변인 현) 제20대 국회 교육문화체육관광위원회 위원 현) 제20대 국회 정치발전특별위원회 위원 현) 제20대 국회 윤리특별위원회 위원 현) 자유한국당 원내부대표 현) 자유한국당 인재영입특별위원회 위원 현) 자유한국당 조직강화특별위원회 위원 2016.08-2016.12 새누리당 원내부대표 2014.05-2016.01 자유경제원사무총장 2012.05-2014.04 한국경제연구원 정책팀장 2006.08-2012.04 바른사회시민회의 정책실장
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    문주현
+   </secretary>
+   <secretary2>
+    김연주, 노하나, 이진영, 홍지혜
+   </secretary2>
+   <shrtNm>
+    공공부문 채용비리 의혹과 관련된 국정조사특별위원회,교육위원회,여성가족위원회
+   </shrtNm>
+   <staff>
+    박준수, 이충현
+   </staff>
+  </item>
+ </body>
+</response>

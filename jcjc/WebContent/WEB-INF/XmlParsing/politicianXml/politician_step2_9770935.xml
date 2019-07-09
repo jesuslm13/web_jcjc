@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    shwmapo@naver.com
+   </assemEmail>
+   <assemTel>
+    02-784-9241
+   </assemTel>
+   <bthDate>
+    19550123
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    손혜원
+   </empNm>
+   <engNm>
+    SOHN HYEWON
+   </engNm>
+   <examCd>
+    스포츠
+   </examCd>
+   <hbbyCd>
+    원예
+   </hbbyCd>
+   <hjNm>
+    孫惠園
+   </hjNm>
+   <memTitle>
+    ■학력 숙명여자고등학교 졸업 홍익대학교 미술대학 응용미술과 졸업 홍익대학교 미술대학원 석사(미술학) ■경력 現 더불어민주당 홍보위원장 現 한국나전칠기박물관 관장 現 홍익대학교 총동문회 부회장 前 크로스포인트 대표 前 (재)서울디자인센터 이사 前 홍익대학교 산업미술대학원 교수 역임(2005.3~2008.2)
+   </memTitle>
+   <origNm>
+    서울 마포구을
+   </origNm>
+   <polyNm>
+    무소속
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    여희경, 정성일
+   </secretary>
+   <secretary2>
+    김동욱, 김준호, 김영윤, 박나리
+   </secretary2>
+   <shrtNm>
+    보건복지위원회
+   </shrtNm>
+   <staff>
+    김성회, 조희숙
+   </staff>
+  </item>
+ </body>
+</response>

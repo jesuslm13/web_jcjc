@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    sangdokwak@na.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/sangdokwak
+   </assemHomep>
+   <assemTel>
+    02-784-8450
+   </assemTel>
+   <bthDate>
+    19591223
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    곽상도
+   </empNm>
+   <engNm>
+    KWAK SANGDO
+   </engNm>
+   <examCd>
+    바둑
+   </examCd>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    郭尙道
+   </hjNm>
+   <memTitle>
+    1978. 대구 대건고졸 1983. 성균관대 법학과졸 1985. 同대학원 법학과졸 1983. 제25회 사법고시 합격 2007. 대구지방검찰청 서부지청 지청장 2013. 대통령비서실 민정수석 2015. 제11대 대한법률구조공단 이사장 2016. 제20대 국회의원 (대구 중구남구/자유한국당) 2016.5 제20대 국회 교육문화체육관광위원회/윤리특별위원회 위원 2017.5 김이수 헌법재판소장 후보자 인사청문특별위원회 위원 2017.6 조재현, 박정화 대법관 후보자 인사청문특별위원회 위원 2017.8 김명수 대법원장 후보자 인사청문특별위원회 위원 2017.10 자유한국당 정치보복대책특별위원회 위원 2017.12 최재형 감사원장 후보자 인사청문특별위원회 위원 2017.12.19~ 제20대 국회 운영위원회/자유한국당 원내부대표 2018.1 국회 사법개혁특별위원회 위원 2018.2 자유한국당 지방선거 총괄기획단 2018.3 자유한국당 여성성폭력근절대책 특별위원회 2018.7 김선수 후보자 인사청문특별위원회 위원 2018.7 국회 교육위원회/예산결산특별위원회 위원
+   </memTitle>
+   <origNm>
+    대구 중구남구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    신경환, 하은정
+   </secretary>
+   <secretary2>
+    이성찬, 김동현, 김가영
+   </secretary2>
+   <shrtNm>
+    교육위원회,사법개혁 특별위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    김동현, 서석만
+   </staff>
+  </item>
+ </body>
+</response>

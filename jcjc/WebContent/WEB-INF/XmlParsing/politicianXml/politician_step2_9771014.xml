@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    bscho56@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/vicrory_cho
+   </assemHomep>
+   <assemTel>
+    02-784-6264
+   </assemTel>
+   <bthDate>
+    19560910
+   </bthDate>
+   <electionNum>
+    16,17,18,20대
+   </electionNum>
+   <empNm>
+    조배숙
+   </empNm>
+   <engNm>
+    CHO BAESOOK
+   </engNm>
+   <examCd>
+    탁구,수영
+   </examCd>
+   <hbbyCd>
+    등산,독서
+   </hbbyCd>
+   <hjNm>
+    趙培淑
+   </hjNm>
+   <memTitle>
+    경기여고 졸업 서울대학교 법대 졸업 서울대학교 대학원 법학과 석사 수료 서울지방검찰청 검사 서울고등법원 판사 제3대 여성변호사회 회장 열린우리당 최고위원 국회 문화관광위원회 위원장 민주당 최고위원 국민의당 비상대책위원 국민의당 정책위원회 의장
+   </memTitle>
+   <origNm>
+    전북 익산시을 
+   </origNm>
+   <polyNm>
+    민주평화당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    조상식, 국혁
+   </secretary>
+   <secretary2>
+    김화복, 방준화, 정하나
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회,에너지 특별위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    이창무, 류승준
+   </staff>
+  </item>
+ </body>
+</response>

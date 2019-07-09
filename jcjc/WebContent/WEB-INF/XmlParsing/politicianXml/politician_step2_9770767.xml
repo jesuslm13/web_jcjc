@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    dcparkjj@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/dcparkjj
+   </assemHomep>
+   <assemTel>
+    02-784-6750
+   </assemTel>
+   <bthDate>
+    19610318
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    박대출
+   </empNm>
+   <engNm>
+    PARK DAECHUL
+   </engNm>
+   <hjNm>
+    朴大出
+   </hjNm>
+   <memTitle>
+    &amp;lt;학력&amp;gt; ·진주고등학교 졸업(49회) ·연세대학교 정치외교학과 졸업 ·연세대학교 행정대학원 졸업 &amp;lt;경력&amp;gt; ·새누리당 대변인 ·국회 미래창조과학방송통신위원회 위원 ·국회 예산·결산특별위원회 위원 ·진주·부산 발전협의회 고문 ·前 새누리당 원내부대표 ·前 국회 운영위원회 위원 (국회방송심의소위원회 위원장) ·前 서울신문 정치부장 ·前 서울신문 논설위원 ·前 부경대학교 겸임교수 
+   </memTitle>
+   <origNm>
+    경남 진주시갑
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    송지훈, 조정대
+   </secretary>
+   <secretary2>
+    정진효, 황은수, 김세아, 심효은
+   </secretary2>
+   <shrtNm>
+    과학기술정보방송통신위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    김성욱, 최두식
+   </staff>
+  </item>
+ </body>
+</response>

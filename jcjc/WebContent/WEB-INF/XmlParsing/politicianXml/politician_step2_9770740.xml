@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    jtkim1013@na.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://www.kimjintae.co.kr/
+   </assemHomep>
+   <assemTel>
+    02-784-3760
+   </assemTel>
+   <bthDate>
+    19641013
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    김진태
+   </empNm>
+   <engNm>
+    KIM JINTAE
+   </engNm>
+   <hjNm>
+    金鎭台
+   </hjNm>
+   <memTitle>
+    1986.10 제28회 사법시험 합격 1987.02 서울대학교 법과대학 졸업 1989.02 사법연수원 18기 수료 1992.02 국군기무사령부 법무관 전역(대위) 2002~2003 춘천지검 부장검사 2006~2007 대검 조직범죄과장, 서울중앙지검 부장검사 2008.03. 춘천지검 원주지청장 2012.05.~현재 제19대 국회의원
+   </memTitle>
+   <origNm>
+    강원 춘천시
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    김태하, 박병주
+   </secretary>
+   <secretary2>
+    심범섭, 조남행, 정다와, 신영혜
+   </secretary2>
+   <shrtNm>
+    정무위원회
+   </shrtNm>
+   <staff>
+    박미연, 송제성
+   </staff>
+  </item>
+ </body>
+</response>

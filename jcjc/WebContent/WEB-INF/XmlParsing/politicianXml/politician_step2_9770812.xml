@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    7882579@naver.com
+   </assemEmail>
+   <assemTel>
+    02-784-4871
+   </assemTel>
+   <bthDate>
+    19610910
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    윤재옥
+   </empNm>
+   <engNm>
+    YUN JAEOK
+   </engNm>
+   <hbbyCd>
+    독서,등산
+   </hbbyCd>
+   <hjNm>
+    尹在玉
+   </hjNm>
+   <memTitle>
+    학력 - 경찰대학 졸업(1기) - 연세대학교 경찰행정학과 졸업(석사) - 동국대학교 경찰행정학과(박사수료) 주요경력 - 한국일보 선정 2000년대를 빛낼 100인 - 경북지방경찰청장 - 경기지방경찰청장 - 새누리당 기획위원장 - 제18대 대통령선거 새누리당 종합상황실 정세분석단장
+   </memTitle>
+   <origNm>
+    대구 달서구을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    백병환, 이고운
+   </secretary>
+   <secretary2>
+    김미혜, 이주원, 이상일, 김도영
+   </secretary2>
+   <shrtNm>
+    윤리특별위원회,행정안전위원회
+   </shrtNm>
+   <staff>
+    노병근, 장오성
+   </staff>
+  </item>
+ </body>
+</response>

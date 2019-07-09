@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    lhc21net@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://www.hopechan.kr
+   </assemHomep>
+   <assemTel>
+    02-784-7901
+   </assemTel>
+   <bthDate>
+    19520710
+   </bthDate>
+   <electionNum>
+    13,14,15,16,17,19,20대
+   </electionNum>
+   <empNm>
+    이해찬
+   </empNm>
+   <engNm>
+    LEE HAECHAN
+   </engNm>
+   <hbbyCd>
+    바둑
+   </hbbyCd>
+   <hjNm>
+    李海瓚
+   </hjNm>
+   <memTitle>
+    -용산고, -서울대사회학과졸업 -서울시정무부시장 -제38대교육부장관 -제36대 국무총리 -민주통합당 당대표 -(재)사람사는세상 노무현재단 이사장 -(현)더불어민주당 당대표 
+   </memTitle>
+   <origNm>
+    세종특별자치시
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    7선제20대
+   </reeleGbnNm>
+   <secretary>
+    전미숙, 천용기
+   </secretary>
+   <secretary2>
+    임현빈, 김광섭, 박예슬, 김윤경
+   </secretary2>
+   <shrtNm>
+    외교통일위원회
+   </shrtNm>
+   <staff>
+    박광운, 황인호
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    parkdukhyum@naver.com
+   </assemEmail>
+   <assemTel>
+    02-784-6550,6551
+   </assemTel>
+   <bthDate>
+    19531018
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    박덕흠
+   </empNm>
+   <engNm>
+    PARK DUKHYUM
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    朴德欽
+   </hjNm>
+   <memTitle>
+    한양대학교 토목공학 박사 자유한국당 비상대책위원회 위원 제20대 국회 후반기 국토교통위원회 간사 제20대 국회 후반기 예산결산특별위원회 위원 재난안전대책특별위원회 위원 자유한국당 충북도당 위원장 충청북도 스카우트연맹 연맹장 --------------------------------------- 전) 새누리당 조직부총장 전) 새누리당 중앙연수원 원장 전) 새누리당 충북도당 위원장 전) 새누리당 재해대책위원회 위원장 전) 대한전문건설협회 중앙회 회장 전) 원화코퍼레이션(주) 대표이사
+   </memTitle>
+   <origNm>
+    충북 보은군옥천군영동군괴산군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    김필수, 박현문 
+   </secretary>
+   <secretary2>
+    정서영,최윤희,방나래,이원재
+   </secretary2>
+   <shrtNm>
+    국토교통위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    송현우, 전상인
+   </staff>
+  </item>
+ </body>
+</response>

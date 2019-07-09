@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    hangomy@assembly.go.kr
+   </assemEmail>
+   <assemTel>
+    02-784-4861
+   </assemTel>
+   <bthDate>
+    19641007
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    윤영석
+   </empNm>
+   <engNm>
+    YOON YOUNGSEOK
+   </engNm>
+   <hjNm>
+    尹永碩
+   </hjNm>
+   <memTitle>
+    성균관대 정치외교학과 졸업 미국 듀크대 정책학 석사(2002~2004) 제37회 행정고등고시 합격(1993년) (前)서울시 마케팅담당관/지방 부이사관 아시아도시연맹 이사장 제19대 국회의원
+   </memTitle>
+   <origNm>
+    경남 양산시갑
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    장준명, 장호경
+   </secretary>
+   <secretary2>
+    이정훈, 공유신, 최혜림, 김보경
+   </secretary2>
+   <shrtNm>
+    기획재정위원회
+   </shrtNm>
+   <staff>
+    김홍광, 황주태
+   </staff>
+  </item>
+ </body>
+</response>

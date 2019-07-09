@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    moosung4u@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://mskim.co.kr
+   </assemHomep>
+   <assemTel>
+    02-784-5274
+   </assemTel>
+   <bthDate>
+    19510920
+   </bthDate>
+   <electionNum>
+    15,16,17,18,19,20대
+   </electionNum>
+   <empNm>
+    김무성
+   </empNm>
+   <engNm>
+    KIM MOOSUNG
+   </engNm>
+   <hbbyCd>
+    영화감상
+   </hbbyCd>
+   <hjNm>
+    金武星
+   </hjNm>
+   <memTitle>
+    동해제강(주) 전무이사, 삼동산업(주)대표이사 통일민주당 총무국장, 국회행정실장, 기조실차장 민자당 의사국장, 의원국장 제14대 대통령직 인수위원회 행정실장 대통령 민정비서관 대통령 사정비서관 내무부 차관 한양대학교 총동창회 회장 직무대행 민주화추진협의회 공동회장 중동고등학교 개교 100주년 기념사업추진위원장 한중의원외교협의회장 제18대 대통령 새누리당 중앙선거대책위원회 총괄본부장
+   </memTitle>
+   <origNm>
+    부산 중구영도구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    6선제20대
+   </reeleGbnNm>
+   <secretary>
+    하혜경, 홍영민
+   </secretary>
+   <secretary2>
+    김수아, 이윤경, 정지원, 박근태
+   </secretary2>
+   <shrtNm>
+    외교통일위원회
+   </shrtNm>
+   <staff>
+    권오훈, 김상민
+   </staff>
+  </item>
+ </body>
+</response>

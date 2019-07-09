@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    ahnssoo@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/ahnssoo1
+   </assemHomep>
+   <assemTel>
+    02-784-2690~1
+   </assemTel>
+   <bthDate>
+    19460528
+   </bthDate>
+   <electionNum>
+    15,19,20대
+   </electionNum>
+   <empNm>
+    안상수
+   </empNm>
+   <engNm>
+    AHN SANGSOO
+   </engNm>
+   <hbbyCd>
+    바둑,골프
+   </hbbyCd>
+   <hjNm>
+    安相洙
+   </hjNm>
+   <memTitle>
+    &amp;lt;학력&amp;gt; 서울대학교 대학원 경영학 석사 서울대학교 학사 &amp;lt;경력&amp;gt; 現 19대 국회의원 (인천 서구강화을) 前 제4대 인천광역시장 역임 前 제3대 인천광역시장 역임 前 제15대 국회의원 (인천 계양강화갑 / 한나라당) 前 동양그룹 종합조정실 사장
+   </memTitle>
+   <origNm>
+    인천 중구동구강화군옹진군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    김영훈, 염준식
+   </secretary>
+   <secretary2>
+    황동주, 홍예지, 유혜미, 박준경
+   </secretary2>
+   <shrtNm>
+    예산결산특별위원회,행정안전위원회
+   </shrtNm>
+   <staff>
+    송기영, 유원종
+   </staff>
+  </item>
+ </body>
+</response>

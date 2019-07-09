@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemHomep>
+    http://blog.naver.com/uhh609
+   </assemHomep>
+   <assemTel>
+    02-784-2371
+   </assemTel>
+   <bthDate>
+    19621101
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    윤한홍
+   </empNm>
+   <engNm>
+    YOON HANHONG
+   </engNm>
+   <hjNm>
+    尹漢洪
+   </hjNm>
+   <memTitle>
+    -학력- ▶ 합포초, 마산중, 마산고등학교 ▶ 서울대학교 졸업 ▶ 서울대학교 행정대학원 행정학 석사 ▶ 서울시립대학교 행정학 박사 -약력- ▶ 제 20대 국회의원 (경남 창원시 마산회원구/새누리당) ▶ 제 32대 경상남도 행정부지사 (前) ▶ 대통령실 행정자치비서관 (前) ▶ 서울시 행정과장·기획담당관 (前) ▶ 제32회 행정고시 합격 
+   </memTitle>
+   <origNm>
+    경남 창원시마산회원구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김성준, 안규찬
+   </secretary>
+   <secretary2>
+    이학종, 이원행, 김신현, 강선정
+   </secretary2>
+   <shrtNm>
+    사법개혁 특별위원회,산업통상자원중소벤처기업위원회
+   </shrtNm>
+   <staff>
+    남기석, 허종길
+   </staff>
+  </item>
+ </body>
+</response>

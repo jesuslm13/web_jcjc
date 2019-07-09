@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kimnowongu@gmail.com
+   </assemEmail>
+   <assemHomep>
+    https://blog.naver.com/human-nowon
+   </assemHomep>
+   <assemTel>
+    02-784-6271~3
+   </assemTel>
+   <bthDate>
+    19651015
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김성환
+   </empNm>
+   <engNm>
+    KIM SUNG WHAN
+   </engNm>
+   <examCd>
+    독서
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    金星煥
+   </hjNm>
+   <memTitle>
+    1995.07 ~ 1998.07 노원구의원 1998.07 ~ 2002.06 서울시의원 2003.04 ~ 2006.08 노무현대통령 청와대 정책실 행정관 2006.08 ~ 2007.09 노무현대통령 청와대 정책조정비서관 2008.09 ~ 2010.02 한국미래발전연구원 기획실장 2010.07 ~ 2014.06 민선5기 노원구청장 2014.07 ~ 2018.02 민선6기 노원구청장 2018.06 ~ (現)20대 국회의원
+   </memTitle>
+   <origNm>
+    서울 노원구병
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    서학선, 장재현
+   </secretary>
+   <secretary2>
+    정재삼, 장연경, 김성수, 공경남
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회,에너지 특별위원회
+   </shrtNm>
+   <staff>
+    이규철, 이진우
+   </staff>
+  </item>
+ </body>
+</response>

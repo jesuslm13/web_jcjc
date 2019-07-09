@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    nowoncap1@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/nowoncap
+   </assemHomep>
+   <assemTel>
+    02-784-2577~9
+   </assemTel>
+   <bthDate>
+    19561107
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이동섭
+   </empNm>
+   <engNm>
+    LEE DONGSUP
+   </engNm>
+   <examCd>
+    태권도9단
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    李銅燮
+   </hjNm>
+   <memTitle>
+    2017.01 ~ 국민의당 원내대변인 2016.12 ~ 국민의당 비상대책위원장 비서실장 2016.06 ~ 제20대 국회 전반기 교육문화체육관광위원회 위원 2016.05 ~ 제20대 국회의원 (비례대표/국민의당) 2016.05 ~ 국민의당 원내부대표 2016.01 국민의당 창당발기인 
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    우태주, 이도경
+   </secretary>
+   <secretary2>
+    조윤도, 박지용, 권솔, 이미림
+   </secretary2>
+   <shrtNm>
+    남북경제협력 특별위원회,문화체육관광위원회
+   </shrtNm>
+   <staff>
+    고영대, 안준철
+   </staff>
+  </item>
+ </body>
+</response>

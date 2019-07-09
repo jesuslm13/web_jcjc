@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    yhshin845@gmail.com
+   </assemEmail>
+   <assemTel>
+    02-784-2620
+   </assemTel>
+   <bthDate>
+    19610309
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    신용현
+   </empNm>
+   <engNm>
+    SHIN YONGHYEON
+   </engNm>
+   <hbbyCd>
+    여행
+   </hbbyCd>
+   <hjNm>
+    申容賢
+   </hjNm>
+   <memTitle>
+    - 現) 국회 과학기술정보방송통신위원회 간사 - 現) 국회 여성가족위원회 위원 - 現) 국회 4차산업혁명특별위원회 위원 - 現) 바른미래당 정책위원회 수석부의장 - 現) 바른미래당 대전광역시당 위원장 &amp;lt;학 력&amp;gt; - 충남대학교 일반대학원 졸업(이학박사) - 연세대학교 일반대학원 졸업(이학석사) - 연세대학교 물리학과 졸업(이학사) &amp;lt;경 력&amp;gt; - 前) 바른미래당 수석대변인 - 前) 바른미래당 대전광역시당 공동위원장 - 前) 바른미래당 대전유성을 지역위원장 - 前) 국민의당 전국여성위원장 (최고위원) - 前) 국민의당 비상대책위원회 위원(최고위원) - 前) 국민의당 원내부대표(여성) - 前) 한국표준과학연구원 원장 - 前) 규제개혁위원회 위원 - 前) 국제과학비즈니스벨트위원회 위원 - 前) 국가과학기술심의회 위원 - 前) 국가우주위원회 위원
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박선연 최세환
+   </secretary>
+   <secretary2>
+    박지현 한진영 이나현 정용 박한진
+   </secretary2>
+   <shrtNm>
+    4차 산업혁명 특별위원회,과학기술정보방송통신위원회,여성가족위원회
+   </shrtNm>
+   <staff>
+    방인호 유재은
+   </staff>
+  </item>
+ </body>
+</response>

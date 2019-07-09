@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    sotong1020@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/sotongsa
+   </assemHomep>
+   <assemTel>
+    02-784-5020
+   </assemTel>
+   <bthDate>
+    19540603
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    소병훈
+   </empNm>
+   <engNm>
+    SO BYUNGHOON
+   </engNm>
+   <examCd>
+    등산
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    蘇秉勳
+   </hjNm>
+   <memTitle>
+    [학력] 전주고등학교 졸업 성균관대학교 철학과 졸업 [경력] 2018.08. ~ 더불어민주당 제2사무부총장(조직) 2018.08. ~ 더불어민주당 경기도당 교육연수위원회 위원장 2016.05. ~ 제20대 국회 행정안전위원회 위원 2016.05. ~ 제20대 국회의원(경기 광주시갑/더불어민주당) 전)제20대 국회 전반기 예산결산특별위원회 위원 전)더불어민주당 정책위원회 상임부의장 전)더불어민주당 교육연수원 부원장 전)더불어민주당 문화예술특별위원회 위원장 전)더불어민주당 경기도당 부위원장 전)도서출판 산하 대표 전)민주희망 쇄신연대 상임집행위원 전)열린우리당 국정자문위원 전)민주당 출판문화진흥특별위원장 전)(사)한강소사이어티 이사장 전)남북민간교류협의회 사무총장
+   </memTitle>
+   <origNm>
+    경기 광주시갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김형준, 소준원
+   </secretary>
+   <secretary2>
+    최형규, 유지홍, 이지나, 이다영
+   </secretary2>
+   <shrtNm>
+    공공부문 채용비리 의혹과 관련된 국정조사특별위원회,행정안전위원회
+   </shrtNm>
+   <staff>
+    박정선, 김형호
+   </staff>
+  </item>
+ </body>
+</response>

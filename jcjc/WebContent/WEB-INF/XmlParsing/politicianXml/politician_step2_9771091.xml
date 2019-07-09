@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    congressmaeng@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://맹성규.kr/
+   </assemHomep>
+   <assemTel>
+    02-784-6181, 032-466-9100
+   </assemTel>
+   <bthDate>
+    19620405
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    맹성규
+   </empNm>
+   <engNm>
+    MAENG SUNG KYU
+   </engNm>
+   <hjNm>
+    孟聖奎
+   </hjNm>
+   <memTitle>
+    &amp;lt;주요약력&amp;gt; 2018.10.~ 더불어민주당 정책위원회 상임부의장 2018.7.~ 제20대 국회후반기 보건복지위원회 위원 2017. 6.~’18. 4. 문재인정부 국토교통부 제2차관 2015. 7.~’17. 4. 제14대 강원도 경제부지사 2014. 5. 국토교통부 교통물류실 실장 2010. 2. 주중국대한민국대사관 공사참사관 2006. 4. 노무현 대통령비서실 민정수석실 행정관 1988. 4. 제31회 행정고시 &amp;lt;학력사항&amp;gt; 한국항공대학교 대학원 법학박사 캐나다 맥길대학교 대학원 법학석사 서울대학교 대학원 행정학 석사 고려대학교 행정학 학사 부평고등학교 졸업
+   </memTitle>
+   <origNm>
+    인천 남동구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary2>
+    이택준,송지영,한규홍,김경호,탁기열
+   </secretary2>
+   <shrtNm>
+    보건복지위원회
+   </shrtNm>
+   <staff>
+    김한아,이현승
+   </staff>
+  </item>
+ </body>
+</response>

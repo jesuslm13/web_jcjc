@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-1322
+   </assemTel>
+   <bthDate>
+    19610710
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김병기
+   </empNm>
+   <engNm>
+    KIM BYUNGKEE
+   </engNm>
+   <hjNm>
+    金炳基
+   </hjNm>
+   <origNm>
+    서울 동작구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    이운웅, 전지훈
+   </secretary>
+   <secretary2>
+    안성일, 배영규, 박무영, 박푸름
+   </secretary2>
+   <shrtNm>
+    국방위원회,정보위원회
+   </shrtNm>
+   <staff>
+    박재훈, 이종오
+   </staff>
+  </item>
+ </body>
+</response>

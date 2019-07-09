@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    victorygimpo@na.go.kr
+   </assemEmail>
+   <assemTel>
+    02-784-5961~3 / 788-2220
+   </assemTel>
+   <bthDate>
+    19580813
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    홍철호
+   </empNm>
+   <engNm>
+    HONG CHULHO
+   </engNm>
+   <hjNm>
+    洪哲鎬
+   </hjNm>
+   <memTitle>
+    (現) 행정안전위원회 간사 (現) 예산결산특별위원회 위원 (前) 예산결산특별위원회 간사 (前) 새누리당 경기도당 위원장 ㈜크레치코 회장 김포상공회의소 부회장 김포시민축구단 단장 새누리당 경기도당 대변인 새누리당 원내부대표 새누리당 김포시 을 조직위원장 새누리당 경기도당 윤리위원회 위원장 
+   </memTitle>
+   <origNm>
+    경기 김포시을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    강민규, 박응서
+   </secretary>
+   <secretary2>
+    노희성, 김민성, 김예인, 채여경
+   </secretary2>
+   <shrtNm>
+    국토교통위원회
+   </shrtNm>
+   <staff>
+    김병수, 안정선
+   </staff>
+  </item>
+ </body>
+</response>

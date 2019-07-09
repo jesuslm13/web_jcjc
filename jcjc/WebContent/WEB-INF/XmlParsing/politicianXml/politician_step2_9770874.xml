@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    337ysh@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.yoush.org/
+   </assemHomep>
+   <assemTel>
+    02-784-4091
+   </assemTel>
+   <bthDate>
+    19600426
+   </bthDate>
+   <electionNum>
+    17,19,20대
+   </electionNum>
+   <empNm>
+    유승희
+   </empNm>
+   <engNm>
+    YOU SEUNGHEE
+   </engNm>
+   <examCd>
+    피아노
+   </examCd>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    兪承希
+   </hjNm>
+   <memTitle>
+    이화여자대학교 문리대 및 동대학원 졸업 한양대학교 행정학박사 미국 뉴저지 주립 릿거스대학 객원연구원 미국 샌디애고 캘리포니아 주립대학원 객원연구원 [前]경제정의실천시민연합 발기인 및 중앙위원 [前]녹색소비자연대 이사 [前]제17대 국회의원(과학기술정보통신위원회 간사, 여성가족위원회 위원, 운영위원회 위원) [前]제19대 국회의원(미래창조과학방송통신위원회 간사, 여성가족위원회 위원) [前]노무현대통령 인수위원회 여성전문위원 [前]민주통합당 전국여성위원장 [前]민주통합당 제5정조위원장 [前]국회 방송공정성 특위 민주통합당 간사 [前]여성가족위원회 위원장 [前]더불어민주당 최고위원 [前]국회 윤리특별위원회 위원장 [前]정치발전 특별위원회 간사 [現]더불어민주당 서울시당 성북갑 지역위원장 [現]제20대 국회의원 (現기획재정위 위원, 前미래창조과학방송통신위, 예산결산특위 위원) [現]국회경제민주화포럼 공동대표
+   </memTitle>
+   <origNm>
+    서울 성북구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    김세진, 안기정
+   </secretary>
+   <secretary2>
+    이경민 이준범 김종호 임선영 김남기
+   </secretary2>
+   <shrtNm>
+    기획재정위원회
+   </shrtNm>
+   <staff>
+    송미화, 장미아, 황훈영
+   </staff>
+  </item>
+ </body>
+</response>

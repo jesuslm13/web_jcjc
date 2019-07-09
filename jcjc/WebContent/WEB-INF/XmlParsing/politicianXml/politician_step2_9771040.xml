@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    337leejm@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/88leejm
+   </assemHomep>
+   <assemTel>
+    02-784-2174
+   </assemTel>
+   <bthDate>
+    19590808
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이종명
+   </empNm>
+   <engNm>
+    LEE JONGMYEONG
+   </engNm>
+   <hbbyCd>
+    여행
+   </hbbyCd>
+   <hjNm>
+    李鍾明
+   </hjNm>
+   <memTitle>
+    (現) 합동군사대학교 명예교수 (前) 육군장교(대령 전역)
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김기남, 김지혜, 이범희
+   </secretary>
+   <secretary2>
+    이동윤, 소재평, 정영주
+   </secretary2>
+   <shrtNm>
+    국방위원회,여성가족위원회
+   </shrtNm>
+   <staff>
+    김민찬, 최항석
+   </staff>
+  </item>
+ </body>
+</response>

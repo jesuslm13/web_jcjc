@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    lci8572@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.이채익.com
+   </assemHomep>
+   <assemTel>
+    02-784-8011~3
+   </assemTel>
+   <bthDate>
+    19550527
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    이채익
+   </empNm>
+   <engNm>
+    LEE CHEIK
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    李埰益
+   </hjNm>
+   <memTitle>
+    &lt;학력&gt; -브니엘고 졸업 -울산대학교 경영학 학사 -동국대지역개발대학원 졸업 -울산대 행정학박사 &lt;경력&gt; -초대 울산시의회 시의원 -제5대 경남도의회 도의원 -초대 울산광역시의회 시의원 -초대.2대 민선 울산광역시 남구청 구청장 -전국 시장.군수.구청장협의회 공동회장 -울산대학교 총동문회 회장 -행정안정부 정책자문위원회 위원 -제2대 울산 항만공사 사장 -법제처 지방행정분야 국민법제관 -현) 제19대 국회의원 -현) 국회 산업통상자원위원회 위원 -현) 국회 운영위원회 위원 -현) 정치쇄신특별위원회 위원 -현) 새누리당 원내부대표 -현) 새누리당 울산시당 위원장 -현) 새누리당 지역공약추진특별위원회 위원(현) -현) 새누리당 울산시당 울산지방공약특위 위원장 -현) 통상관계대책특별위원회 위원 
+   </memTitle>
+   <origNm>
+    울산 남구갑
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    김창희, 이영걸
+   </secretary>
+   <secretary2>
+    김진수, 황진라, 김만성, 정해영
+   </secretary2>
+   <shrtNm>
+    에너지 특별위원회,예산결산특별위원회,행정안전위원회
+   </shrtNm>
+   <staff>
+    박성해, 박용기
+   </staff>
+  </item>
+ </body>
+</response>

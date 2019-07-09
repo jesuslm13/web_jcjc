@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    yunsoha20@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.yunsoha.kr/
+   </assemHomep>
+   <assemTel>
+    02-784-3080
+   </assemTel>
+   <bthDate>
+    19610910
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    윤소하
+   </empNm>
+   <engNm>
+    YOUN SOHA
+   </engNm>
+   <hjNm>
+    尹昭夏
+   </hjNm>
+   <memTitle>
+    목포학교무상급식운동본부 상임본부장 광주전남진보연대 공동대표 현)정의당 전라남도당 위원장 현)정의당 국민건강복지부 본부장 박근혜정부의최순실등민간인에의한국정농단의혹사건진상규명을위한국정조사특별위원회 위원 현)국회 보건복지위원회 위원 현)국회 정치발전특별위원회 위원 현)국회 예산결산특별위원회 위원 현)국회 저출산극복포럼 공동대표 
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    정의당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    강신, 공석환
+   </secretary>
+   <secretary2>
+    김동규, 이연주, 김애리, 정보연
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,보건복지위원회,여성가족위원회
+   </shrtNm>
+   <staff>
+    박선민, 이협
+   </staff>
+  </item>
+ </body>
+</response>

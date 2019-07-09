@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kang809@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://www.kangci.net
+   </assemHomep>
+   <assemTel>
+    02-784-6084
+   </assemTel>
+   <bthDate>
+    19520128
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    강창일
+   </empNm>
+   <engNm>
+    KANG CHANGIL
+   </engNm>
+   <examCd>
+    바둑
+   </examCd>
+   <hbbyCd>
+    독서.음악감
+   </hbbyCd>
+   <hjNm>
+    姜昌一
+   </hjNm>
+   <memTitle>
+    17·18·19·20대 국회의원 서울대학교 국사학과·동경대학 문학부 석·박사(문학박사) 한·일의원연맹 회장 국회 한·몽골 의원친선협회 회장 국회 행정안전위원회 위원 국회 민주주의와 복지국가연구회 공동대표 국회 외교통일위원회·예산결산특위·개헌특위 위원(전) 새정치민주연합 윤리심판원 원장(전) 국회 산업통상자원위원회·지식경제위원회 위원장(전) 국회 독도영토수호대책특위 위원장(전) 배재대 교수, 제주4·3연구소장(전)
+   </memTitle>
+   <origNm>
+    제주 제주시갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    김명언, 유동현
+   </secretary>
+   <secretary2>
+    배경민, 정민희, 하소라, 이진욱, 신윤정
+   </secretary2>
+   <shrtNm>
+    행정안전위원회
+   </shrtNm>
+   <staff>
+    강신혁, 김행준
+   </staff>
+  </item>
+ </body>
+</response>

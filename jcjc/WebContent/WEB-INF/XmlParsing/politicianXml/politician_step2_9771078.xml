@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kjroffice@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/kjroffice
+   </assemHomep>
+   <assemTel>
+    02-784-9160
+   </assemTel>
+   <bthDate>
+    19501027
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김중로
+   </empNm>
+   <engNm>
+    KIM JOONGRO
+   </engNm>
+   <examCd>
+    마라톤
+   </examCd>
+   <hbbyCd>
+    바둑.골프
+   </hbbyCd>
+   <hjNm>
+    金中魯
+   </hjNm>
+   <memTitle>
+    김중로 의원 프로필 ■ 직업 : [現] 국회의원 ■ 소속기관 : [現] 바른미래당 국회의원 (제20대) ■ 성별 : 남 ■ 직장 : 서울 영등포구 의사당대로 1 의원회관 922호(07233) ■ 전화 : 02-784-9160 ■ 학력 - 육군사관학교 졸업(30기) - 서울대학교 사범대학 졸업 - 연세대학교 행정대학원 졸업 - 국방대학원 수료 ■ 경력 - 바른미래당 최고위원 - 제20대 국회의원 (비례대표/바른미래당) - 바른미래당 세종특별시당 위원장 - 전)국민의당 전국당원대표자대회 준비위원장 - 전)국민의당 최고위원 - 제20대 국회 청년미래특별위원회 위원 - 한-포르투갈 의원친선협회 부회장 - 전)국민의당 비상대책위원 - 전)제19대 대통령선거 국민의당 안철수 후보 중앙선거대책위원회 중앙특보단 수석부단장 - 전)국민의당 중앙위원회 의장 - 국회 미래안보포럼 대표 - 전)국민의당 제2정책조정위원장 - 제20대 국회 전반기 국방위원회 간사 - 전)동국대학교 경영대학원 겸임교수 - 전)대한민국 육군 제70사단장 - 전)육군 3사관학교 교수부장
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박소연, 박희숙
+   </secretary>
+   <secretary2>
+    최정윤, 이다경 , 김일우 , 강신형
+   </secretary2>
+   <shrtNm>
+    국방위원회
+   </shrtNm>
+   <staff>
+    문정균, 이건호
+   </staff>
+  </item>
+ </body>
+</response>

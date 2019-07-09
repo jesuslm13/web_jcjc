@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    likecorea@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.kimseondong.com
+   </assemHomep>
+   <assemTel>
+    02-784-8971
+   </assemTel>
+   <bthDate>
+    19631009
+   </bthDate>
+   <electionNum>
+    18,20대
+   </electionNum>
+   <empNm>
+    김선동
+   </empNm>
+   <engNm>
+    KIM SEONDONG
+   </engNm>
+   <examCd>
+    운동
+   </examCd>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    金善東
+   </hjNm>
+   <memTitle>
+    * 학력 고려대 일반대학원 (국제정치학) 정치학 석사 고려대학교 정치외교학과 졸업 * 경력 제 18대, 20대 국회의원 (서울 도봉을 / 자유한국당) 정무위원회 위원 /예산결산특별위원회 위원 여의도연구원 원장 전 자유한국당 서울시당 위원장 전 자유한국당 원내수석부대표 전 국회운영위원회 간사 전 예산결산특별위원회 예산안등조정소위원회 위원 전 새누리당 원내수석부대표 전 새누리당 혁신비상대책위원장 비서실장 전 한국다문화 청소년센터 이사장 전 한국청소년활동진흥원 이사장 전 대통령비서실 정무비서관
+   </memTitle>
+   <origNm>
+    서울 도봉구을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    강태용, 서준하
+   </secretary>
+   <secretary2>
+    이강주, 정한빈,나소영, 최지수
+   </secretary2>
+   <shrtNm>
+    정무위원회
+   </shrtNm>
+   <staff>
+    오언석, 박필동
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    bhrassembly0217@gmail.com
+   </assemEmail>
+   <assemHomep>
+    100hyeryun.blog.me
+   </assemHomep>
+   <assemTel>
+    02-784-6130
+   </assemTel>
+   <bthDate>
+    19670217
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    백혜련
+   </empNm>
+   <engNm>
+    BACK HYERYUN
+   </engNm>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    白惠蓮
+   </hjNm>
+   <memTitle>
+    2017. 5~ 더불어민주당 대변인 2016. 6~ 제20대 국회 법제사법위원회 위원 2016. 5~ 제20대 국회의원 (수원(을)/더불어민주당)
+   </memTitle>
+   <origNm>
+    경기 수원시을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    강지형, 정지혜
+   </secretary>
+   <secretary2>
+    장한별, 차광일, 전혜린, 주의현
+   </secretary2>
+   <shrtNm>
+    법제사법위원회,사법개혁 특별위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    권훈, 전용두
+   </staff>
+  </item>
+ </body>
+</response>

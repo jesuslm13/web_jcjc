@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    515assembly@naver.com
+   </assemEmail>
+   <assemHomep>
+    https://blog.naver.com/dposhyun
+   </assemHomep>
+   <assemTel>
+    02-784-5601
+   </assemTel>
+   <bthDate>
+    19690819
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김현아
+   </empNm>
+   <engNm>
+    KIM HYUNAH
+   </engNm>
+   <examCd>
+    피아노연주
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    金炫我
+   </hjNm>
+   <memTitle>
+    가천대 도시계획학 박사 前) 한국건설산업연구원 연구위원 前) 국민경제자문회의 자문위원 국회 국토교통위원회 위원
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박수철, 이재용
+   </secretary>
+   <secretary2>
+    강윤경, 이정남, 진대화, 이우형
+   </secretary2>
+   <shrtNm>
+    교육위원회,국회운영위원회,남북경제협력 특별위원회,여성가족위원회
+   </shrtNm>
+   <staff>
+    강호성, 박정윤, 장진영
+   </staff>
+  </item>
+ </body>
+</response>

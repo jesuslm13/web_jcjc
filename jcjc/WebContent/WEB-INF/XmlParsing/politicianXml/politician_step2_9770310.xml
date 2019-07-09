@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    assemblyroom1008@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/jk_space21
+   </assemHomep>
+   <assemTel>
+    02-784-0054
+   </assemTel>
+   <bthDate>
+    19611010
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    김재경
+   </empNm>
+   <engNm>
+    KIM JAEKYUNG
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    金在庚
+   </hjNm>
+   <memTitle>
+    경상대 법과대학 졸업 서울대학교 대학원 법학과 졸업 청주, 부산, 서울 지방검찰청 검사 제17, 18, 19, 20대 국회의원 한-아르헨티나 의원친선협회 회장(현) 자유한국당 중앙위원회 의장(현) 국회 외교통일위원회 위원(현) 국회 헌법개정 및 정치개혁 특별위원회 위원장 국회 미래창조과학방송통신위원회 위원 국회 법제사법위원회 위원 국회 윤리특별위원장 국회 지방자치발전연구회 회장 한-아르헨티나 의원친선협회 회장 새누리당 재외국민위원회 중남미위원장 헌법재판소 재판관 인사청문특별위원회 위원장 국회 지식경제위원회 간사 국회 윤리특별위원회 간사 국회 기후변화대응.녹색성장특별위원회 간사 국회 공직자윤리위원회 부위원장 국회 미래창조과학방송통신위원회 위원 국회 정무위원회 위원 국회 예산결산특별위원회 위원 국회 기획재정위원회 위원 국회 건설교통위원회 위원 국회 여성가족위원회 위원 새누리당 직능2본부 본부장 새누리당 지역화합특위 부위원장 새누리당 인권위원장 새누리당 정책조정위원회 지식경제정조위원장 한나라당 경남도당 위원장 한나라당 법률지원단장 한나라당 클린정치위원회 부정부패감시단장 경상대학교 총동문회장 민주평화통일자문회의 자문위원
+   </memTitle>
+   <origNm>
+    경남 진주시을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    김태영, 정용학
+   </secretary>
+   <secretary2>
+    박동민, 김군나, 김원태, 김현정
+   </secretary2>
+   <shrtNm>
+    외교통일위원회
+   </shrtNm>
+   <staff>
+    신주혁, 임성재
+   </staff>
+  </item>
+ </body>
+</response>

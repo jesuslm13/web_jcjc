@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    101bbb@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/101bbb
+   </assemHomep>
+   <assemTel>
+    02-784-3770
+   </assemTel>
+   <bthDate>
+    19570727
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    정인화
+   </empNm>
+   <engNm>
+    JEONG INHWA
+   </engNm>
+   <hjNm>
+    鄭仁和
+   </hjNm>
+   <memTitle>
+    학력 2012 한양대학교 국제관광대학원 국제관광학 석사 1982 전남대학교 행정학 학사 1974 광주공업고등학교 1971 광양중학교 1968 옥룡북초등학교 경력 2018.07 ~ 제20대 국회 후반기 행정안전위원회 위원 2018.07 ~ 제20대 국회 후반기 예산결산특별위원회 위원 2018.02 민주평화당 사무총장 2017.05 국회 예산결산특별위원회 위원 2017.03 국회 정치발전특별위원회 위원 2017.01 국민의당 전남도당 위원장 2016.06 국회 농림축산식품해양수산위원회 위원 2016.06 ~ 국회철강포럼 연구책임의원 2016.05 ~ 제20대 국회의원 (전남 광양시곡성군구례군/국민의당) 2012.08 광양만권경제자유구역청 행정개발본부장 2012.01 전라남도청 관광문화국 국장 2009.07 전라남도 여수시 부시장 2007.12 전라남도청 정책기획관 1982 제26회 행정고시 합격 수상 2018 국회의원 아름다운 말 선풀상 2017 국정감사 NGO 모니터단 국정감사 우수의원 2017 한농연중앙연합회 국정감사 우수의원 2017 법률소비자연맹 국회의원 헌정대상 2017 국회사무처 입법 및 정책개발 우수국회의원 2017 대한민국 소비자 대상 소비자입법부분 대상 2017 제6회 국회를 빛낸 바른 언어상 으뜸상 2016 한국환경정보연구센터 국정감사 친환경베스트의원 2016 국정감사 NGO 모니터단 국정감사 우수의원 2016 국민의당 국정감사 우수의원상 2008 홍조근정훈장 1994 대통령 표창
+   </memTitle>
+   <origNm>
+    전남 광양시곡성군구례군
+   </origNm>
+   <polyNm>
+    민주평화당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김태우
+   </secretary>
+   <secretary2>
+    김봉수, 조제윤, 권혜영, 김봉성
+   </secretary2>
+   <shrtNm>
+    예산결산특별위원회,행정안전위원회
+   </shrtNm>
+   <staff>
+    박석순, 주인공
+   </staff>
+  </item>
+ </body>
+</response>

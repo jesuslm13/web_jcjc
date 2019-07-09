@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    withjs2018@gmail.com
+   </assemEmail>
+   <assemHomep>
+    https://blog.naver.com/nyj_2004
+   </assemHomep>
+   <assemTel>
+    02-784-1307
+   </assemTel>
+   <bthDate>
+    19650909
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    최재성
+   </empNm>
+   <engNm>
+    CHOI JAE SUNG
+   </engNm>
+   <hbbyCd>
+    축구
+   </hbbyCd>
+   <hjNm>
+    崔宰誠
+   </hjNm>
+   <memTitle>
+    ■ 17·18·19·20대 국회의원 ■ 문재인 대통령 후보 선거대책위원회 종합상황본부 1실장 前 ■ 문재인 대통령 후보 인재 영입 총괄 前 ■ 새정치민주연합 사무총장 前 ■ 더불어민주당 총무본부장 前 ■ 더불어민주당 정당발전위원장 前 ■ 민주당 대변인 前 ■ 국회 예산결산특별위원회 간사 前 ■ 국회 정보위원회 간사 前 ■ 국회 기획재정위, 국토위, 외교통상위, 교육위위원 前 
+   </memTitle>
+   <origNm>
+    서울 송파구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    김문경, 김영훈
+   </secretary>
+   <secretary2>
+    김모영, 이동찬, 조유리, 신진영
+   </secretary2>
+   <shrtNm>
+    공공부문 채용비리 의혹과 관련된 국정조사특별위원회,국방위원회
+   </shrtNm>
+   <staff>
+    김연근, 최용길
+   </staff>
+  </item>
+ </body>
+</response>

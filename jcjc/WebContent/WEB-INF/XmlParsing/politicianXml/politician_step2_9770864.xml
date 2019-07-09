@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    peace@peacehong.net
+   </assemEmail>
+   <assemHomep>
+    http://www.peacehong.net
+   </assemHomep>
+   <assemTel>
+    02-784-6887
+   </assemTel>
+   <bthDate>
+    19671120
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    홍익표
+   </empNm>
+   <engNm>
+    HONG IHKPYO
+   </engNm>
+   <hbbyCd>
+    등산,독서
+   </hbbyCd>
+   <hjNm>
+    洪翼杓
+   </hjNm>
+   <memTitle>
+    한양대학교 정치외교학과 졸업 한양대학교 대학원 정치학 박사 북한대학원대학교 겸임교수(前) 통일부 정책보좌관 (前) 대외경제정책연구원 전문연구원 (前) 일본 ERINA 객원연구원 (前) 육군 정훈장교
+   </memTitle>
+   <origNm>
+    서울 중구성동구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    양혜진, 허정무
+   </secretary>
+   <secretary2>
+    임소연, 신지희, 임화영, 이채영
+   </secretary2>
+   <shrtNm>
+    공공부문 채용비리 의혹과 관련된 국정조사특별위원회,에너지 특별위원회,행정안전위원회
+   </shrtNm>
+   <staff>
+    박승민, 박준형
+   </staff>
+  </item>
+ </body>
+</response>

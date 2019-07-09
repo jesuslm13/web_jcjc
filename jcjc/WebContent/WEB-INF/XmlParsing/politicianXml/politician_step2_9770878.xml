@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    liy1964@empal.com
+   </assemEmail>
+   <assemHomep>
+    http://www.inyoung.net
+   </assemHomep>
+   <assemTel>
+    02-784-6811~3
+   </assemTel>
+   <bthDate>
+    19640628
+   </bthDate>
+   <electionNum>
+    17,19,20대
+   </electionNum>
+   <empNm>
+    이인영
+   </empNm>
+   <engNm>
+    LEE INYOUNG
+   </engNm>
+   <examCd>
+    배드민턴
+   </examCd>
+   <hbbyCd>
+    트래킹
+   </hbbyCd>
+   <hjNm>
+    李仁榮
+   </hjNm>
+   <memTitle>
+    충북 충주 生 충주 중·고등학교 졸업 고려대학교 언론대학원 언론학 석사 졸업 민주당, 민주통합당 최고위원 전국대학생대표자협의회(전대협) 1기 의장 제17대, 제19대 국회의원(구로갑) 민주당 4대강 대운하 반대특위 위원장(전) 민주당 야권통합특별위원회 위원장(전) 민주당 비정규직특별위원회 위원장(전) 박원순 서울시장 후보 상임 선거대책 본부장(전) 제18대 민주통합당 대통령 후보 문재인 선거대책위원회 상임(공동) 선거대책본부장(전) 제1회 박종철 인권상 수상 제3회 대한민국을 빛낸 21세기 한국인상 수상 제9회 백봉신사상 수상
+   </memTitle>
+   <origNm>
+    서울 구로구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    오상택, 황훈
+   </secretary>
+   <secretary2>
+    이기진, 한돈길, 박정훈, 이다영
+   </secretary2>
+   <shrtNm>
+    남북경제협력 특별위원회,외교통일위원회,정보위원회
+   </shrtNm>
+   <staff>
+    박운기, 홍성자
+   </staff>
+  </item>
+ </body>
+</response>

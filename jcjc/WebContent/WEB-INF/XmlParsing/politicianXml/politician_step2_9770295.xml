@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kdc2000@na.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://www.kdc2000.com
+   </assemHomep>
+   <assemTel>
+    02-788-2695
+   </assemTel>
+   <bthDate>
+    19550630
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    김동철
+   </empNm>
+   <engNm>
+    KIM DONGCHEOL
+   </engNm>
+   <examCd>
+    바둑
+   </examCd>
+   <hbbyCd>
+    등산 독서
+   </hbbyCd>
+   <hjNm>
+    金東喆
+   </hjNm>
+   <memTitle>
+    ○ 학력 : 광주일고, 서울법대 졸 ○ 약력 : 한국산업은행 청와대 정무기획비서관 제17ㆍ18ㆍ19대(광주 광산구甲) 국회의원 국회 법사위ㆍ사법개혁특위ㆍ외통위 간사 국회 산업통상자원위ㆍ국토교통위 위원장 국회 한반도평화포럼 대표의원 국민의당 광주광역시당 위원장 국민의당 비상대책위원회 위원장 국민의당 원내대표 국회 예결특위ㆍ헌법개정특위 간사 국회 국방위원ㆍ정보위원ㆍ운영위원 바른미래당 원내대표ㆍ비상대책위원장 20대(광주 광산구甲) 국회의원(현) 국회 환노위 간사 (사)민간복지포럼 이사장(현)
+   </memTitle>
+   <origNm>
+    광주 광산구갑
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    문영주 , 박선미 
+   </secretary>
+   <secretary2>
+    나승준, 이용훈, 김윤철, 이경순, 박인규
+   </secretary2>
+   <shrtNm>
+    정치개혁 특별위원회,환경노동위원회
+   </shrtNm>
+   <staff>
+    강광식, 백종운
+   </staff>
+  </item>
+ </body>
+</response>

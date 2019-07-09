@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xsi:schemaLocation="http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.3.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd">
+
+	<context:annotation-config />
+	<context:component-scan base-package="jcjc.user.*" />
+	<context:component-scan base-package="jcjc.politician.*" />
+	<context:component-scan base-package="jcjc.commitment.*" />
+	<context:component-scan base-package="jcjc.post.*" />
+	<context:component-scan base-package="jcjc.reply.*" />
+	<context:component-scan base-package="jcjc.bill.*" />
+	<context:component-scan base-package="jcjc.activityindex.*" />
+	
+	<!-- Controller에서 View로 연결 -->
+	<bean id="viewResolver"
+	class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<!--  jstl 사용 -->
+		<property name="viewClass" value="org.springframework.web.servlet.view.JstlView" />
+		<property name="prefix" value="/WEB-INF/view/" />
+		<property name="suffix" value=".jsp" />
+	</bean>
+	
+	<bean id="dataSource"
+		class="org.springframework.jdbc.datasource.DriverManagerDataSource"
+		p:driverClassName="oracle.jdbc.driver.OracleDriver"
+		p:url="jdbc:oracle:thin:@127.0.0.1:1521:xe" p:username="bigdata"
+		p:password="admin1234" />
+
+	<bean id="jdbcTemplate"
+		class="org.springframework.jdbc.core.JdbcTemplate">
+		<property name="dataSource" ref="dataSource" />
+	</bean>
+	
+	<bean id="jsonView" class="org.springframework.web.servlet.view.json.MappingJackson2JsonView">
+		<!-- <property name="contentType" value="application/json;charset=UTF-8"/> -->
+		<property name="contentType" value="text/html;charset=UTF-8"/>
+	</bean>
+	
+	<mvc:annotation-driven />
+	
+	<!-- interceptor 설정 -->
+	<mvc:interceptors>
+		<mvc:interceptor>
+			<mvc:mapping path="/**" />
+			<bean id="loggerInterceptor" class="jcjc.logger.LoggerInterceptor" />
+		</mvc:interceptor>
+	</mvc:interceptors>
+
+</beans>
+

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    2016pjh@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/pjh0586
+   </assemHomep>
+   <assemTel>
+    02-784-5512
+   </assemTel>
+   <bthDate>
+    19590213
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    박재호
+   </empNm>
+   <engNm>
+    PARK JAEHO
+   </engNm>
+   <hjNm>
+    朴在昊
+   </hjNm>
+   <memTitle>
+    (현) 제20대 부산남구을 더불어민주당 국회의원 (현) 더불어민주당 부산시 남구을 지역위원회 위원장 (현) 국회 국토교통위원회 위원 (현) 국회 윤리특별위원회 위원 (현) 더불어민주당 정책위원회 상임부의장 (현) 국회 미래도시 창생과 재생을 위한 국회의원 연구모임 대표 (현) 더불어민주당 을지로위원회 운영위원 2016~2018 국회 산업통상자원중소벤처기업위원회 위원 2016~2018 국회 예산결산특별위원회 위원 2016~2017 국회 정치발전특별위원회 위원 2015 새정치민주연합 부산광역시당 위원장 2014 민주당 부산광역시당 위원장 2013 민주통합당 부산광역시당 위원장 2012 제18대 대통령 선거 민주통합당 부산선대위 상임선대위원장 2008 국민체육진흥공단 이사장 2004 열린우리당 부산남구지구당 위원장 2003 참여정부 대통령비서실 정무비서관 1998 부산외국어대학교 총동창회 회장 1998 문민정부 대통령비서실 정무행정관 - 인사재무비서관
+   </memTitle>
+   <origNm>
+    부산 남구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김명진, 김재근
+   </secretary>
+   <secretary2>
+    장수정, 조현아, 노영명, 장형근, 이은제
+   </secretary2>
+   <shrtNm>
+    국토교통위원회,윤리특별위원회
+   </shrtNm>
+   <staff>
+    김남원, 이수경
+   </staff>
+  </item>
+ </body>
+</response>

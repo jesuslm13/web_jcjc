@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    elysiaj315@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://hyunheui.co.kr/
+   </assemHomep>
+   <assemTel>
+    02-784-6950
+   </assemTel>
+   <bthDate>
+    19641104
+   </bthDate>
+   <electionNum>
+    18,20대
+   </electionNum>
+   <empNm>
+    전현희
+   </empNm>
+   <engNm>
+    JEON HYUNHEUI
+   </engNm>
+   <hjNm>
+    全賢姬
+   </hjNm>
+   <memTitle>
+    서울대학교 치과대학 졸업 고려대학교 법무대학원 법학석사 치과의사/변호사 (現)20대 국회의원(더불어민주당, 서울 강남을) (現)국회 환경노동위원회 위원 (現)국회 에너지특별위원회 더불어민주당 간사 (現)더불어민주당 제5정책조정위원장 (前)더불어민주당 정책위원회 택시-카풀TF 위원장 (前)국회 국토교통위원회 위원 (前)국회 헌법개정 특별위원회 위원 (前)제19대 대통령선거 더불어민주당 문재인후보 중앙선거대책위원회 직능특보단장 (前)2014인천아시안게임 저탄소친환경위원장 (前)18대 국회의원(민주당, 비례대표) 
+   </memTitle>
+   <origNm>
+    서울 강남구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    권용제, 신현식
+   </secretary>
+   <secretary2>
+    김대평, 안주연, 서영준, 장정인, 허성일, 이다정
+   </secretary2>
+   <shrtNm>
+    에너지 특별위원회,환경노동위원회
+   </shrtNm>
+   <staff>
+    이인화
+   </staff>
+  </item>
+ </body>
+</response>

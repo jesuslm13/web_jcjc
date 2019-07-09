@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    713sim@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.minsim.or.kr/xe
+   </assemHomep>
+   <assemTel>
+    02-784-9530
+   </assemTel>
+   <bthDate>
+    19590220
+   </bthDate>
+   <electionNum>
+    17,19,20대
+   </electionNum>
+   <empNm>
+    심상정
+   </empNm>
+   <engNm>
+    SIM SANGJEUNG
+   </engNm>
+   <hjNm>
+    沈相鄭
+   </hjNm>
+   <memTitle>
+    심상정이 여러분의 자부심이 되겠습니다. 고양갑 국회의원 심상정입니다. - 17, 19, 20대 국회의원 (진보정당 최초 3선) - 정의당 3기 상임 대표 - 19대 대선 정의당 대통령 후보 - 전국금속노동조합 사무처장 - 서울대학교 사범대학 사회교육과 졸업
+   </memTitle>
+   <origNm>
+    경기 고양시갑
+   </origNm>
+   <polyNm>
+    정의당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    류성재, 이석현
+   </secretary>
+   <secretary2>
+    박성일, 최경희, 최윤석, 최한솔, 정선호
+   </secretary2>
+   <shrtNm>
+    기획재정위원회,정치개혁 특별위원회
+   </shrtNm>
+   <staff>
+    김복렬, 신언직
+   </staff>
+  </item>
+ </body>
+</response>

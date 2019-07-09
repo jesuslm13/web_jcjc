@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    smlee@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://smlee.kr
+   </assemHomep>
+   <assemTel>
+    02-784-0924
+   </assemTel>
+   <bthDate>
+    19580122
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    이상민
+   </empNm>
+   <engNm>
+    LEE SANGMIN
+   </engNm>
+   <hbbyCd>
+    음악감상
+   </hbbyCd>
+   <hjNm>
+    李相珉
+   </hjNm>
+   <memTitle>
+    17.18.19.20 대 국회의원 충남대 법대졸업 ,변호사 현 헌법개정특별위원회 위원 현 미래창조과학방송통신위원회 위원 현 더불어민주당 과학기술특별위원회 위원장 전 국회 법제사법위원회 위원장 전 새정치민주연합 대전시당위원장 전 민주통합당 원내부대표
+   </memTitle>
+   <origNm>
+    대전 유성구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    김경화, 송재만
+   </secretary>
+   <secretary2>
+    김석준, 이경기, 이유미
+   </secretary2>
+   <shrtNm>
+    과학기술정보방송통신위원회,사법개혁 특별위원회
+   </shrtNm>
+   <staff>
+    김인진, 허동혁
+   </staff>
+  </item>
+ </body>
+</response>

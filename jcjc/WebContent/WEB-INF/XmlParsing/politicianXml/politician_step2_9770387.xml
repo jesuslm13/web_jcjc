@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    piloyu@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://yookijune.com
+   </assemHomep>
+   <assemTel>
+    02-788-2493
+   </assemTel>
+   <bthDate>
+    19590810
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    유기준
+   </empNm>
+   <engNm>
+    YOO KIJUNE
+   </engNm>
+   <examCd>
+    독서
+   </examCd>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    兪奇濬
+   </hjNm>
+   <memTitle>
+    제17~20대 국회의원(4선) 서울대 법과대학 졸업 뉴욕대 법학 석사 사법시험합격(25회) 한국 및 뉴욕주 변호사 전) 한나라당 대변인 전) 한나라당 부산시당 위원장 전) 사법제도개혁특별위원회 위원장 전) 새누리당 최고위원 전) 새누리당 외교역량강화특위 위원장 전) 국회 외교통일위원회 위원장 전) 국회 사법제도개혁특별위원회 위원장 전) 국가정보원 등 국가기관의 정치적 중립성 강화를 위한 제도개선 특별위원회 위원 전) 국회 외교통일위원회 위원장 전) 제18대 해양수산부장관 현) 국회 외교통일위원회 위원
+   </memTitle>
+   <origNm>
+    부산 서구동구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    안정민, 정구성
+   </secretary>
+   <secretary2>
+    조용준, 신정관, 류보라, 정지혜
+   </secretary2>
+   <shrtNm>
+    외교통일위원회
+   </shrtNm>
+   <staff>
+    공관우, 옥동석
+   </staff>
+  </item>
+ </body>
+</response>

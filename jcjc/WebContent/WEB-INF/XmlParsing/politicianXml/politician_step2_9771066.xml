@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kwonmh@na.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://www.kmh931.com
+   </assemHomep>
+   <assemTel>
+    02-784-7727
+   </assemTel>
+   <bthDate>
+    19590110
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    권미혁
+   </empNm>
+   <engNm>
+    KWON MIHYUK
+   </engNm>
+   <hbbyCd>
+    글쓰기
+   </hbbyCd>
+   <hjNm>
+    權美赫
+   </hjNm>
+   <memTitle>
+    2008-2014 시민사회단체연대회의 공동대표 2011-2014 한국여성단체연합 상임대표 2011-2014 민족화해협력범국민협의회 상임의장 2012-2015 MBC 방송문화진흥회 이사 2016-2016 더불어민주당 뉴파티위원회 위원장 2016-2016 더불어민주당 유능한경제정당위원회 위원 2016- 제20대 국회의원 2016-2018 국회 보건복지위원회 위원 2016-2018 국회 여성가족위원회 위원 2016-2017 국회 저출산.고령화대책특별위원회 위원 2017-2018 더불어민주당 보건의료특별위원회 공동위원장 2017- 더불어민주당 원내부대표 2018- 국회 행정안전위원회 위원 2018- 국회 윤리특별위원회 간사 2018- 국회 공직자윤리위원회 위원 2018- 더불어민주당 원내대변인
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    정웅재, 김홍길
+   </secretary>
+   <secretary2>
+    전동명, 장유리, 김서정, 주소희
+   </secretary2>
+   <shrtNm>
+    윤리특별위원회,행정안전위원회
+   </shrtNm>
+   <staff>
+    이병희, 이보라
+   </staff>
+  </item>
+ </body>
+</response>

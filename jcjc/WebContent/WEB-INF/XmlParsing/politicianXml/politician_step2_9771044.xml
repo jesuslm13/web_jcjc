@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    gyuhwan01@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    https://blog.naver.com/meisterkgh 
+   </assemHomep>
+   <assemTel>
+    02-784-5680
+   </assemTel>
+   <bthDate>
+    19560618
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김규환
+   </empNm>
+   <engNm>
+    KIM GYUHWAN
+   </engNm>
+   <hjNm>
+    金奎煥
+   </hjNm>
+   <memTitle>
+    &amp;lt;경력&amp;gt; 자유한국당 대구광역시당 동구을 당협위원장 자유한국당 원내부대표 제20대 국회 후반기 산업통상자원중소벤처기업위원회 위원 자유한국당 중앙위원회 산업자원분과위원회 위원장 자유한국당 중앙직능위원회 산업자원분과 위원장 제20대 국회 전반기 운영위원회 위원 자유한국당 소상공인특별위원회 수석부위원장 제20대 국회 전반기 산업통상자원중소벤처기업위원회 위원 자유한국당 원내부대표 제20대 국회의원 (비례대표/자유한국당) 제20대 국회 전반기 산업통상자원위원회 위원 제20대 국회 평창동계올림픽 및 국제경기대회지원 특별위원회 위원 제20대 국회의원 (비례대표/새누리당) 인제대학교 석좌교수 대한민국 국가품질명장 국제 품질관리 교류회 한국대표 대우중공업
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    이진혁, 조태희
+   </secretary>
+   <secretary2>
+    김지선
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회
+   </shrtNm>
+   <staff>
+    윤우택, 이은정
+   </staff>
+  </item>
+ </body>
+</response>

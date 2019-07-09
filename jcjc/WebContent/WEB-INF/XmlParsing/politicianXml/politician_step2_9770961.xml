@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    dhkwak605@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/dhkwak605
+   </assemHomep>
+   <assemTel>
+    02-784-0790
+   </assemTel>
+   <bthDate>
+    19550605
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    곽대훈
+   </empNm>
+   <engNm>
+    KWAK DAEHOON
+   </engNm>
+   <hbbyCd>
+    등산.마라톤
+   </hbbyCd>
+   <hjNm>
+    郭大勳
+   </hjNm>
+   <memTitle>
+    現 국회 예산결산특별위원회 위원 現 국회 산업통상자원위원회 위원 現 국회 지방재정-분권특별위원회 위원 現 국회 지방살리기포럼 연구책임위원 現 새누리당 대구광역시당 수석부위원장 現 새누리당 민생혁신특별위원회 위원 대구광역시 달서구 구청장(3선) 대구광역시 달서구 부구청장(이사관) 대구광역시 서구 부구청장(부이사관) 대구광역시 행정관리국장(부이사관) 제22회 행정고등고시 합격 서울대학교 행정대학원 수료 고려대학교 법과대학 행정학과 졸업 경북고등학교 졸업
+   </memTitle>
+   <origNm>
+    대구 달서구갑
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박세욱, 최상구
+   </secretary>
+   <secretary2>
+    김진환, 이강희, 최정환, 김세림
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회,에너지 특별위원회
+   </shrtNm>
+   <staff>
+    김균태, 정태준, 허대윤
+   </staff>
+  </item>
+ </body>
+</response>

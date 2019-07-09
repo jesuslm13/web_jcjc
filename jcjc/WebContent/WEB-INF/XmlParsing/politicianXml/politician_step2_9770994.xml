@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    pyoyongin@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://pyotal.site/
+   </assemHomep>
+   <assemTel>
+    02-784-9030
+   </assemTel>
+   <bthDate>
+    19660503
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    표창원
+   </empNm>
+   <engNm>
+    PYO CHANGWON
+   </engNm>
+   <hbbyCd>
+    영화
+   </hbbyCd>
+   <hjNm>
+    表蒼園
+   </hjNm>
+   <memTitle>
+    [학력] 경찰대학 행정학과 졸업 영국 엑시터대학교 대학원 졸업(석사 및 박사) [경력] 현) 제20대 국회의원 (경기 용인시정) 전) 더불어민주당 정책위원회 부의장 전) 더불어민주당 비상대책위원회 위원 전) 표창원 범죄과학연구소 소장 전) 생명나눔 친선대사 전) 미국 샘휴스턴주립대학교 형사사법대학 초빙교수 전) 경찰대학 행정학과 부교수 전) 광운대학교 강사 전) 경찰청 제도개선기획단 연구관
+   </memTitle>
+   <origNm>
+    경기 용인시정
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김지은, 박재형
+   </secretary>
+   <secretary2>
+    양원선, 노승일, 염시진, 이상민
+   </secretary2>
+   <shrtNm>
+    법제사법위원회,사법개혁 특별위원회,여성가족위원회
+   </shrtNm>
+   <staff>
+    김숙정, 최대규
+   </staff>
+  </item>
+ </body>
+</response>

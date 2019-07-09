@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    yuseong0413@daum.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/yuseong0413
+   </assemHomep>
+   <assemTel>
+    02-784-2640
+   </assemTel>
+   <bthDate>
+    19680221
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    조승래
+   </empNm>
+   <engNm>
+    JO SEOUNGLAE
+   </engNm>
+   <hjNm>
+    趙承來
+   </hjNm>
+   <memTitle>
+    [학력] 충남대학교 평화안보대학원 석사 충남대학교 사회학과 학사 대전 한밭고등학교 대전 대신초등학교/대신중학교 [현직] 제20대 국회의원 국회 교육위원회 간사 더불어민주당 대전광역시당 위원장 더불어민주당 대전유성구갑지역위원회 위원장 더불어민주당 전략기획자문위원회 부위원장 더불어민주당 남북문화체육협력특별위원회 부위원장 더불어민주당 유치원·어린이집 공공성 강화 특별위원회 간사 더불어민주당 지방혁신균형발전추진단 위원 더불어민주당 참좋은지방정부위원회 위원 더불어민주당 교육연수기획위원회 위원 더불어민주당 당현대화특별위원회 위원 민주연구원 부원장 유네스코한국위원회 위원 대한민국게임포럼 공동대표 한국영화를 사랑하는 국회의원 모임 공동대표 [경력] 국회 교육문화체육관광위원회 위원 국회 예산결산특별위원회 위원 국회 운영위원회 위원 국회 지방재정.분권특별위원회 위원 더불어민주당 원내부대표 더불어민주당 교육특별위원회 위원장 더불어민주당 적폐청산위원회 위원 대통령 비서실 사회조정비서관 충청남도지사 비서실장 순천향대학교 지역정책연구원 부원장 단국대학교 초빙교수
+   </memTitle>
+   <origNm>
+    대전 유성구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김민홍, 장세형
+   </secretary>
+   <secretary2>
+    이한영, 이정은, 우상훈, 김현중
+   </secretary2>
+   <shrtNm>
+    교육위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    왕우현, 최종길
+   </staff>
+  </item>
+ </body>
+</response>

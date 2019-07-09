@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    sjk815@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/shimjk815
+   </assemHomep>
+   <assemTel>
+    02-788-2485
+   </assemTel>
+   <bthDate>
+    19460815
+   </bthDate>
+   <electionNum>
+    16,19,20대
+   </electionNum>
+   <empNm>
+    심재권
+   </empNm>
+   <engNm>
+    SHIM JAEKWON
+   </engNm>
+   <hjNm>
+    沈載權
+   </hjNm>
+   <memTitle>
+    - 서울대 상과대학 3년 제적 - 호주 모나쉬대 국제정치학 박사 - 김대중 대통령 당 총재 비서실장 - 시민일보 사장 - 제16대, 19대, 20대 국회의원 (강동을) - 더불어민주당 한반도비핵화대책특별위원장(현) - 국회 보훈특별위원회 간사 - 국회 문화관광체육위원회 간사 - 통합민주당 서울시당위원장 - 더불어민주당 남북교류협력특별위원장(전) - 민주당 한일정보보호협정저지대책위원 - 외교통일위원회 위원장(전) 
+   </memTitle>
+   <origNm>
+    서울 강동구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    김용경, 김태진
+   </secretary>
+   <secretary2>
+    김두현, 김영진, 고찬양, 곽은혜, 최태리
+   </secretary2>
+   <shrtNm>
+    외교통일위원회
+   </shrtNm>
+   <staff>
+    김재홍, 허철웅
+   </staff>
+  </item>
+ </body>
+</response>

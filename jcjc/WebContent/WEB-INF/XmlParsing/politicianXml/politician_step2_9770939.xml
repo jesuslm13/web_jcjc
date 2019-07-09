@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    7848431@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/woogyoo
+   </assemHomep>
+   <assemTel>
+    02-784-8430
+   </assemTel>
+   <bthDate>
+    19650906
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이훈
+   </empNm>
+   <engNm>
+    LEE HOON
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    李薰
+   </hjNm>
+   <memTitle>
+    - 제20대 국회 국회운영위원회 위원 - 제20대 국회 산업통상자원위원회 위원 - 제20대 국회 민생경제 특별위원회 위원 - 제20대 국회 가습기특위원회 위원 - 제20대 국회의원 - 더불어민주당 당무혁신실 실장 - 제18대 대통령선거 민주통합당 문재인 후보 선거캠프 공보팀장 - 서울시장 박원순후보 선거대책위원회 정책특보 - 혁신과 통합을 위한 새정치모임 정책기획위원회 위원장 - 서강민주동우회 회장 - 행동하는 양심 이사 - 김대중독서클럽 훈장 - 민주당 정책위원회 부의장 - 태한글로벌로지스틱스 영업당 대표이사 - 대유에이텍 감사 - 국청회 상임위원 - 청와대 국정상황실 실장 - 대통령비서실 비서실장실 비서관 - 대통령비서실 정책특보 비서관 - 대통령비서실 정책기획수석실 기획조정국장 - 대통령비서실 제1부속실 국장 - 새정치국민회의 김대중 총재 공보비서
+   </memTitle>
+   <origNm>
+    서울 금천구
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    서복성, 곽상민
+   </secretary>
+   <secretary2>
+    백태양, 강정욱, 이세라, 박경훈, 김태헌
+   </secretary2>
+   <shrtNm>
+    공공부문 채용비리 의혹과 관련된 국정조사특별위원회,산업통상자원중소벤처기업위원회,에너지 특별위원회
+   </shrtNm>
+   <staff>
+    서재갑, 이정희
+   </staff>
+  </item>
+ </body>
+</response>

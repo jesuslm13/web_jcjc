@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kss_0909@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/kss_0909
+   </assemHomep>
+   <assemTel>
+    02-784-8780~2
+   </assemTel>
+   <bthDate>
+    19560909
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김성수
+   </empNm>
+   <engNm>
+    KIM SUNGSOO
+   </engNm>
+   <hjNm>
+    金聖洙
+   </hjNm>
+   <memTitle>
+    서울대 독어독문학 졸업 MBC 정치부장, 보도국장 목포 MBC 사장 새정치민주연합 ．더불어민주당 대변인 
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    정인미, 나현진
+   </secretary>
+   <secretary2>
+    김혜리, 구윤아, 민경배, 장연수
+   </secretary2>
+   <shrtNm>
+    4차 산업혁명 특별위원회,과학기술정보방송통신위원회
+   </shrtNm>
+   <staff>
+    정찬호, 이아영
+   </staff>
+  </item>
+ </body>
+</response>

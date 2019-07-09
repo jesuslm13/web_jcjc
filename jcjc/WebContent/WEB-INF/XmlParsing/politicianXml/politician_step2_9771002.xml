@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-9811
+   </assemTel>
+   <bthDate>
+    19570920
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이철규
+   </empNm>
+   <engNm>
+    LEE CHULGYU
+   </engNm>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    李喆圭
+   </hjNm>
+   <origNm>
+    강원 동해시삼척시
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김영범, 조종규
+   </secretary>
+   <secretary2>
+    김연주, 김완기, 이광희, 임효정
+   </secretary2>
+   <shrtNm>
+    사법개혁 특별위원회,산업통상자원중소벤처기업위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    윤준호, 이태훈
+   </staff>
+  </item>
+ </body>
+</response>

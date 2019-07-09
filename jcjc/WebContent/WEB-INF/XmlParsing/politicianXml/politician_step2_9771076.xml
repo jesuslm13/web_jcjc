@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    ltk635@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://ltk2016635.blog.me
+   </assemHomep>
+   <assemTel>
+    02-784-8101
+   </assemTel>
+   <bthDate>
+    19640322
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이태규
+   </empNm>
+   <engNm>
+    LEE TAEKYU
+   </engNm>
+   <hjNm>
+    李泰珪
+   </hjNm>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박종국, 한정훈
+   </secretary>
+   <secretary2>
+    김정락, 성유진, 김현희, 이재훈
+   </secretary2>
+   <shrtNm>
+    공공부문 채용비리 의혹과 관련된 국정조사특별위원회,윤리특별위원회,정무위원회
+   </shrtNm>
+   <staff>
+    김진호
+   </staff>
+  </item>
+ </body>
+</response>

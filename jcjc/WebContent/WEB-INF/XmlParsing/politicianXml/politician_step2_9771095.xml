@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <bthDate>
+    19500414
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    윤일규
+   </empNm>
+   <engNm>
+    YUN IL GYU
+   </engNm>
+   <examCd>
+    수영
+   </examCd>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    尹一逵
+   </hjNm>
+   <origNm>
+    충남 천안시병
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김현지, 박경이
+   </secretary>
+   <secretary2>
+    김요한, 권혁중, 김혜수, 정민경
+   </secretary2>
+   <shrtNm>
+    4차 산업혁명 특별위원회,보건복지위원회
+   </shrtNm>
+   <staff>
+    박종갑, 조기호
+   </staff>
+  </item>
+ </body>
+</response>

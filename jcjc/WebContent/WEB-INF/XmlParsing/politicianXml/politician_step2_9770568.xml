@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    jwp615@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://www.jwp615.com
+   </assemHomep>
+   <assemTel>
+    02-784-4179
+   </assemTel>
+   <bthDate>
+    19420605
+   </bthDate>
+   <electionNum>
+    14,18,19,20대
+   </electionNum>
+   <empNm>
+    박지원
+   </empNm>
+   <engNm>
+    PARK JIEWON
+   </engNm>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    朴智元
+   </hjNm>
+   <memTitle>
+    단국대학교 상학과졸업 (전)대통령비서실장 (전)문화관광부장관
+   </memTitle>
+   <origNm>
+    전남 목포시
+   </origNm>
+   <polyNm>
+    민주평화당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    박지웅, 송진호
+   </secretary>
+   <secretary2>
+    강성안, 문성훈, 문영희, 김현지
+   </secretary2>
+   <shrtNm>
+    법제사법위원회,사법개혁 특별위원회
+   </shrtNm>
+   <staff>
+    김종석, 임채송
+   </staff>
+  </item>
+ </body>
+</response>

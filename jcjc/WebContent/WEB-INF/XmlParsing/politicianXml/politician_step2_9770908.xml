@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    ulsanbmw1@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/ulsanpmw
+   </assemHomep>
+   <assemTel>
+    02-788-2259
+   </assemTel>
+   <bthDate>
+    19511206
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    박맹우
+   </empNm>
+   <engNm>
+    BAK MAENGWOO
+   </engNm>
+   <hjNm>
+    朴孟雨
+   </hjNm>
+   <memTitle>
+    경남고등학교 국민대, 경남대 행정대학원 석사 동의대 대학원 행정학 박사 행정고등고시 25회 경상남도 함안군수 제3·4·5대 울산광역시장 영·호남 시도지사협력회의 의장 전국광역시장협의회 회장 전국시도지사협의회 회장 제19대 국회의원 국회 기획재정위원회 위원 국회 예산결산특별위원회 위원 현) 제20대 국회의원 현) 국회 국토교통위원회 위원 새누리당 전략기획부총장 새누리당 사무총장 자유한국당 울산광역시당 위원장 자유한국당 사무총장 자유한국당 4.12 재보궐선거 공천관리위원장 
+   </memTitle>
+   <origNm>
+    울산 남구을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    유지민, 최형문
+   </secretary>
+   <secretary2>
+    안현진, 권현정, 신옥형, 김민진
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회,에너지 특별위원회
+   </shrtNm>
+   <staff>
+    임명숙, 임지홍
+   </staff>
+  </item>
+ </body>
+</response>

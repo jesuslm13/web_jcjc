@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    7880291@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/lgh59623
+   </assemHomep>
+   <assemTel>
+    02-784-2165
+   </assemTel>
+   <bthDate>
+    19590623
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    이개호
+   </empNm>
+   <engNm>
+    LEE KAIHO
+   </engNm>
+   <examCd>
+    작문
+   </examCd>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    李介昊
+   </hjNm>
+   <memTitle>
+     · 금호고, 전남대 경영학과 졸업 · 제24회 행정고등고시 합격(만21세) · 내무부 지방자치기획단 운영담당관 · 김대중 대통령직인수위원회 행정관 · 목포시, 여수시, 광양시 부시장 · 전남 관광문화국장, 자치행정국장, 기획관리실장 · 행자부 공무원노사협력관, 행안부 기업협력지원관 · 제35대 전라남도 행정부지사(2009. 07 ∼ 2011. 10) · 민주통합당 중앙위원(前) · 국회운영위원회 위원(前) · 새정치민주연합 원내부대표(前) · 더불어민주당 비상대책위원회 위원(前) · 창조경제활성화특별위원회 위원(前) · 미래창조과학방송통신위원회 위원(前) · 더불어민주당 윤리심판원 부원장(前) · 국회 농림축산식품해양수산위원회 간사(前) · 예산결산특별위원회 위원(前) · 더불어민주당 제4정책조정 위원장(前) · 국정기획자문위원회 경제 2분과 위원장 (前) · 국회 농림축산식품해양수산위원회 위원장 직무대리(前) · 더불어민주당 전남도당 위원장 · 더불어민주당 최고위원 
+   </memTitle>
+   <origNm>
+    전남 담양군함평군영광군장성군
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    박일남, 송진원
+   </secretary>
+   <secretary2>
+    정고운, 최주리, 박은석, 곽세문, 조용주
+   </secretary2>
+   <shrtNm>
+    보건복지위원회
+   </shrtNm>
+   <staff>
+    김병권, 이영규
+   </staff>
+  </item>
+ </body>
+</response>

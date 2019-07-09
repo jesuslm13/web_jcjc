@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    ewon33@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/ewon33
+   </assemHomep>
+   <assemTel>
+    02-784-6471
+   </assemTel>
+   <bthDate>
+    19630320
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    이원욱
+   </empNm>
+   <engNm>
+    LEE WONWOOK
+   </engNm>
+   <hjNm>
+    李元旭
+   </hjNm>
+   <memTitle>
+    - 제19대 국회의원 - 국회 동북아역사왜곡대책특별위원회 위원 - 국회 창조경제활성화특별위원회 위원 - 새정치국민회의, 새천년민주당 중앙당 당직자(지방자치국, 기획조정국 부장)(전) - 열린우리당 전자정당실장, 운영지원실장(전) - 새정치민주연합 화성시을지역위원회 위원장(현) - 통합민주당 18대 국회의원 후보(경기도 화성시을 선거구)(전) - 민주통합당 정책위원회 부의장(전) - 노무현재단 기획위원(현) - 조선왕실의궤 환수위원회 실행위원(현) - 녹색연합 정책위원회 위원(전) - 독도수호국제연대 대외협력위원장(전) - 경기도 교육청 경기교육자치협의회 위원(현) - 한국청소년운동연합 화성시 지회장(현) - 삼성희망나눔도시락센터 운영위원(현) - 숲해설가 (산림청 인증) - 기후강사 (화성YMCA) - 사회복지사 2급
+   </memTitle>
+   <origNm>
+    경기 화성시을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    김한섭, 배기철 
+   </secretary>
+   <secretary2>
+    이민희, 김은애, 김민우, 정기연, 박인수
+   </secretary2>
+   <shrtNm>
+    기획재정위원회
+   </shrtNm>
+   <staff>
+    최면호, 서선미
+   </staff>
+  </item>
+ </body>
+</response>

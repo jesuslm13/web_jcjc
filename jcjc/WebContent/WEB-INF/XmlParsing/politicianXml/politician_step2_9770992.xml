@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    south826@naver.com
+   </assemEmail>
+   <assemTel>
+    02-784-2855
+   </assemTel>
+   <bthDate>
+    19600726
+   </bthDate>
+   <electionNum>
+    18,20대
+   </electionNum>
+   <empNm>
+    주광덕
+   </empNm>
+   <engNm>
+    JOO KWANGDEOK
+   </engNm>
+   <examCd>
+    축구
+   </examCd>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    朱光德
+   </hjNm>
+   <memTitle>
+    고려대학교 법학 학사 (현)제20대 국회의원(경기 남양주시병/새누리당) (현)국회 법제사법위원회 위원 (전)국회 헌법개정 및 정치개혁특별위원회 간사 (전)대법원장(김명수)인사청문특별위원회 간사 (전)국회 예산결산특별위원회 간사 대통령실 정무수석실 정무비서관 새누리당 비상대책위원회 위원 한나라당 법률지원단장 한나라당 직능특별위원회 부위원장 한나라당 대표특보 제18대 국회의원 경기도 남양주시 고문변호사 서울지검 의정부지청 검사 서울지검 동부지청 검사 사법연수원 수료(23기) 사법시험 합격(32회)
+   </memTitle>
+   <origNm>
+    경기 남양주시병
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    김기천, 원주영
+   </secretary>
+   <secretary2>
+    김진천, 장범희, 허민아, 김지연, 이주영
+   </secretary2>
+   <shrtNm>
+    법제사법위원회
+   </shrtNm>
+   <staff>
+    이동빈, 차승훈
+   </staff>
+  </item>
+ </body>
+</response>

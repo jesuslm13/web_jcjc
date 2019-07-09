@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    y020607@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.kimjaewon.or.kr
+   </assemHomep>
+   <assemTel>
+    02-784-3190~2
+   </assemTel>
+   <bthDate>
+    19641220
+   </bthDate>
+   <electionNum>
+    17,19,20대
+   </electionNum>
+   <empNm>
+    김재원
+   </empNm>
+   <engNm>
+    KIM JAEWON
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    金在原
+   </hjNm>
+   <memTitle>
+    &amp;lt;학력&amp;gt; 경북 의성 출생 의성 하령초등학교 졸업 의성 안평중학교 재학 / 대구 평리중학교 졸업 대구 심인고등학교 졸업 서울대학교 법과대학 졸업(공법학사) 서울대학교 행정대학원 졸업(행정학 석사) &amp;lt;주요경력&amp;gt; 육군소위 전역 국무총리실, 경북도청 사무관 서울지검, 부산지검 검사 제 17, 19대 국회의원 한나라당 기획위원장, 정보위원장 중국 베이징대학 국제관계학원 연구학자 영남대학교 법학전문대학원 겸임교수 BBS 불교방송 &amp;#039김재원의 아침저널&amp;#039 진행자 새누리당 법률지원단장 국회 농림축산식품해양수산위원회 간사위원 새누리당 전략기획본부장 새누리당 지방선거 기획위원회 부위원장 국회 국정원개혁특위 간사 국회 정치쇄신특별위원회 위원 새누리당 원내수석부대표 중국 푸단대학 한국연구소 고급고문 대통령정무특별보좌관 청와대 정무수석비서관 현) 제20대 국회의원 현) 국회 국토교통위원회 위원 
+   </memTitle>
+   <origNm>
+    경북 상주시군위군의성군청송군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    구영욱, 정윤재
+   </secretary>
+   <secretary2>
+    정우창, 김영민, 양지, 박신희, 송숙현
+   </secretary2>
+   <shrtNm>
+    문화체육관광위원회,에너지 특별위원회,정치개혁 특별위원회
+   </shrtNm>
+   <staff>
+    김원호, 송재욱
+   </staff>
+  </item>
+ </body>
+</response>

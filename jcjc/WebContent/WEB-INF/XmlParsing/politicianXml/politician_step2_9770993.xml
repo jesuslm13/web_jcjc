@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    withgunpo@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://gunpokcw.blog.me
+   </assemHomep>
+   <assemTel>
+    02-784-2417
+   </assemTel>
+   <bthDate>
+    19680618
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    김정우
+   </empNm>
+   <engNm>
+    KIM CHUNGWOO
+   </engNm>
+   <hjNm>
+    金政祐
+   </hjNm>
+   <memTitle>
+    현) 더불어민주당 정책위원회 부의장 전) 더불어민주당 부대변인 전) 세종대학교 행정학과 교수·학과장 전) 기획재정부 국고국 과장 전) 국무총리실 국정운영실 과장
+   </memTitle>
+   <origNm>
+    경기 군포시갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김길전, 최호연
+   </secretary>
+   <secretary2>
+    서혜진, 조성명, 손여정, 김문정
+   </secretary2>
+   <shrtNm>
+    기획재정위원회
+   </shrtNm>
+   <staff>
+    남철희, 박민우
+   </staff>
+  </item>
+ </body>
+</response>

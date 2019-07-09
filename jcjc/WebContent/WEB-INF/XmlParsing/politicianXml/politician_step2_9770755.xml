@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    djhpoem@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://djh333.co.kr
+   </assemHomep>
+   <assemTel>
+    02-784-2537
+   </assemTel>
+   <bthDate>
+    19550927
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    도종환
+   </empNm>
+   <engNm>
+    DO JONGHWAN
+   </engNm>
+   <examCd>
+    시창작
+   </examCd>
+   <hbbyCd>
+    음악감상
+   </hbbyCd>
+   <hjNm>
+    都鍾煥
+   </hjNm>
+   <memTitle>
+    제19 · 20대 국회의원 현) 문화체육관광부 장관 전) 국회 교육문화체육관광위원회 간사 전) 더불어민주당 충북도당위원장 전) 더불어민주당 한국사 교과서 국정화저지 특별위원회 위원장 전) 국회 박근혜정부의 최순실 등 민간인에 의한 국정농단 의혹사건 진상규명을 위한 국정조사 특별위원회 위원
+   </memTitle>
+   <origNm>
+    충북 청주시흥덕구
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    나채선, 이대건
+   </secretary>
+   <secretary2>
+    박용진, 송경화, 남상문, 이기훈
+   </secretary2>
+   <shrtNm>
+    국방위원회
+   </shrtNm>
+   <staff>
+    천준호, 홍수진
+   </staff>
+  </item>
+ </body>
+</response>

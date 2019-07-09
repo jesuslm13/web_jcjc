@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-6960
+   </assemTel>
+   <bthDate>
+    19630427
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    박범계
+   </empNm>
+   <engNm>
+    PARK BEOMKYE
+   </engNm>
+   <examCd>
+    서예
+   </examCd>
+   <hbbyCd>
+    스포츠
+   </hbbyCd>
+   <hjNm>
+    朴範界
+   </hjNm>
+   <origNm>
+    대전 서구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    박수빈, 신지혜
+   </secretary>
+   <secretary2>
+    김성진, 정영모, 김윤희, 강대우
+   </secretary2>
+   <shrtNm>
+    사법개혁 특별위원회,산업통상자원중소벤처기업위원회
+   </shrtNm>
+   <staff>
+    문병남, 윤종우
+   </staff>
+  </item>
+ </body>
+</response>

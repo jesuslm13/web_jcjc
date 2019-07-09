@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-2316
+   </assemTel>
+   <bthDate>
+    19650120
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    엄용수
+   </empNm>
+   <engNm>
+    UM YONGSOO
+   </engNm>
+   <hbbyCd>
+    바둑
+   </hbbyCd>
+   <hjNm>
+    嚴龍洙
+   </hjNm>
+   <origNm>
+    경남 밀양시의령군함안군창녕군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    손승웅, 허성은
+   </secretary>
+   <secretary2>
+    박정환, 장명숙, 박수현, 박찬호
+   </secretary2>
+   <shrtNm>
+    기획재정위원회
+   </shrtNm>
+   <staff>
+    김기철, 윤치업
+   </staff>
+  </item>
+ </body>
+</response>

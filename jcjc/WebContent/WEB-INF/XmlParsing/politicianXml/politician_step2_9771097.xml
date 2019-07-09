@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <bthDate>
+    19610627
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이규희
+   </empNm>
+   <engNm>
+    LEE KYU HEE
+   </engNm>
+   <examCd>
+    도시디자인
+   </examCd>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    李揆熙
+   </hjNm>
+   <origNm>
+    충남 천안시갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박광채, 송소희
+   </secretary>
+   <secretary2>
+    이보람, 이성재, 김기일, 김도연
+   </secretary2>
+   <shrtNm>
+    4차 산업혁명 특별위원회,국토교통위원회
+   </shrtNm>
+   <staff>
+    안국형, 최차일
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-9423
+   </assemTel>
+   <bthDate>
+    19541206
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    정유섭
+   </empNm>
+   <engNm>
+    JUNG YOUSUB
+   </engNm>
+   <hjNm>
+    鄭有燮
+   </hjNm>
+   <memTitle>
+    부평동초·인천중·제물포고 고려대 행정학과(행정고시 22회 합격) 스웨덴 세계해사대학 해양행정 석사 국제노동기구(ILO)파견, 주미대사관 1등서기관(전) 건설교통부 광역교통기획관(전) 국립해양조사원장(전) 인천지방해양수산청장(전) 인천대·인하대 겸임교수(전) 자유한국당 인천시당 위원장(전) 국회 청년미래특위 위원(전) 국회 운영위 위원(전) 자유한국당 중소벤처기업특위 위원장(현) 자유한국당 졸속탈원전 대책특위 위원장(현) 국회 산업통상자원중소벤처기업위 위원(현) 국회 정치개혁특별위원회 간사(현)
+   </memTitle>
+   <origNm>
+    인천 부평구갑
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김기석, 백창현
+   </secretary>
+   <secretary2>
+    정중원, 안정욱, 송기철, 박혜정, 홍태경
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,산업통상자원중소벤처기업위원회,정치개혁 특별위원회
+   </shrtNm>
+   <staff>
+    박병일, 진달범
+   </staff>
+  </item>
+ </body>
+</response>

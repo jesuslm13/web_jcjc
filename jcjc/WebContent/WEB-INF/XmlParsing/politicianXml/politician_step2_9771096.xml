@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    yjhbusan@gmail.com
+   </assemEmail>
+   <assemTel>
+    02-784-0797 / 051-532-8827
+   </assemTel>
+   <bthDate>
+    19670607
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    윤준호
+   </empNm>
+   <engNm>
+    YUN JUNE HO
+   </engNm>
+   <hjNm>
+    尹俊晧
+   </hjNm>
+   <memTitle>
+    - 동아대 정치외교학과, 중국 북경과학기술대학 과학기술교육관리전공 박사과정 수료 - (현)더불어민주당 원내부대표 - (전)더불어민주당 부산시당 대변인 - (전) 한국해양대학교 겸임교수 
+   </memTitle>
+   <origNm>
+    부산 해운대구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    양승준 박주령
+   </secretary>
+   <secretary2>
+    윤성준 최하얀 이창훈 구슬 오성환
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,농림축산식품해양수산위원회,예산결산특별위원회,윤리특별위원회
+   </shrtNm>
+   <staff>
+    이문주 김동주
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <bthDate>
+    19641226
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    여영국
+   </empNm>
+   <engNm>
+    Yeo young kug
+   </engNm>
+   <hjNm>
+    余永國
+   </hjNm>
+   <origNm>
+    경남 창원시성산구
+   </origNm>
+   <polyNm>
+    정의당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+  </item>
+ </body>
+</response>

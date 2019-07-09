@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    cdj523@daum.net
+   </assemEmail>
+   <assemHomep>
+    http://www.choidoja.com
+   </assemHomep>
+   <assemTel>
+    02-784-8640
+   </assemTel>
+   <bthDate>
+    19550304
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    최도자
+   </empNm>
+   <engNm>
+    CHOI DOJA
+   </engNm>
+   <hjNm>
+    崔道子
+   </hjNm>
+   <memTitle>
+    국민의당 원내부대표(여성) 국민의당 중앙위원회 부의장 국회 운영위원회 위원 제20대 국회 보건복지위원회 간사 제20대 국회 미세먼지 대책 특별위원회 간사 제20대 국회 전반기 보건복지위원회 위원 전)제19대 대선 중앙선거대책위원회 직능본부 수석부본부장 전)국민의당 자원봉사위원장 전)국민의당 원내대표 비서실장 
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    심은용, 이정훈
+   </secretary>
+   <secretary2>
+    김혜정, 김영환, 정훈, 김진겸
+   </secretary2>
+   <shrtNm>
+    보건복지위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    배성찬, 조성열
+   </staff>
+  </item>
+ </body>
+</response>

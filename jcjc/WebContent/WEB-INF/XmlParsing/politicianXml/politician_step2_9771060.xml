@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    leejjlaw@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/leejjlaw
+   </assemHomep>
+   <assemTel>
+    02-788-2619
+   </assemTel>
+   <bthDate>
+    19740802
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    이재정
+   </empNm>
+   <engNm>
+    LEE JAEJUNG
+   </engNm>
+   <hjNm>
+    李在汀
+   </hjNm>
+   <memTitle>
+    (現) 20대 더불어민주당 비례대표 (現)국회 행정안전위원회 위원 (現)안양시 동안을 지역위원장 (現)더불어민주당 당대변인 (前)국회 예산결산특별위원회 위원 (前)더불어민주당 국민통합위원회 상임부위원장 (前)더불어민주당 정책위부의장 (前)국회 여성가족위원회 위원 (前)국회 운영위원회 위원 (前)더불어민주당 원내대변인 민주사회를 위한 변호사 모임 사무차장 참여연대 공익법센터 운영위원 세계 시각장애인 경기대회 조직위원회 조직위원 겸 감사 민주사회를 위한 변호사 모임 언론위원회 위원 사법연수원 35기 
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    장연희,박충훈
+   </secretary>
+   <secretary2>
+    김수철,고나형,정재성,박하늘,이슬
+   </secretary2>
+   <shrtNm>
+    공공부문 채용비리 의혹과 관련된 국정조사특별위원회,남북경제협력 특별위원회,행정안전위원회
+   </shrtNm>
+   <staff>
+    송현주
+   </staff>
+  </item>
+ </body>
+</response>

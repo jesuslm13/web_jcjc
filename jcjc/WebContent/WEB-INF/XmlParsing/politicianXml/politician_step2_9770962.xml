@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    khchoo@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/khchoo1224
+   </assemHomep>
+   <assemTel>
+    02-784-8946
+   </assemTel>
+   <bthDate>
+    19600729
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    추경호
+   </empNm>
+   <engNm>
+    CHOO KYUNGHO
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    秋慶鎬
+   </hjNm>
+   <memTitle>
+    1960년 7월 29일생 ■ 학력 · 대구 계성고 · 고려대 경영학과 · 美 오리건대학교 대학원 경제학 석사 · 행정고시 25회 ■ 경력 (현) 자유한국당 전략기획부총장 (현) 자유한국당 제3정책조정위원장 (현) 국회 기획재정위원회 후반기 간사 (현) 국회 남북경제협력특별위원회 간사 (현) 자유한국당 가상화폐대책TF 위원장 (전) 자유한국당 정책위원회 부의장 (전) 여의도연구원 원장 (전) 국무조정실장(장관급) (전) 기획재정부 제1차관 (전) 금융위원회 부위원장 (전) 대통령실 경제금융비서관, 비상경제상황실장 ■ 수상경력 · 2018 국정감사NGO모니터단 선정 국정감사 국리민복상(우수의원상) · 2018 자유한국당 국정감사 우수의원상(3연속) · 2018 자유기업원 자유경제입법상 · 2018 법률소비자연맹 국회의원 헌정대상 · 2017 국정감사NGO모니터단 선정 국정감사 우수의원상 · 2017 국회의장 공로패(국회예산정책처 설립14주년 기념) · 2017 제5회 국회의원 아름다운말 선플상 · 2017 자유한국당 국정감사 우수의원상 · 2016 새누리당 국정감사 우수의원상 · 2005 홍조근정훈장 · 1996 근정포장 
+   </memTitle>
+   <origNm>
+    대구 달성군
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    이상돈, 한동엽
+   </secretary>
+   <secretary2>
+    유성현, 신연희, 우춘화, 안희준, 송민규
+   </secretary2>
+   <shrtNm>
+    기획재정위원회,남북경제협력 특별위원회
+   </shrtNm>
+   <staff>
+    노재국, 최재훈
+   </staff>
+  </item>
+ </body>
+</response>

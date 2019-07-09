@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    yeskt@hanmail.net
+   </assemEmail>
+   <assemTel>
+    02-784-6380
+   </assemTel>
+   <bthDate>
+    19680110
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    조경태
+   </empNm>
+   <engNm>
+    CHO KYOUNGTAE
+   </engNm>
+   <hjNm>
+    趙慶泰
+   </hjNm>
+   <memTitle>
+    - 제 17,18,19,20대 국회의원 - 부산대학교 공학 박사 - 전) 제20대 국회 전반기 기획재정위원회 위원장 - 전) 자유한국당 인재영입위원장 - 현) 한·대만의원친선협회 회장
+   </memTitle>
+   <origNm>
+    부산 사하구을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    오두환, 조용택
+   </secretary>
+   <secretary2>
+    배준성, 최호림, 박수혜, 장재현
+   </secretary2>
+   <shrtNm>
+    문화체육관광위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    성창용, 이동영
+   </staff>
+  </item>
+ </body>
+</response>

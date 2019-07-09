@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    bora_shin7@hanmail.net
+   </assemEmail>
+   <assemTel>
+    02-784-8731
+   </assemTel>
+   <bthDate>
+    19830107
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    신보라
+   </empNm>
+   <engNm>
+    SHIN BORA
+   </engNm>
+   <hjNm>
+    申普羅
+   </hjNm>
+   <memTitle>
+    現) 제 20대 국회의원 (자유한국당,비례대표) 現) 국회 환경노동위원회 위원 現) 국회 여성가족위원회 위원 現) 국회 민생경제특별위원회 위원 前) 청년이여는미래 대표 前) 노사정위원회 청년고용협의회 청년위원 前) 새누리당 중앙차세대여성위원회 부위원장 
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박진우, 이윤희
+   </secretary>
+   <secretary2>
+    백동현,변자경,박민영,박승완,양성옥
+   </secretary2>
+   <shrtNm>
+    여성가족위원회,윤리특별위원회,환경노동위원회
+   </shrtNm>
+   <staff>
+    김소열, 전호민
+   </staff>
+  </item>
+ </body>
+</response>

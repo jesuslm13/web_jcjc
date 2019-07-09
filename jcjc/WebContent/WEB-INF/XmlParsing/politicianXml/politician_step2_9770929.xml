@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    gangbuk24@gmail.com
+   </assemEmail>
+   <assemTel>
+    02-784-9721
+   </assemTel>
+   <bthDate>
+    19710417
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    박용진
+   </empNm>
+   <engNm>
+    PARK YONGJIN
+   </engNm>
+   <hbbyCd>
+    테니스,등산
+   </hbbyCd>
+   <hjNm>
+    朴用鎭
+   </hjNm>
+   <origNm>
+    서울 강북구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    이미혜, 이시성
+   </secretary>
+   <secretary2>
+    조대희, 강기철, 김민영, 이재혁, 서다은
+   </secretary2>
+   <shrtNm>
+    4차 산업혁명 특별위원회,교육위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    김성영, 박상필
+   </staff>
+  </item>
+ </body>
+</response>

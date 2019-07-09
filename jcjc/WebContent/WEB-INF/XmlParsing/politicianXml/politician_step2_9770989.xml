@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    7845285@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/shinchanghyun
+   </assemHomep>
+   <assemTel>
+    02-784-5285~7
+   </assemTel>
+   <bthDate>
+    19530627
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    신창현
+   </empNm>
+   <engNm>
+    SHIN CHANGHYUN
+   </engNm>
+   <examCd>
+    테니스
+   </examCd>
+   <hbbyCd>
+    테니스.등산
+   </hbbyCd>
+   <hjNm>
+    申昌賢
+   </hjNm>
+   <memTitle>
+    ○ 학력 - 고려대학교 행정학 학사 - 속초고등학교 - 남성중학교 ○ 경력 - 제20대 국회의원 - 환경분쟁연구소 소장 - 산업통상자원부 갈등관리심의위원 - 국토교통부 갈등관리심의위원 - 행정안전부 갈등관리심의위원장 - KDI 국제정책대학원 갈등조정협상센터 자문위원 - 국무조정실 갈등관리혁신포럼 자문위원 - 희망제작소 주민참여클리닉 소장 - 강원도 고충처리위원장 - 국가인권위원회 인권침해분과 조정위원 - 노무현 대통령 갈등조정특별위원회 간사위원 - 환경부 중앙환경분쟁조정위원장 - 김대중 대통령 환경비서관 - 제4대 의왕시장 (민선 1기) - 평화민주당 정책전문위원 - 대한민국 해병대 예비역 중위
+   </memTitle>
+   <origNm>
+    경기 의왕시과천시
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    박해원, 임현종
+   </secretary>
+   <secretary2>
+    임상철, 유진, 양다정, 김채영
+   </secretary2>
+   <shrtNm>
+    에너지 특별위원회,환경노동위원회
+   </shrtNm>
+   <staff>
+    이재용, 서창수
+   </staff>
+  </item>
+ </body>
+</response>

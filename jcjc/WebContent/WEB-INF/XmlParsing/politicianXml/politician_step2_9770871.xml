@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    wsh2016v@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://www.woosangho.com
+   </assemHomep>
+   <assemTel>
+    02-784-3071
+   </assemTel>
+   <bthDate>
+    19621212
+   </bthDate>
+   <electionNum>
+    17,19,20대
+   </electionNum>
+   <empNm>
+    우상호
+   </empNm>
+   <engNm>
+    WOO SANGHO
+   </engNm>
+   <examCd>
+    배드민턴
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    禹相虎
+   </hjNm>
+   <memTitle>
+    [ 학력 ] 서울 용문고등학교 졸업 연세대학교 국어국문학과 졸업 연세대학교 행정대학원 졸업 [ 경력 ] (현) 제20대 국회의원(서울 서대문갑) 중국 연태대학교 객좌교수 북한대학원대학교 초빙교수 (사)한국소아당뇨인협회 고문 (사)이한열기념사업회 이사 (전) 더불어민주당 원내대표 더불어민주당 제19대 대선 공동선대위원장 민주당 국정원개혁운동본부 국민홍보단장 민주통합당 제18대 대통령선거 중앙선거대책위원회 공보단장 민주통합당 최고위원 민주통합당 제19대 총선 전략홍보본부장 10.26 서울특별시장 재보궐선거 박원순 후보 대변인 4.27 강원도지사 재보궐선거 최문순 후보 대변인 연세대학교 총동문회 상임이사 민주정책연구원 이사 민주통합당 대변인 민주당 대변인 열린우리당 대변인 통합민주당 대변인 대통합민주신당 대변인 열린우리당 중앙위원 청년정보문화센터 소장 도서출판 두리 대표 전국대학생대표자협의회 동우회 회장 1987년 연세대학교 총학생회장 제17,19대 국회의원 
+   </memTitle>
+   <origNm>
+    서울 서대문구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    신채호 박진
+   </secretary>
+   <secretary2>
+    임소현 김준모 나서라 옥형빈 김유란
+   </secretary2>
+   <shrtNm>
+    문화체육관광위원회
+   </shrtNm>
+   <staff>
+    천석기 이후민
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    jbrave119@naver.com
+   </assemEmail>
+   <assemTel>
+    02-784-7190
+   </assemTel>
+   <bthDate>
+    19620601
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    정용기
+   </empNm>
+   <engNm>
+    JEONG YONGKI
+   </engNm>
+   <hjNm>
+    鄭容起
+   </hjNm>
+   <memTitle>
+    * 대전고등학교 졸업 * 국립경찰대학 1기 명예졸업 * 연세대학교 정치외교학과 졸업 * 고려대학교 행정대학원 졸업(정책학) * 제16대 대통령선거 한나라당 대통령후보 상근 보좌역 * 제9·10대 대전광역시 대덕구청장(2006~2014) * 새누리당 대전시당위원장(2015~2016) * 자유한국당 원내수석대변인(2016.12~2017.12) * 자유한국당 중앙직능위원회 제2본부장(2018.2~2018.12) * 자유한국당 정책위의장(2018.12~)
+   </memTitle>
+   <origNm>
+    대전 대덕구
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    송대호,한승주
+   </secretary>
+   <secretary2>
+    한형민,김진경,송인정,김창규
+   </secretary2>
+   <shrtNm>
+    과학기술정보방송통신위원회
+   </shrtNm>
+   <staff>
+    조용석,최충규
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    kimyoungjoo2018@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://www.youngjoo.kr
+   </assemHomep>
+   <assemTel>
+    02-784-2470
+   </assemTel>
+   <bthDate>
+    19550727
+   </bthDate>
+   <electionNum>
+    17,19,20대
+   </electionNum>
+   <empNm>
+    김영주
+   </empNm>
+   <engNm>
+    KIM YOUNGJOO
+   </engNm>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    金榮珠
+   </hjNm>
+   <memTitle>
+    무학여고 한국방송통신대 서강대 경제대학원(경제학 석사) 졸 전국금융노련 상임부위원장 노무현대통령직 인수위원회 자문위원 17,19,20대 국회의원 통합민주당 사무총장 국회 정무위원회 간사 국회 환경노동위원회 위원장 더불어민주당 최고위원
+   </memTitle>
+   <origNm>
+    서울 영등포구갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    김진욱, 황정이
+   </secretary>
+   <secretary2>
+    이석재, 박성경, 임주연, 정진의
+   </secretary2>
+   <shrtNm>
+    문화체육관광위원회
+   </shrtNm>
+   <staff>
+    조태근, 조태상
+   </staff>
+  </item>
+ </body>
+</response>

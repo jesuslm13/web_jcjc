@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    jisangwuk0516@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/strenue
+   </assemHomep>
+   <assemTel>
+    02-784-9640
+   </assemTel>
+   <bthDate>
+    19650516
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    지상욱
+   </empNm>
+   <engNm>
+    JI SANGWUK
+   </engNm>
+   <examCd>
+    운동
+   </examCd>
+   <hbbyCd>
+    여행
+   </hbbyCd>
+   <hjNm>
+    池尙昱
+   </hjNm>
+   <origNm>
+    서울 중구성동구을
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    김기중, 박기업
+   </secretary>
+   <secretary2>
+    김승용, 김덕화, 김준호, 김상신
+   </secretary2>
+   <shrtNm>
+    남북경제협력 특별위원회,예산결산특별위원회,정무위원회
+   </shrtNm>
+   <staff>
+    김길성, 박홍규
+   </staff>
+  </item>
+ </body>
+</response>

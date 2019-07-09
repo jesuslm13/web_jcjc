@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    suhcw@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://www.suhchungwon.com
+   </assemHomep>
+   <assemTel>
+    02-788-2078
+   </assemTel>
+   <bthDate>
+    19430403
+   </bthDate>
+   <electionNum>
+    11,13,14,15,16,18,19,20대
+   </electionNum>
+   <empNm>
+    서청원
+   </empNm>
+   <engNm>
+    SUH CHUNGWON
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    徐淸源
+   </hjNm>
+   <memTitle>
+    중앙대학교 정외과 졸업 중앙대학교 총학생회장(前) 조선일보 기자(前) 통일민주당 대변인(前) 정무장관(前) 신한국당 원내총무 겸 국회 운영위원장(前) 한나라당 사무총장(前) 한나라당 대표최고위원(前) 친박연대 대표최고위원(前) 중앙대학교 총동창회장(前) 새누리당 상임고문(前) 새누리당 화성시 갑 당협위원장(現) 한일의원연맹 회장(現) 
+   </memTitle>
+   <origNm>
+    경기 화성시갑
+   </origNm>
+   <polyNm>
+    무소속
+   </polyNm>
+   <reeleGbnNm>
+    8선제20대
+   </reeleGbnNm>
+   <secretary>
+    신규하, 이상호
+   </secretary>
+   <secretary2>
+    이준규, 김지선, 문상국, 황은주
+   </secretary2>
+   <shrtNm>
+    국방위원회
+   </shrtNm>
+   <staff>
+    김동식, 유병욱
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    7842760@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://cjs.or.kr
+   </assemHomep>
+   <assemTel>
+    02-784-2760~2
+   </assemTel>
+   <bthDate>
+    19631225
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    조정식
+   </empNm>
+   <engNm>
+    CHO JEONGSIK
+   </engNm>
+   <examCd>
+    바둑
+   </examCd>
+   <hbbyCd>
+    음악감상
+   </hbbyCd>
+   <hjNm>
+    趙正湜
+   </hjNm>
+   <memTitle>
+    동성고등학교 졸업 연세대 건축공학과 졸업 연세대 행정대학원(도시 및 지방행정) 졸업 故 제정구의원 정책 보좌 現 더불어민주당 정책위의장 現 국회 통합과 상생 포럼 대표의원 現 한-우크라이나 의원친선협회 회장 前 국회 국토교통위원회 위원장 前 새정치민주연합 사무총장 前 새정치민주연합 경기도 공천심사위원회 위원장 前 민주당 경기도당 위원장 前 민주당 원내부대표 및 원내대변인 前 민주당 야권통합협상위원회 협상대표단 단장 前 민주통합당 19대 총선 공천심사위원회 위원
+   </memTitle>
+   <origNm>
+    경기 시흥시을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    도수만, 전 성
+   </secretary>
+   <secretary2>
+    강영석, 박은숙, 이재원, 김재훈, 김성준
+   </secretary2>
+   <shrtNm>
+    기획재정위원회,예산결산특별위원회
+   </shrtNm>
+   <staff>
+    윤상은, 한인환
+   </staff>
+  </item>
+ </body>
+</response>

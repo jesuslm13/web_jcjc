@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    7882971@hanmail.net
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/honguirak
+   </assemHomep>
+   <assemTel>
+    02-784-6277
+   </assemTel>
+   <bthDate>
+    19550311
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    홍의락
+   </empNm>
+   <engNm>
+    HONG EUIRAK
+   </engNm>
+   <hjNm>
+    洪宜洛
+   </hjNm>
+   <memTitle>
+    -제19대, 제20대 국회의원(재선, 대구 북구을, 더불어민주당) -경북 봉화 출생 -대구 계성중, 계성고 졸업 -고려대 농경제학과 졸업 -국회 산업통상자원중소벤처기업위원회 간사 위원 -국회 4차산업특별위원회 위원 -더불어민주당 대구 북구을 지역위원장 -더불어민주당 제4정책조정위원장 -더불어민주당 포항지열발전소/지진대책특별위원회 위원장 -더불어민주당 지방혁신균형발전추진단 부단장(공공기관이전분과 위원장) -더불어민주당 국가경제자문회의 위원 -더불어민주당 혁신성장특위 위원 -더불어민주당 기후변화대응 및 에너지전환산업육성 특별위원회 위원 -(전)더불어민주당 TK특위 위원장 -(전)더불어민주당 민생평화상황실 혁신성장팀 팀장 -(전)국회 예결위원, 4차산업특별위원회 여당간사 역임 
+   </memTitle>
+   <origNm>
+    대구 북구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    김병로, 황재홍
+   </secretary>
+   <secretary2>
+    송일용,도소연,홍유정,장유리,배아영,오해인
+   </secretary2>
+   <shrtNm>
+    4차 산업혁명 특별위원회,산업통상자원중소벤처기업위원회
+   </shrtNm>
+   <staff>
+    전재문, 류미란
+   </staff>
+  </item>
+ </body>
+</response>

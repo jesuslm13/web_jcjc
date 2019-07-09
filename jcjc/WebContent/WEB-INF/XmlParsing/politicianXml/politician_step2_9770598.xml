@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    shyoon@na.go.kr
+   </assemEmail>
+   <assemTel>
+    02-788-2805
+   </assemTel>
+   <bthDate>
+    19621201
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    윤상현
+   </empNm>
+   <engNm>
+    YOON SANGHYUN
+   </engNm>
+   <hjNm>
+    尹相現
+   </hjNm>
+   <memTitle>
+    서울대학교 경제학과 미국 조지타운대학원 외교학 석사 미국 조지워싱턴대 국제정치학 박사 하버드대학교 및 미국 의회조사국 객원연구원 미국 존스홉킨스 국제관계대학원(SAIS) 동북아문제담당 초빙조교수 서울대학교 초빙교수 인하대학교 교육연구소 연구교수 재인천 충남도민회 고문 인천광역시 축구연합회 회장 인천광역시 배드민턴연합회 자문위원 남구 태권도연합회 고문 남구 야구연합회 고문 한국교통장애인협회 인천 시지부 자문위원 인천 개인택시운송사업조합 자문위원 제18, 19, 20대 국회의원(현) 국회 외교통일위원회 위원(현) 새누리당 사무총장 새누리당 원내수석부대표 새누리당 대변인 새누리당 원내부대표 새누리당 국제위원장 새누리당 인천광역시당위원장 새누리당 외교역량강화특별위원회 부위원장 새누리당 6.4 지방선거 인천시당 공천심사 위원장 국회 정보위원회 간사 국회 운영위원회 간사
+   </memTitle>
+   <origNm>
+    인천 미추홀구을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    강현숙, 장혜선
+   </secretary>
+   <secretary2>
+    류미숙, 이신훈, 변시후, 김지연
+   </secretary2>
+   <shrtNm>
+    외교통일위원회
+   </shrtNm>
+   <staff>
+    김종현, 조옥주
+   </staff>
+  </item>
+ </body>
+</response>

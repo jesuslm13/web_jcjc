@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    uljukang@assembly.go.kr
+   </assemEmail>
+   <assemTel>
+    02-788-2708
+   </assemTel>
+   <bthDate>
+    19420605
+   </bthDate>
+   <electionNum>
+    17,18,19,20대
+   </electionNum>
+   <empNm>
+    강길부
+   </empNm>
+   <engNm>
+    KANG GHILBOO
+   </engNm>
+   <examCd>
+    건설전문가
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    姜吉夫
+   </hjNm>
+   <memTitle>
+    서울대 환경대학원 졸업, 대통령 건설교통 비서관, 건설교통부차관
+   </memTitle>
+   <origNm>
+    울산 울주군
+   </origNm>
+   <polyNm>
+    무소속
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    이수철, 차상윤
+   </secretary>
+   <secretary2>
+    고길주, 김변호, 장경희, 박금숙
+   </secretary2>
+   <shrtNm>
+    산업통상자원중소벤처기업위원회
+   </shrtNm>
+   <staff>
+    윤지현, 정재원
+   </staff>
+  </item>
+ </body>
+</response>

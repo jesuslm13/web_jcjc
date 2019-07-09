@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    k041036@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://m.blog.naver.com/k041036
+   </assemHomep>
+   <assemTel>
+    02-784-6201
+   </assemTel>
+   <bthDate>
+    19721108
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    이언주
+   </empNm>
+   <engNm>
+    LEE UNJU
+   </engNm>
+   <hjNm>
+    李彦周
+   </hjNm>
+   <memTitle>
+    [경력] 現 산업통상자원중소벤처기업위원회 간사 現 국회의원연구단체 ‘자유민주포럼’ 대표 現 국회의원모임 ‘시장경제살리기연대’ 대표 現 시민단체 &amp;#039행동하는 자유시민&amp;#039 대표 前 한국여성변호사회 상임이사 前 S-oil 법무총괄 상무/윤리위원(2008,2009년 대한민국 30대 기업 최연소 임원) 제39회사법시험합격(사법연수원 29기) [학력] 서울대학교 불어불문학과(부전공 법학) Northwestern University 법학석사 연세대학교 법무대학원 경제법석사 
+   </memTitle>
+   <origNm>
+    경기 광명시을
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    김영환, 최해범
+   </secretary>
+   <secretary2>
+    이지원, 길유영, 김혜란
+   </secretary2>
+   <shrtNm>
+    행정안전위원회
+   </shrtNm>
+   <staff>
+    김종오, 조연경
+   </staff>
+  </item>
+ </body>
+</response>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    cys9904@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/wjddidtjr4u
+   </assemHomep>
+   <assemTel>
+    02-784-5260
+   </assemTel>
+   <bthDate>
+    19581125
+   </bthDate>
+   <electionNum>
+    18,20대
+   </electionNum>
+   <empNm>
+    정양석
+   </empNm>
+   <engNm>
+    CHEONG YANGSEOG
+   </engNm>
+   <hbbyCd>
+    독서,등산
+   </hbbyCd>
+   <hjNm>
+    鄭亮碩
+   </hjNm>
+   <memTitle>
+    전남대학교 졸업 서강대학교 공공정책 대학원 국제관계학 졸업 (전) 한나라당 수석 부대변인 (전) 한나라당 대표비서실 실장 (전) 새누리당 중앙연수원 원장 (전) 새누리당 제2사무부총장 (현) 외교통일위 위원
+   </memTitle>
+   <origNm>
+    서울 강북구갑
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    백종욱, 인현식
+   </secretary>
+   <secretary2>
+    신동걸 , 김성순
+   </secretary2>
+   <shrtNm>
+    국회운영위원회,외교통일위원회
+   </shrtNm>
+   <staff>
+    김수철, 이정현
+   </staff>
+  </item>
+ </body>
+</response>

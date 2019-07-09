@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemTel>
+    02-784-4071
+   </assemTel>
+   <bthDate>
+    19630617
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    민경욱
+   </empNm>
+   <engNm>
+    MIN KYUNGWOOK
+   </engNm>
+   <hbbyCd>
+    영화감상
+   </hbbyCd>
+   <hjNm>
+    閔庚旭
+   </hjNm>
+   <origNm>
+    인천 연수구을
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    강경민, 최연우
+   </secretary>
+   <secretary2>
+    김용종, 유창은, 허정선, 김경훈
+   </secretary2>
+   <shrtNm>
+    국토교통위원회
+   </shrtNm>
+   <staff>
+    박종효, 임원식
+   </staff>
+  </item>
+ </body>
+</response>

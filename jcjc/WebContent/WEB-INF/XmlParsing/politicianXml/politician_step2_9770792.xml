@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    mentshin@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.mentshin.com
+   </assemHomep>
+   <assemTel>
+    02-784-8950
+   </assemTel>
+   <bthDate>
+    19530819
+   </bthDate>
+   <electionNum>
+    19,20대
+   </electionNum>
+   <empNm>
+    신경민
+   </empNm>
+   <engNm>
+    SHIN KYOUNGMIN
+   </engNm>
+   <hjNm>
+    辛京珉
+   </hjNm>
+   <memTitle>
+    - 서울대 사회학과 졸업 - 고려대대학교 대학원 언론학 석사과정 수료 - MBC 뉴스데스크 앵커 - MBC 워싱턴 특파원 - 이화여자대학교 언론정보학과 겸임교수 - 민주통합당 대변인 - 새정치민주연합 최고위원 - 더불어민주당 서울시당 위원장 - 법조언론인클럽 부회장 - 육군본부 자문위원 - 외교통상부 자문위원
+   </memTitle>
+   <origNm>
+    서울 영등포구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    김관민, 이소영
+   </secretary>
+   <secretary2>
+    김현주, 임동신, 이종찬, 유새롬
+   </secretary2>
+   <shrtNm>
+    교육위원회,여성가족위원회
+   </shrtNm>
+   <staff>
+    박병석, 정천호
+   </staff>
+  </item>
+ </body>
+</response>

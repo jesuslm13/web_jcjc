@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    csa2418@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.ebyon.com
+   </assemHomep>
+   <assemTel>
+    02-784-3285
+   </assemTel>
+   <bthDate>
+    19630307
+   </bthDate>
+   <electionNum>
+    18,19,20대
+   </electionNum>
+   <empNm>
+    이춘석
+   </empNm>
+   <engNm>
+    LEE CHOONSUAK
+   </engNm>
+   <hbbyCd>
+    등산
+   </hbbyCd>
+   <hjNm>
+    李春錫
+   </hjNm>
+   <memTitle>
+    학력 - 황등초·중, 남성고 졸업 - 한양대학교 법학과 졸업 - 원광대학교 일반대학원 법학과 석사과정 졸업 - 원광대학교 일반대학원 법학과 박사과정 수료 경력 - 제30회 사법고시 합격(1988년) - (전)법무법인 한솔종합법률사무소 대표변호사 - (전) 원광대학교 법학과 겸임교수 - 익산시 배구협회 회장 - (사)장애인을 사랑하는 모임 상임이사 - 군산·익산범죄피해자지원센터 이사 - (전)민주당 인권특위 위원장 - (전)민주당 원내부대표 - (전)민주당 대변인 - 민주통합당 제1정조위원장 - (전)국회 정치개혁특별위원회 위원 - (전)국회 사법개혁특별위원회 위원 - (전)국회 예산결산특별위원회 위원 - (전)국회 운영위원회 위원 - 국회 법제사법위원회 간사 - BBK진상조사위원장 정봉주 구명위원회 위원 - MB정권 비리와 불법비자금 진상조사특별위원회 위원 - 한미FTA무효화 투쟁위원회 위원 - 현 민주통합당 전라북도당위원장
+   </memTitle>
+   <origNm>
+    전북 익산시갑
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    3선제20대
+   </reeleGbnNm>
+   <secretary>
+    이정원, 장광진
+   </secretary>
+   <secretary2>
+    권순영, 김아람, 강종성, 권성희
+   </secretary2>
+   <shrtNm>
+    4차 산업혁명 특별위원회,법제사법위원회
+   </shrtNm>
+   <staff>
+    이규연, 이창필
+   </staff>
+  </item>
+ </body>
+</response>

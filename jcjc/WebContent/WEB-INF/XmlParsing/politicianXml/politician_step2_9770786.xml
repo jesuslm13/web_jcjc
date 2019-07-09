@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    sulhoon21@naver.com
+   </assemEmail>
+   <assemHomep>
+    http://www.sulhoon.com
+   </assemHomep>
+   <assemTel>
+    02-784-8570
+   </assemTel>
+   <bthDate>
+    19530423
+   </bthDate>
+   <electionNum>
+    15,16,19,20대
+   </electionNum>
+   <empNm>
+    설훈
+   </empNm>
+   <engNm>
+    SUL HOON
+   </engNm>
+   <hbbyCd>
+    바둑
+   </hbbyCd>
+   <hjNm>
+    薛勳
+   </hjNm>
+   <memTitle>
+    마산중.고등학교 졸업 고려대 사학과 졸업 김대중총재보좌관 새정치국민회의 기획조정위원장 새천년민주당 시민사회위원장 중국 북경대학교 아태연구원 교수급객좌연구원 행동하는양심 부이사장 새희망포럼 대표 민족화해협력범국민협의회(민화협) 공동상임의장 국회 기획재정위원 국회 남북관계발전특별위원 민주통합당 부천원미을지역위원장 민주통합당 비상대책위원 새정치민주연합 공공부문민영화저지특별위원장 국회 교육문화체육관광위원장 국회 농림축산식품해양수산위원장 제15.16.19. 20대 국회의원 
+   </memTitle>
+   <origNm>
+    경기 부천시원미구을
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    4선제20대
+   </reeleGbnNm>
+   <secretary>
+    오경환, 이재영
+   </secretary>
+   <secretary2>
+    김대주, 김수상, 박미경, 임정민
+   </secretary2>
+   <shrtNm>
+    남북경제협력 특별위원회,환경노동위원회
+   </shrtNm>
+   <staff>
+    백황선, 서용주
+   </staff>
+  </item>
+ </body>
+</response>

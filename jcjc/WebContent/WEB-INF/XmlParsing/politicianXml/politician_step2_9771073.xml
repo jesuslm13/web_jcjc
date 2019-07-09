@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    assembly506@gmail.com
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/suns998
+   </assemHomep>
+   <assemTel>
+    02-784-2390
+   </assemTel>
+   <bthDate>
+    19601201
+   </bthDate>
+   <electionNum>
+    18,20대
+   </electionNum>
+   <empNm>
+    박선숙
+   </empNm>
+   <engNm>
+    PARK SUNSOOK
+   </engNm>
+   <hbbyCd>
+    영화관람
+   </hbbyCd>
+   <hjNm>
+    朴仙淑
+   </hjNm>
+   <memTitle>
+    - 서강대 공공정책대학원 석사 - 대통령비서실 공보수석 비서관 겸 대변인 - 환경부 차관 - 제18대 국회 정무위원회 위원 - 국회 남북관계발전특별위원회 간사 - 현)국회 정무위원회 위원 - 현)국회 한반도평화포럼 대표 
+   </memTitle>
+   <origNm>
+    비례대표
+   </origNm>
+   <polyNm>
+    바른미래당
+   </polyNm>
+   <reeleGbnNm>
+    재선제20대
+   </reeleGbnNm>
+   <secretary>
+    조한일, 홍신
+   </secretary>
+   <secretary2>
+    송주섭, 하수철, 김수현
+   </secretary2>
+   <shrtNm>
+    과학기술정보방송통신위원회
+   </shrtNm>
+   <staff>
+    김형민, 이정현
+   </staff>
+  </item>
+ </body>
+</response>

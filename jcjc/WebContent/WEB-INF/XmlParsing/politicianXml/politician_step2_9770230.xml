@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    skchung@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://blog.naver.com/skchung926
+   </assemHomep>
+   <assemTel>
+    02-788-2895
+   </assemTel>
+   <bthDate>
+    19500926
+   </bthDate>
+   <electionNum>
+    15,16,17,18,19,20대
+   </electionNum>
+   <empNm>
+    정세균
+   </empNm>
+   <engNm>
+    CHUNG SYEKYUN
+   </engNm>
+   <examCd>
+    영어회화
+   </examCd>
+   <hbbyCd>
+    독서
+   </hbbyCd>
+   <hjNm>
+    丁世均
+   </hjNm>
+   <memTitle>
+    ●학력 - 전주신흥고 - 고려대학교 법과대학 법학과 졸업 - 미국 페퍼다인 대학 경영학 석사(MBA) - 경희대학교 경영학 박사 ● 경력 - 고려대학교 총학생회장 - 새정치국민회의 김대중총재 특별보좌역 - 연청중앙회장 - 새정치국민회의 원내수석부총무 - 새천년민주당 전라북도 도지부장 - 새천년민주당 정책위의장 - 열린우리당 정책위의장 - 열린우리당 당의장.원내대표 - 산업자원부 장관 - 통합민주당 상임고문 - 민주당대표 - 민주당최고위원 - 더불어민주당 유능한경제정당위원회 위원장 - 제20대 국회 전반기 국회의장
+   </memTitle>
+   <origNm>
+    서울 종로구
+   </origNm>
+   <polyNm>
+    더불어민주당
+   </polyNm>
+   <reeleGbnNm>
+    6선제20대
+   </reeleGbnNm>
+   <secretary>
+    김경훈, 김형배
+   </secretary>
+   <secretary2>
+    문상철, 박숙영, 박태준, 황수오
+   </secretary2>
+   <shrtNm>
+    문화체육관광위원회
+   </shrtNm>
+   <staff>
+    강성용, 곽민욱
+   </staff>
+  </item>
+ </body>
+</response>

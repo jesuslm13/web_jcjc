@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+ <header>
+  <resultCode>
+   00
+  </resultCode>
+  <resultMsg>
+   NORMAL SERVICE.
+  </resultMsg>
+ </header>
+ <body>
+  <item>
+   <assemEmail>
+    icheonsarang734@assembly.go.kr
+   </assemEmail>
+   <assemHomep>
+    http://icheonsarang.com/
+   </assemHomep>
+   <assemTel>
+    02-784-3161
+   </assemTel>
+   <bthDate>
+    19640310
+   </bthDate>
+   <electionNum>
+    20대
+   </electionNum>
+   <empNm>
+    송석준
+   </empNm>
+   <engNm>
+    SONG SEOGJUN
+   </engNm>
+   <hbbyCd>
+    등산.축구
+   </hbbyCd>
+   <hjNm>
+    宋錫俊
+   </hjNm>
+   <memTitle>
+    이천 송곡초 졸업(32회) 이천 경남중 졸업(23회) 이천 경남종고~서울 인창고 졸업(29회) 서울대학교 국제경제학과 (경제학 학사) 서울대학교 행정대학원 정책학 전공(행정학 석사) 美, 미주리대학교 경제학과 (경제학 박사) 現 제20대 국회의원(경기 이천) 행정고시 34회 합격 해병장교 학사 21기 前 건설교통부 주거복지과 과장 前 대통령비서실 행정관 前 국토해양부 재정담당관 前 국무총리실 새만큼사업추진기획단 국장 前 국토해양부 국토정보정책관 前 국토교통부 대변인 前 국토교통부 건설정책국 국장 前 서울지방국토관리청 청장
+   </memTitle>
+   <origNm>
+    경기 이천시
+   </origNm>
+   <polyNm>
+    자유한국당
+   </polyNm>
+   <reeleGbnNm>
+    초선제20대
+   </reeleGbnNm>
+   <secretary>
+    공만식, 김종현
+   </secretary>
+   <secretary2>
+    정대훈, 심경석, 이수지, 박소정
+   </secretary2>
+   <shrtNm>
+    국토교통위원회,국회운영위원회,남북경제협력 특별위원회
+   </shrtNm>
+   <staff>
+    박범영, 유명현
+   </staff>
+  </item>
+ </body>
+</response>
